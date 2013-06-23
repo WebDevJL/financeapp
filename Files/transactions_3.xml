@@ -11,6 +11,7 @@
       <name>Someone</name>
     </payee>
     <amount>-37.33</amount>
+    <ConvertedValue>-27.72</ConvertedValue>
     <notes>unicef donation</notes>
   </transaction>
   <transaction ID="t_10556">
@@ -24,6 +25,7 @@
       <name>Me</name>
     </payee>
     <amount>-416.00</amount>
+    <ConvertedValue>-308.86</ConvertedValue>
     <notes>Transfer (1Euro = 1,3812$)</notes>
   </transaction>
   <transaction ID="t_10563">
@@ -37,6 +39,7 @@
       <name>Someone</name>
     </payee>
     <amount>-16.33</amount>
+    <ConvertedValue>-12.23</ConvertedValue>
     <notes>Wine for Dave</notes>
   </transaction>
   <transaction ID="t_10561">
@@ -50,6 +53,7 @@
       <name>Someone</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-14.98</ConvertedValue>
     <notes>Gas for Aure's car</notes>
   </transaction>
   <transaction ID="t_10555">
@@ -63,6 +67,7 @@
       <name>Someone</name>
     </payee>
     <amount>-110.00</amount>
+    <ConvertedValue>-82.52</ConvertedValue>
     <notes>Dinner at Rancho Pinot</notes>
   </transaction>
   <transaction ID="t_10554">
@@ -76,6 +81,7 @@
       <name>Someone</name>
     </payee>
     <amount>-33.75</amount>
+    <ConvertedValue>-25.32</ConvertedValue>
     <notes>Gift to Aurelie and Dave</notes>
   </transaction>
   <transaction ID="t_10553">
@@ -89,6 +95,7 @@
       <name>Someone</name>
     </payee>
     <amount>-7.63</amount>
+    <ConvertedValue>-5.72</ConvertedValue>
     <notes>Flowers</notes>
   </transaction>
   <transaction ID="t_10551">
@@ -102,6 +109,7 @@
       <name>Someone</name>
     </payee>
     <amount>250.00</amount>
+    <ConvertedValue>187.55</ConvertedValue>
     <notes>Benotto Road bike</notes>
   </transaction>
   <transaction ID="t_10548">
@@ -115,6 +123,7 @@
       <name>Someone</name>
     </payee>
     <amount>-0.99</amount>
+    <ConvertedValue>-0.74</ConvertedValue>
     <notes>fedex computing</notes>
   </transaction>
   <transaction ID="t_10547">
@@ -128,6 +137,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-29.60</amount>
+    <ConvertedValue>-22.22</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10546">
@@ -141,6 +151,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-1.27</amount>
+    <ConvertedValue>-0.95</ConvertedValue>
     <notes>toilet tissue</notes>
   </transaction>
   <transaction ID="t_10544">
@@ -154,6 +165,7 @@
       <name>Someone</name>
     </payee>
     <amount>-22.00</amount>
+    <ConvertedValue>-22.00</ConvertedValue>
     <notes>Olive garden's dinner</notes>
   </transaction>
   <transaction ID="t_10543">
@@ -167,6 +179,7 @@
       <name>Someone</name>
     </payee>
     <amount>-14.53</amount>
+    <ConvertedValue>-10.91</ConvertedValue>
     <notes>arm sling</notes>
   </transaction>
   <transaction ID="t_10542">
@@ -180,6 +193,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-5.23</amount>
+    <ConvertedValue>-3.93</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10539">
@@ -193,6 +207,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-7.89</amount>
+    <ConvertedValue>-5.92</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10538">
@@ -206,6 +221,7 @@
       <name>Someone</name>
     </payee>
     <amount>-4.60</amount>
+    <ConvertedValue>-3.45</ConvertedValue>
     <notes>stamps, card</notes>
   </transaction>
   <transaction ID="t_10535">
@@ -219,6 +235,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-0.89</amount>
+    <ConvertedValue>-0.89</ConvertedValue>
     <notes>dance</notes>
   </transaction>
   <transaction ID="t_10534">
@@ -232,6 +249,7 @@
       <name>Someone</name>
     </payee>
     <amount>-5.00</amount>
+    <ConvertedValue>-5.00</ConvertedValue>
     <notes>dance</notes>
   </transaction>
   <transaction ID="t_10536">
@@ -245,6 +263,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-28.44</amount>
+    <ConvertedValue>-21.43</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10533">
@@ -258,6 +277,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-3.17</amount>
+    <ConvertedValue>-2.39</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10532">
@@ -271,6 +291,7 @@
       <name>Someone</name>
     </payee>
     <amount>-5.00</amount>
+    <ConvertedValue>-3.83</ConvertedValue>
     <notes>climbing gears</notes>
   </transaction>
   <transaction ID="t_10524">
@@ -284,6 +305,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-45.20</amount>
+    <ConvertedValue>-34.62</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10519">
@@ -297,6 +319,7 @@
       <name>Someone</name>
     </payee>
     <amount>200.00</amount>
+    <ConvertedValue>153.39</ConvertedValue>
     <notes>Money back</notes>
   </transaction>
   <transaction ID="t_10517">
@@ -310,6 +333,7 @@
       <name>Safeway</name>
     </payee>
     <amount>-15.92</amount>
+    <ConvertedValue>-12.21</ConvertedValue>
     <notes>cotton tige, brosse à dents, dentifrice</notes>
   </transaction>
   <transaction ID="t_10513">
@@ -323,6 +347,7 @@
       <name>Safeway</name>
     </payee>
     <amount>-4.99</amount>
+    <ConvertedValue>-3.83</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10505">
@@ -336,6 +361,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-27.21</amount>
+    <ConvertedValue>-20.91</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10503">
@@ -349,6 +375,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-71.70</amount>
+    <ConvertedValue>-55.10</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10502">
@@ -362,6 +389,7 @@
       <name>Me</name>
     </payee>
     <amount>360.00</amount>
+    <ConvertedValue>276.67</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10501">
@@ -375,6 +403,7 @@
       <name>Someone</name>
     </payee>
     <amount>-7.00</amount>
+    <ConvertedValue>-5.28</ConvertedValue>
     <notes>dance night</notes>
   </transaction>
   <transaction ID="t_10494">
@@ -388,6 +417,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-21.45</amount>
+    <ConvertedValue>-21.45</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10493">
@@ -401,6 +431,7 @@
       <name>Someone</name>
     </payee>
     <amount>-16.83</amount>
+    <ConvertedValue>-16.83</ConvertedValue>
     <notes>$15 AT&amp;T recharge</notes>
   </transaction>
   <transaction ID="t_10492">
@@ -414,7 +445,22 @@
       <name>Someone</name>
     </payee>
     <amount>-9.50</amount>
+    <ConvertedValue>-9.50</ConvertedValue>
     <notes>Les Miserables Movie</notes>
+  </transaction>
+  <transaction ID="t_10481">
+    <date>2013-01-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="46" name="Monthly budget"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>300.00</amount>
+    <ConvertedValue>300.00</ConvertedValue>
+    <notes></notes>
   </transaction>
   <transaction ID="t_10476">
     <date>2012-12-30</date>
@@ -427,6 +473,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-23.01</amount>
+    <ConvertedValue>-23.01</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10475">
@@ -440,6 +487,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-5.91</amount>
+    <ConvertedValue>-5.91</ConvertedValue>
     <notes>toilet paper, tissues</notes>
   </transaction>
   <transaction ID="t_10473">
@@ -453,6 +501,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-58.60</amount>
+    <ConvertedValue>-58.60</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10472">
@@ -466,6 +515,7 @@
       <name>Someone</name>
     </payee>
     <amount>-87.68</amount>
+    <ConvertedValue>-66.09</ConvertedValue>
     <notes>snowshoes rental</notes>
   </transaction>
   <transaction ID="t_10471">
@@ -479,6 +529,7 @@
       <name>Someone</name>
     </payee>
     <amount>-51.00</amount>
+    <ConvertedValue>-38.44</ConvertedValue>
     <notes>ski lift</notes>
   </transaction>
   <transaction ID="t_10470">
@@ -492,6 +543,7 @@
       <name>Someone</name>
     </payee>
     <amount>-51.00</amount>
+    <ConvertedValue>-51.00</ConvertedValue>
     <notes>ski lift</notes>
   </transaction>
   <transaction ID="t_10464">
@@ -505,6 +557,7 @@
       <name>Someone</name>
     </payee>
     <amount>-7.00</amount>
+    <ConvertedValue>-7.00</ConvertedValue>
     <notes>dance night out</notes>
   </transaction>
   <transaction ID="t_10461">
@@ -518,6 +571,7 @@
       <name>Barber Shop</name>
     </payee>
     <amount>-16.00</amount>
+    <ConvertedValue>-12.11</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10460">
@@ -531,6 +585,7 @@
       <name>Someone</name>
     </payee>
     <amount>-21.73</amount>
+    <ConvertedValue>-16.45</ConvertedValue>
     <notes>Thermos</notes>
   </transaction>
   <transaction ID="t_10459">
@@ -544,6 +599,7 @@
       <name>Someone</name>
     </payee>
     <amount>-5.81</amount>
+    <ConvertedValue>-4.40</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10458">
@@ -557,6 +613,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-25.43</amount>
+    <ConvertedValue>-19.25</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10457">
@@ -570,6 +627,7 @@
       <name>Someone</name>
     </payee>
     <amount>180.00</amount>
+    <ConvertedValue>135.32</ConvertedValue>
     <notes>Gift from Aurélie</notes>
   </transaction>
   <transaction ID="t_10456">
@@ -583,6 +641,7 @@
       <name>Someone</name>
     </payee>
     <amount>120.00</amount>
+    <ConvertedValue>90.21</ConvertedValue>
     <notes>Nate refund (1Eur=1,32USD)</notes>
   </transaction>
   <transaction ID="t_10450">
@@ -596,6 +655,7 @@
       <name>Fry shop</name>
     </payee>
     <amount>-2.82</amount>
+    <ConvertedValue>-2.14</ConvertedValue>
     <notes>Sponges for medical care</notes>
   </transaction>
   <transaction ID="t_10446">
@@ -609,6 +669,7 @@
       <name>Frys Food shop</name>
     </payee>
     <amount>-6.10</amount>
+    <ConvertedValue>-4.64</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10445">
@@ -622,6 +683,7 @@
       <name>Pharmacy</name>
     </payee>
     <amount>-3.27</amount>
+    <ConvertedValue>-2.48</ConvertedValue>
     <notes>aleve</notes>
   </transaction>
   <transaction ID="t_10444">
@@ -635,6 +697,7 @@
       <name>Dentist</name>
     </payee>
     <amount>-251.00</amount>
+    <ConvertedValue>-190.73</ConvertedValue>
     <notes>tooth pulled</notes>
   </transaction>
   <transaction ID="t_10443">
@@ -648,6 +711,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-11.63</amount>
+    <ConvertedValue>-11.63</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10441">
@@ -661,6 +725,7 @@
       <name>Someone</name>
     </payee>
     <amount>-11.00</amount>
+    <ConvertedValue>-8.44</ConvertedValue>
     <notes>jewelery for Aurélie</notes>
   </transaction>
   <transaction ID="t_10436">
@@ -674,6 +739,7 @@
       <name>Someone</name>
     </payee>
     <amount>-1.30</amount>
+    <ConvertedValue>-1.00</ConvertedValue>
     <notes>postcards</notes>
   </transaction>
   <transaction ID="t_10449">
@@ -687,6 +753,7 @@
       <name>Me</name>
     </payee>
     <amount>-4.68</amount>
+    <ConvertedValue>-3.60</ConvertedValue>
     <notes>Rebalance account</notes>
   </transaction>
   <transaction ID="t_10448">
@@ -700,6 +767,7 @@
       <name>Someone</name>
     </payee>
     <amount>-0.92</amount>
+    <ConvertedValue>-0.71</ConvertedValue>
     <notes>Gift to Savannah &amp; Cheyanne</notes>
   </transaction>
   <transaction ID="t_10447">
@@ -713,6 +781,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-28.45</amount>
+    <ConvertedValue>-21.90</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10442">
@@ -726,6 +795,7 @@
       <name>Me</name>
     </payee>
     <amount>365.00</amount>
+    <ConvertedValue>280.92</ConvertedValue>
     <notes>300 Euro conversion</notes>
   </transaction>
   <transaction ID="t_10417">
@@ -739,6 +809,7 @@
       <name>Me</name>
     </payee>
     <amount>200.00</amount>
+    <ConvertedValue>154.68</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10416">
@@ -752,6 +823,7 @@
       <name>Someone</name>
     </payee>
     <amount>-25.65</amount>
+    <ConvertedValue>-19.84</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10404">
@@ -765,6 +837,7 @@
       <name>Someone</name>
     </payee>
     <amount>-12.00</amount>
+    <ConvertedValue>-12.00</ConvertedValue>
     <notes>Chez Vous resto</notes>
   </transaction>
   <transaction ID="t_10403">
@@ -778,6 +851,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-45.98</amount>
+    <ConvertedValue>-35.63</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10402">
@@ -791,6 +865,7 @@
       <name>Someone</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-15.30</ConvertedValue>
     <notes>racket ball with dave</notes>
   </transaction>
   <transaction ID="t_10401">
@@ -804,6 +879,7 @@
       <name>Someone</name>
     </payee>
     <amount>-18.00</amount>
+    <ConvertedValue>-13.78</ConvertedValue>
     <notes>climbing fee+harness</notes>
   </transaction>
   <transaction ID="t_10400">
@@ -817,6 +893,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-3.43</amount>
+    <ConvertedValue>-2.63</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10399">
@@ -830,6 +907,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-20.75</amount>
+    <ConvertedValue>-15.88</ConvertedValue>
     <notes>2 x bungee</notes>
   </transaction>
   <transaction ID="t_10398">
@@ -843,6 +921,7 @@
       <name>Hardware store</name>
     </payee>
     <amount>-3.15</amount>
+    <ConvertedValue>-2.41</ConvertedValue>
     <notes>2 x bungee</notes>
   </transaction>
   <transaction ID="t_10397">
@@ -856,6 +935,7 @@
       <name>Someone</name>
     </payee>
     <amount>-118.21</amount>
+    <ConvertedValue>-90.48</ConvertedValue>
     <notes>new wheels for Phoenix bike</notes>
   </transaction>
   <transaction ID="t_10391">
@@ -869,6 +949,7 @@
       <name>Someone</name>
     </payee>
     <amount>-13.50</amount>
+    <ConvertedValue>-10.31</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10389">
@@ -882,6 +963,7 @@
       <name>Trader Joe</name>
     </payee>
     <amount>-32.55</amount>
+    <ConvertedValue>-24.86</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10387">
@@ -895,6 +977,7 @@
       <name>Sprouts market</name>
     </payee>
     <amount>-60.91</amount>
+    <ConvertedValue>-46.65</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10386">
@@ -908,6 +991,7 @@
       <name>Someone</name>
     </payee>
     <amount>-25.00</amount>
+    <ConvertedValue>-19.15</ConvertedValue>
     <notes>Credit for december (480-370-4195)</notes>
   </transaction>
   <transaction ID="t_10384">
@@ -921,7 +1005,22 @@
       <name>Someone</name>
     </payee>
     <amount>-11.08</amount>
+    <ConvertedValue>-11.08</ConvertedValue>
     <notes>Food at chicago O'hare</notes>
+  </transaction>
+  <transaction ID="t_10350">
+    <date>2012-12-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="46" name="Monthly budget"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>300.00</amount>
+    <ConvertedValue>300.00</ConvertedValue>
+    <notes></notes>
   </transaction>
   <transaction ID="t_10203">
     <date>2012-10-01</date>
@@ -934,6 +1033,7 @@
       <name>Me</name>
     </payee>
     <amount>0.00</amount>
+    <ConvertedValue>0.00</ConvertedValue>
     <notes>Start balance</notes>
   </transaction>
   <transaction ID="t_10202">
@@ -947,6 +1047,7 @@
       <name>Someone</name>
     </payee>
     <amount>400.00</amount>
+    <ConvertedValue>310.63</ConvertedValue>
     <notes>Accomodation from Nate (1Eur=1,29USD)</notes>
   </transaction>
 </transactions>

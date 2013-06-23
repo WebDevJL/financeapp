@@ -13,9 +13,9 @@ $sqlLog = New sqlEventLogger();
         case '90d':
             $XML=simplexml_load_file("http://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml");
             break;
-//        case 'since99':
-//            $XML=simplexml_load_file("http://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.xml");
-//            break;
+        case 'all':
+            $XML=simplexml_load_file("http://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.xml");
+            break;
         default:
             break;
     }
@@ -23,8 +23,11 @@ $sqlLog = New sqlEventLogger();
     foreach($XML->Cube->Cube as $date)
     {
         $rateDate = $date["time"];
-        foreach($XML->Cube->Cube->Cube as $rate){
+        //print_r($date);
+        echo '<br/>';
+        foreach($date->Cube as $rate){
             //Output the value of 1EUR for a currency code
+            $query = "";
             $db=new DBConnection();
             if($_GET["db"] === "sb"){
                 $query = "CALL soundbudget.USP_InsertCurrencyRate('".$rateDate."','".$rate["currency"]."','".$rate["rate"]."');\n";

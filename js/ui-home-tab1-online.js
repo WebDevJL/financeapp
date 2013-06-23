@@ -93,7 +93,8 @@ $(document).ready(function(){
 /* Fill budget table*/
 /******************************************************************************************************************************************/
 		if(htmlStr_Budgets === ''){
-			url = "../Files/transactions_"+cid+".xml";
+			//url = "../Files/transactions_"+cid+".xml";
+			url = "../Files/transactions_all.xml";
 			xml = new JKL.ParseXML( url );
 			var obj2 = xml.parse();
 			console.log(obj2);
@@ -106,23 +107,30 @@ $(document).ready(function(){
 			}
 			console.log(obj3);
 			for (var i = 0; i < obj2.transactions.transaction.length; i++){//loop through each transaction
-				if(obj2.transactions.transaction[i].currency === cid){
+				//if(obj2.transactions.transaction[i].currency === cid){
 					for (var j = 0; j < obj3.budgets.budget.length; j++){//loop through each budget
 						if (obj3.budgets.budget[j].items.item.length === undefined){//current budget has one item so length is undefined 
-							if(obj2.transactions.transaction[i].category.ID === obj3.budgets.budget[j].items.item.CatID && obj2.transactions.transaction[i].subcategory.ID === obj3.budgets.budget[j].items.item.ScatID){
-								obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].amount);
+							if(
+                                                                obj2.transactions.transaction[i].category.ID === obj3.budgets.budget[j].items.item.CatID 
+                                                                && obj2.transactions.transaction[i].subcategory.ID === obj3.budgets.budget[j].items.item.ScatID
+                                                    ){
+								//obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].amount);
+								obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].ConvertedValue.replace(',',''));
 								break;
 							}
 						} else {//current budget has more than one item so length is an int
 							for (var k = 0; k < obj3.budgets.budget[j].items.item.length; k++){//loop through each item of budget
-								if(obj2.transactions.transaction[i].category.ID === obj3.budgets.budget[j].items.item[k].CatID && obj2.transactions.transaction[i].subcategory.ID === obj3.budgets.budget[j].items.item[k].ScatID){//if categorID and subCategoryId match, add amount to budget balance
-									obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].amount);
+								if(obj2.transactions.transaction[i].category.ID === obj3.budgets.budget[j].items.item[k].CatID 
+                                                                        && obj2.transactions.transaction[i].subcategory.ID === obj3.budgets.budget[j].items.item[k].ScatID
+                                                            ){//if categorID and subCategoryId match, add amount to budget balance
+									//obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].amount);
+									obj3.budgets.budget[j].balance += (1*obj2.transactions.transaction[i].ConvertedValue.replace(',',''));
 									break;
 								}
 							}
 						}
 					}
-				}
+				//}
 			}
 			var savingCheck = 0;
 			var cogIterance = 0;

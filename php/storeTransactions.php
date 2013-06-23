@@ -18,10 +18,14 @@ $root = $doc->appendChild($root);
 try {
 	$db=new DBConnection();
 	$numOfRows = 10000;
-	if(isset($_GET['cid'])){$c = $_GET['cid'];}else{$c = 1;}
-	$phpLog->writeToFile("Currency = <$c>.\n");
-	$query="call USP_GetTransactionsForXMLFile('$numOfRows','$c');";
-	
+	if(isset($_GET['cid'])){$inputCurrency = $_GET['cid'];}else{$inputCurrency = NULL;}
+	$phpLog->writeToFile("Currency = <$inputCurrency>.\n");
+        if($inputCurrency == NULL){
+            $query="call USP_GetTransactionsForXMLFile('$numOfRows',null);";
+        }else{
+            $query="call USP_GetTransactionsForXMLFile('$numOfRows','$inputCurrency');";
+        }
+	$sqlLog->writeToFile("$query\n");
 	$res=$db->rq($query);
 	while(($row=$db->fetch($res)) != FALSE) {
 		$id = $row['ID'];
@@ -39,7 +43,8 @@ try {
 		$payee = $row['Payee'];
 		$amount = $row['Amount'];
 		$notes = $row['Notes'];
-			
+		$ConvertedValue =$row['ConvertedValue'];
+                
 		$l1 = $doc->createElement('transaction');
 		$l1_attr = $doc->appendChild($l1);
 		$l1_attr->setAttribute("ID", "t_".$id);
@@ -127,6 +132,13 @@ try {
 		$text = $doc->createTextNode($amount);
 		$text = $title->appendChild($text);
 		
+                // add converted amount	
+		$title = $doc->createElement('ConvertedValue');
+		$title = $l1->appendChild($title);
+		
+		$text = $doc->createTextNode($ConvertedValue);
+		$text = $title->appendChild($text);
+		
 		// add notes	
 		$title = $doc->createElement('notes');
 		$title = $l1->appendChild($title);
@@ -144,7 +156,10 @@ try {
 $strxml = $doc->saveXML();
 /*Get currency symbol*/
 $tmpfilename="";
-switch ($c){
+switch ($inputCurrency){
+        case NULL:
+                $tmpfilename = "../Files/transactions_all.xml";
+		break;
 	case 1:
 		$tmpfilename = "../Files/transactions_1.xml";
 		break;
@@ -161,6 +176,6 @@ $handle = fopen($tmpfilename, "w");
 fwrite($handle, $strxml);
 fclose($handle);
 echo('Finished writting file 1</br>');
-
-echo('<p>File 1 saved <a href="http://'.$_SERVER['SERVER_NAME'].$fileName.'">here</a></p>');
+echo $tmpfilename . " ; <" . $inputCurrency . ">";
+echo('<p>File 1 saved <a href="http://myapps.local/FinanceApp/Files/"'.$tmpfilename.'">here</a></p>');
 ?>

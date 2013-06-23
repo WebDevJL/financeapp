@@ -11,6 +11,7 @@
       <name>Someone</name>
     </payee>
     <amount>-14.80</amount>
+    <ConvertedValue>-11.86</ConvertedValue>
     <notes>various spendings for pentecost</notes>
   </transaction>
   <transaction ID="t_10989">
@@ -24,6 +25,7 @@
       <name>Someone</name>
     </payee>
     <amount>-26.00</amount>
+    <ConvertedValue>-26.00</ConvertedValue>
     <notes>scéance de badminton</notes>
   </transaction>
   <transaction ID="t_10988">
@@ -37,6 +39,7 @@
       <name>Someone</name>
     </payee>
     <amount>-8.00</amount>
+    <ConvertedValue>-8.00</ConvertedValue>
     <notes>cartes postale pour Nathalie</notes>
   </transaction>
   <transaction ID="t_10987">
@@ -50,6 +53,7 @@
       <name>Someone</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-20.00</ConvertedValue>
     <notes>Cadeau de Dave</notes>
   </transaction>
   <transaction ID="t_10985">
@@ -63,6 +67,7 @@
       <name>Someone</name>
     </payee>
     <amount>-275.00</amount>
+    <ConvertedValue>-275.00</ConvertedValue>
     <notes>4 nights in Yverdon paid to Nathalie</notes>
   </transaction>
   <transaction ID="t_10981">
@@ -76,6 +81,7 @@
       <name>Me</name>
     </payee>
     <amount>150.00</amount>
+    <ConvertedValue>150.00</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10986">
@@ -89,6 +95,7 @@
       <name>Someone</name>
     </payee>
     <amount>-9.00</amount>
+    <ConvertedValue>-7.23</ConvertedValue>
     <notes>Consigne à la gare de Genève</notes>
   </transaction>
   <transaction ID="t_10960">
@@ -102,6 +109,7 @@
       <name>Lidl</name>
     </payee>
     <amount>-8.10</amount>
+    <ConvertedValue>-6.53</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10959">
@@ -115,6 +123,7 @@
       <name>SNCF</name>
     </payee>
     <amount>-15.00</amount>
+    <ConvertedValue>-12.09</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10958">
@@ -128,6 +137,7 @@
       <name>Lidl</name>
     </payee>
     <amount>-18.25</amount>
+    <ConvertedValue>-14.71</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10957">
@@ -141,6 +151,7 @@
       <name>Someone</name>
     </payee>
     <amount>-7.00</amount>
+    <ConvertedValue>-5.64</ConvertedValue>
     <notes>Tram/bus geneva</notes>
   </transaction>
   <transaction ID="t_10790">
@@ -154,6 +165,7 @@
       <name>Someone</name>
     </payee>
     <amount>-23.00</amount>
+    <ConvertedValue>-23.00</ConvertedValue>
     <notes>gift for Stephanie</notes>
   </transaction>
   <transaction ID="t_10778">
@@ -167,6 +179,7 @@
       <name>Lidl</name>
     </payee>
     <amount>-6.55</amount>
+    <ConvertedValue>-5.38</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10777">
@@ -180,6 +193,7 @@
       <name>Someone</name>
     </payee>
     <amount>-1.90</amount>
+    <ConvertedValue>-1.90</ConvertedValue>
     <notes>metro lausanne</notes>
   </transaction>
   <transaction ID="t_10776">
@@ -193,6 +207,7 @@
       <name>Geneva Airport</name>
     </payee>
     <amount>-10.70</amount>
+    <ConvertedValue>-10.70</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10775">
@@ -206,6 +221,7 @@
       <name>SBB</name>
     </payee>
     <amount>-5.00</amount>
+    <ConvertedValue>-5.00</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10200">
@@ -219,6 +235,7 @@
       <name>Someone</name>
     </payee>
     <amount>-1.50</amount>
+    <ConvertedValue>-1.24</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10199">
@@ -232,6 +249,7 @@
       <name>Someone</name>
     </payee>
     <amount>-35.60</amount>
+    <ConvertedValue>-29.39</ConvertedValue>
     <notes>via ferrata</notes>
   </transaction>
   <transaction ID="t_10198">
@@ -245,6 +263,7 @@
       <name>Someone</name>
     </payee>
     <amount>-15.80</amount>
+    <ConvertedValue>-13.04</ConvertedValue>
     <notes>Cadeau Aurél</notes>
   </transaction>
   <transaction ID="t_10197">
@@ -258,6 +277,7 @@
       <name>Someone</name>
     </payee>
     <amount>-1.60</amount>
+    <ConvertedValue>-1.32</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10196">
@@ -271,6 +291,7 @@
       <name>Someone</name>
     </payee>
     <amount>-9.80</amount>
+    <ConvertedValue>-8.08</ConvertedValue>
     <notes>Thank you cards</notes>
   </transaction>
   <transaction ID="t_10195">
@@ -284,6 +305,7 @@
       <name>Someone</name>
     </payee>
     <amount>-29.60</amount>
+    <ConvertedValue>-24.42</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10194">
@@ -297,6 +319,7 @@
       <name>Someone</name>
     </payee>
     <amount>-85.10</amount>
+    <ConvertedValue>-70.31</ConvertedValue>
     <notes>Cash to Nate</notes>
   </transaction>
   <transaction ID="t_10193">
@@ -310,6 +333,7 @@
       <name>Someone</name>
     </payee>
     <amount>-17.00</amount>
+    <ConvertedValue>-14.04</ConvertedValue>
     <notes>Téléphérique</notes>
   </transaction>
   <transaction ID="t_10192">
@@ -323,6 +347,7 @@
       <name>Someone</name>
     </payee>
     <amount>-24.00</amount>
+    <ConvertedValue>-19.83</ConvertedValue>
     <notes>Billard</notes>
   </transaction>
   <transaction ID="t_10191">
@@ -336,6 +361,7 @@
       <name>Someone</name>
     </payee>
     <amount>-2.75</amount>
+    <ConvertedValue>-2.27</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10190">
@@ -349,6 +375,7 @@
       <name>Someone</name>
     </payee>
     <amount>-150.00</amount>
+    <ConvertedValue>-123.93</ConvertedValue>
     <notes>parapente nate</notes>
   </transaction>
   <transaction ID="t_10189">
@@ -362,6 +389,7 @@
       <name>Someone</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-16.53</ConvertedValue>
     <notes>Matthieu et Alizée</notes>
   </transaction>
   <transaction ID="t_10188">
@@ -375,6 +403,7 @@
       <name>Someone</name>
     </payee>
     <amount>-26.50</amount>
+    <ConvertedValue>-21.90</ConvertedValue>
     <notes>Deo, Après rasage</notes>
   </transaction>
   <transaction ID="t_10187">
@@ -388,6 +417,7 @@
       <name>Someone</name>
     </payee>
     <amount>-15.30</amount>
+    <ConvertedValue>-12.64</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10186">
@@ -401,6 +431,7 @@
       <name>Someone</name>
     </payee>
     <amount>-26.95</amount>
+    <ConvertedValue>-22.27</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10185">
@@ -414,6 +445,7 @@
       <name>Someone</name>
     </payee>
     <amount>-23.15</amount>
+    <ConvertedValue>-23.15</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10184">
@@ -427,6 +459,7 @@
       <name>Someone</name>
     </payee>
     <amount>-17.05</amount>
+    <ConvertedValue>-17.05</ConvertedValue>
     <notes>Food parents</notes>
   </transaction>
   <transaction ID="t_10183">
@@ -440,6 +473,7 @@
       <name>Someone</name>
     </payee>
     <amount>-26.50</amount>
+    <ConvertedValue>-21.90</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10104">
@@ -453,6 +487,7 @@
       <name>Me</name>
     </payee>
     <amount>-7.65</amount>
+    <ConvertedValue>-6.31</ConvertedValue>
     <notes>Rebalance account</notes>
   </transaction>
   <transaction ID="t_10087">
@@ -466,6 +501,7 @@
       <name>Me</name>
     </payee>
     <amount>400.00</amount>
+    <ConvertedValue>329.82</ConvertedValue>
     <notes>344,88 Eur</notes>
   </transaction>
   <transaction ID="t_9937">
@@ -479,6 +515,7 @@
       <name>Lidl</name>
     </payee>
     <amount>-5.20</amount>
+    <ConvertedValue>-4.33</ConvertedValue>
     <notes>Food</notes>
   </transaction>
   <transaction ID="t_9936">
@@ -492,6 +529,7 @@
       <name>Market</name>
     </payee>
     <amount>-8.65</amount>
+    <ConvertedValue>-7.20</ConvertedValue>
     <notes>Food</notes>
   </transaction>
   <transaction ID="t_9935">
@@ -505,6 +543,7 @@
       <name>Lausanne Leisure</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-16.64</ConvertedValue>
     <notes>Pedalo</notes>
   </transaction>
   <transaction ID="t_9934">
@@ -518,6 +557,7 @@
       <name>Restaurant</name>
     </payee>
     <amount>-42.00</amount>
+    <ConvertedValue>-34.94</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_9933">
@@ -531,6 +571,7 @@
       <name>Mr Aviolat</name>
     </payee>
     <amount>-50.00</amount>
+    <ConvertedValue>-41.60</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_9930">
@@ -544,6 +585,7 @@
       <name>City Hostel Geneva</name>
     </payee>
     <amount>-69.30</amount>
+    <ConvertedValue>-57.66</ConvertedValue>
     <notes>Accomodation</notes>
   </transaction>
   <transaction ID="t_9931">
@@ -557,6 +599,7 @@
       <name>Me</name>
     </payee>
     <amount>600.00</amount>
+    <ConvertedValue>499.54</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_9916">
@@ -570,6 +613,7 @@
       <name>Coop</name>
     </payee>
     <amount>-38.10</amount>
+    <ConvertedValue>-38.10</ConvertedValue>
     <notes>restaurant for lunch</notes>
   </transaction>
   <transaction ID="t_9929">
@@ -583,6 +627,7 @@
       <name>Lausanne Leisure</name>
     </payee>
     <amount>-20.00</amount>
+    <ConvertedValue>-20.00</ConvertedValue>
     <notes>Pedalo</notes>
   </transaction>
   <transaction ID="t_9917">
@@ -596,6 +641,7 @@
       <name>Geneva Airport</name>
     </payee>
     <amount>-4.90</amount>
+    <ConvertedValue>-4.90</ConvertedValue>
     <notes>water</notes>
   </transaction>
   <transaction ID="t_9901">
@@ -609,6 +655,7 @@
       <name>Me</name>
     </payee>
     <amount>110.00</amount>
+    <ConvertedValue>110.00</ConvertedValue>
     <notes>101,99 Euros</notes>
   </transaction>
   <transaction ID="t_9900">
@@ -622,6 +669,7 @@
       <name>Me</name>
     </payee>
     <amount>9.00</amount>
+    <ConvertedValue>7.47</ConvertedValue>
     <notes></notes>
   </transaction>
   <transaction ID="t_10201">
@@ -635,6 +683,7 @@
       <name>Someone</name>
     </payee>
     <amount>-2.50</amount>
+    <ConvertedValue>-2.50</ConvertedValue>
     <notes>thank you card</notes>
   </transaction>
 </transactions>
