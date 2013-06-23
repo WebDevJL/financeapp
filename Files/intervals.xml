@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <name>Month</name>
+    <id>1</id>
+  </item>
+  <item>
+    <name>Week</name>
+    <id>2</id>
+  </item>
+  <item>
+    <name>Day</name>
+    <id>3</id>
+  </item>
+  <item>
+    <name>Once</name>
+    <id>4</id>
+  </item>
+</items>

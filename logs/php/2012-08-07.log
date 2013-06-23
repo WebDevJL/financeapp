@@ -1,0 +1,415 @@
+08/07/2012 09:05:01 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/07/2012 09:05:01 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:05:01 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:05:01 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:05:01 am: Get the dataset to return in json obj...
+08/07/2012 09:05:01 am: Get the dataset to return in json obj...
+08/07/2012 09:05:01 am: Get the dataset to return in json obj...
+08/07/2012 09:05:01 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:05:01 am: Get the dataset to return in json obj...
+08/07/2012 09:05:01 am: Query has run: <CALL USP_GetPayees();>.
+08/07/2012 09:05:01 am: ... Got dataset to return in json obj
+08/07/2012 09:05:02 am: Query has run: <CALL USP_GetCategories2();>.
+08/07/2012 09:05:02 am: ... Got dataset to return in json obj
+08/07/2012 09:05:01 am: Query has run: <CALL USP_GetAccounts();>.
+08/07/2012 09:05:02 am: ... Got dataset to return in json obj
+08/07/2012 09:05:02 am: Query has run: <CALL USP_GetCategories();>.
+08/07/2012 09:05:02 am: ... Got dataset to return in json obj
+08/07/2012 09:05:02 am: Get the dataset to return in json obj...
+08/07/2012 09:05:02 am: Query has run: <CALL USP_GetCurrencies();>.
+08/07/2012 09:05:02 am: ... Got dataset to return in json obj
+08/07/2012 03:07:40 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/07/2012 03:07:40 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:40 pm: Query has run: <CALL USP_GetAccounts();>.
+08/07/2012 03:07:40 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:40 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:40 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:40 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:40 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:40 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:40 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:40 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:40 pm: Query has run: <CALL USP_GetCategories();>.
+08/07/2012 03:07:40 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:40 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:40 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/07/2012 03:07:40 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:40 pm: Query has run: <CALL USP_GetPayees();>.
+08/07/2012 03:07:40 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:40 pm: Query has run: <CALL USP_GetCategories2();>.
+08/07/2012 03:07:40 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:49 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:49 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/07/2012 03:07:49 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:49 pm: Query has run: <CALL USP_GetPayees();>.
+08/07/2012 03:07:49 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:49 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:49 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:49 pm: Query has run: <CALL USP_GetAccounts();>.
+08/07/2012 03:07:49 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:49 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:49 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 03:07:49 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:49 pm: Query has run: <CALL USP_GetCategories2();>.
+08/07/2012 03:07:49 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:49 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:49 pm: Get the dataset to return in json obj...
+08/07/2012 03:07:49 pm: Query has run: <CALL USP_GetCategories();>.
+08/07/2012 03:07:49 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:49 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/07/2012 03:07:49 pm: ... Got dataset to return in json obj
+08/07/2012 03:07:56 pm: Query has run: <CALL USP_GetCurrencies ()>.
+08/07/2012 03:07:57 pm: Query has run: <CALL USP_GetAccounts ()>.
+08/07/2012 03:07:58 pm: Query has run: <CALL USP_GetCategories2 ()>.
+08/07/2012 03:07:58 pm: Query has run: <CALL USP_GetCategories ()>.
+08/07/2012 03:07:58 pm: Query has run: <CALL USP_GetPayees ()>.
+08/07/2012 03:07:59 pm: Query has run: <CALL USP_GetTransactionTypes ()>.
+08/07/2012 09:09:56 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/07/2012 09:09:56 pm: Get the dataset to return in json obj...
+08/07/2012 09:09:56 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:09:56 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:09:56 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:09:56 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:09:56 pm: Get the dataset to return in json obj...
+08/07/2012 09:09:56 pm: Get the dataset to return in json obj...
+08/07/2012 09:09:56 pm: Get the dataset to return in json obj...
+08/07/2012 09:09:56 pm: Get the dataset to return in json obj...
+08/07/2012 09:09:56 pm: Query has run: <CALL USP_GetCategories2();>.
+08/07/2012 09:09:56 pm: ... Got dataset to return in json obj
+08/07/2012 09:09:56 pm: Query has run: <CALL USP_GetCategories();>.
+08/07/2012 09:09:56 pm: ... Got dataset to return in json obj
+08/07/2012 09:09:56 pm: Query has run: <CALL USP_GetAccounts();>.
+08/07/2012 09:09:56 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/07/2012 09:09:56 pm: ... Got dataset to return in json obj
+08/07/2012 09:09:56 pm: Query has run: <CALL USP_GetPayees();>.
+08/07/2012 09:09:56 pm: ... Got dataset to return in json obj
+08/07/2012 09:09:56 pm: ... Got dataset to return in json obj
+08/07/2012 09:13:59 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/07/2012 09:13:59 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:13:59 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:13:59 pm: Get the dataset to return in json obj...
+08/07/2012 09:13:59 pm: Get the dataset to return in json obj...
+08/07/2012 09:13:59 pm: Query has run: <CALL USP_GetPayees();>.
+08/07/2012 09:13:59 pm: ... Got dataset to return in json obj
+08/07/2012 09:13:59 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:13:59 pm: Query has run: <CALL USP_GetAccounts();>.
+08/07/2012 09:13:59 pm: ... Got dataset to return in json obj
+08/07/2012 09:13:59 pm: Get the dataset to return in json obj...
+08/07/2012 09:13:59 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/07/2012 09:13:59 pm: ... Got dataset to return in json obj
+08/07/2012 09:13:59 pm: Get the dataset to return in json obj...
+08/07/2012 09:13:59 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/07/2012 09:13:59 pm: Get the dataset to return in json obj...
+08/07/2012 09:13:59 pm: Query has run: <CALL USP_GetCategories2();>.
+08/07/2012 09:13:59 pm: ... Got dataset to return in json obj
+08/07/2012 09:13:59 pm: Query has run: <CALL USP_GetCategories();>.
+08/07/2012 09:13:59 pm: ... Got dataset to return in json obj
+08/07/2012 10:23:25 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:25:52 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:28:57 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:30:32 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:31:20 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:33:43 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:34:27 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:34:27 pm: Loop 0: lastbID=0 ; bID=14;
+08/07/2012 10:34:27 pm: Loop 1: lastbID=14 ; bID=14;
+08/07/2012 10:34:27 pm: Loop 2: lastbID=14 ; bID=14;
+08/07/2012 10:34:27 pm: Loop 3: lastbID=14 ; bID=14;
+08/07/2012 10:34:27 pm: Loop 4: lastbID=14 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 5: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 6: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 7: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 8: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 9: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 10: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 11: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 12: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 13: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 14: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 15: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 16: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 17: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 18: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 19: lastbID=15 ; bID=15;
+08/07/2012 10:34:27 pm: Loop 20: lastbID=15 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 21: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 22: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 23: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 24: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 25: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 26: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 27: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 28: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 29: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 30: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 31: lastbID=16 ; bID=16;
+08/07/2012 10:34:27 pm: Loop 32: lastbID=16 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 33: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 34: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 35: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 36: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 37: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 38: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 39: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 40: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 41: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 42: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 43: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 44: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 45: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 46: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 47: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 48: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 49: lastbID=17 ; bID=17;
+08/07/2012 10:34:27 pm: Loop 50: lastbID=17 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 51: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 52: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 53: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 54: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 55: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 56: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 57: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 58: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 59: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 60: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 61: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 62: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 63: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 64: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 65: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 66: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 67: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 68: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 69: lastbID=18 ; bID=18;
+08/07/2012 10:34:27 pm: Loop 70: lastbID=18 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 71: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 72: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 73: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 74: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 75: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 76: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 77: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 78: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 79: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 80: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 81: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 82: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 83: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 84: lastbID=19 ; bID=19;
+08/07/2012 10:34:27 pm: Loop 85: lastbID=19 ; bID=20;
+08/07/2012 10:34:27 pm: Loop 86: lastbID=20 ; bID=20;
+08/07/2012 10:34:27 pm: Loop 87: lastbID=20 ; bID=20;
+08/07/2012 10:34:27 pm: Loop 88: lastbID=20 ; bID=20;
+08/07/2012 10:34:27 pm: Loop 89: lastbID=20 ; bID=21;
+08/07/2012 10:34:27 pm: Loop 90: lastbID=21 ; bID=22;
+08/07/2012 10:34:27 pm: Loop 91: lastbID=22 ; bID=23;
+08/07/2012 10:34:27 pm: Loop 92: lastbID=23 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 93: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 94: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 95: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 96: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 97: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 98: lastbID=26 ; bID=26;
+08/07/2012 10:34:27 pm: Loop 99: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:35:40 pm: Loop 0: lastbID=0 ; bID=14;
+08/07/2012 10:35:40 pm: Loop 1: lastbID=14 ; bID=14;
+08/07/2012 10:35:40 pm: Loop 2: lastbID=14 ; bID=14;
+08/07/2012 10:35:40 pm: Loop 3: lastbID=14 ; bID=14;
+08/07/2012 10:35:40 pm: Loop 4: lastbID=14 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 5: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 6: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 7: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 8: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 9: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 10: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 11: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 12: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 13: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 14: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 15: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 16: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 17: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 18: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 19: lastbID=15 ; bID=15;
+08/07/2012 10:35:40 pm: Loop 20: lastbID=15 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 21: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 22: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 23: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 24: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 25: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 26: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 27: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 28: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 29: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 30: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 31: lastbID=16 ; bID=16;
+08/07/2012 10:35:40 pm: Loop 32: lastbID=16 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 33: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 34: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 35: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 36: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 37: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 38: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 39: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 40: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 41: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 42: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 43: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 44: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 45: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 46: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 47: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 48: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 49: lastbID=17 ; bID=17;
+08/07/2012 10:35:40 pm: Loop 50: lastbID=17 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 51: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 52: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 53: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 54: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 55: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 56: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 57: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 58: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 59: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 60: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 61: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 62: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 63: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 64: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 65: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 66: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 67: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 68: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 69: lastbID=18 ; bID=18;
+08/07/2012 10:35:40 pm: Loop 70: lastbID=18 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 71: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 72: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 73: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 74: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 75: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 76: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 77: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 78: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 79: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 80: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 81: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 82: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 83: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 84: lastbID=19 ; bID=19;
+08/07/2012 10:35:40 pm: Loop 85: lastbID=19 ; bID=20;
+08/07/2012 10:35:40 pm: Loop 86: lastbID=20 ; bID=20;
+08/07/2012 10:35:40 pm: Loop 87: lastbID=20 ; bID=20;
+08/07/2012 10:35:40 pm: Loop 88: lastbID=20 ; bID=20;
+08/07/2012 10:35:40 pm: Loop 89: lastbID=20 ; bID=21;
+08/07/2012 10:35:40 pm: Loop 90: lastbID=21 ; bID=22;
+08/07/2012 10:35:40 pm: Loop 91: lastbID=22 ; bID=23;
+08/07/2012 10:35:40 pm: Loop 92: lastbID=23 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 93: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 94: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 95: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 96: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 97: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 98: lastbID=26 ; bID=26;
+08/07/2012 10:35:40 pm: Loop 99: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+08/07/2012 10:37:02 pm: Loop 0: lastbID=0 ; bID=14;
+08/07/2012 10:37:02 pm: Loop 1: lastbID=14 ; bID=14;
+08/07/2012 10:37:02 pm: Loop 2: lastbID=14 ; bID=14;
+08/07/2012 10:37:02 pm: Loop 3: lastbID=14 ; bID=14;
+08/07/2012 10:37:02 pm: Loop 4: lastbID=14 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 5: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 6: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 7: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 8: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 9: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 10: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 11: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 12: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 13: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 14: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 15: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 16: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 17: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 18: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 19: lastbID=15 ; bID=15;
+08/07/2012 10:37:02 pm: Loop 20: lastbID=15 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 21: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 22: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 23: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 24: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 25: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 26: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 27: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 28: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 29: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 30: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 31: lastbID=16 ; bID=16;
+08/07/2012 10:37:02 pm: Loop 32: lastbID=16 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 33: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 34: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 35: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 36: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 37: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 38: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 39: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 40: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 41: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 42: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 43: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 44: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 45: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 46: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 47: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 48: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 49: lastbID=17 ; bID=17;
+08/07/2012 10:37:02 pm: Loop 50: lastbID=17 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 51: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 52: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 53: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 54: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 55: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 56: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 57: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 58: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 59: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 60: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 61: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 62: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 63: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 64: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 65: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 66: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 67: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 68: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 69: lastbID=18 ; bID=18;
+08/07/2012 10:37:02 pm: Loop 70: lastbID=18 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 71: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 72: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 73: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 74: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 75: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 76: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 77: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 78: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 79: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 80: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 81: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 82: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 83: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 84: lastbID=19 ; bID=19;
+08/07/2012 10:37:02 pm: Loop 85: lastbID=19 ; bID=20;
+08/07/2012 10:37:02 pm: Loop 86: lastbID=20 ; bID=20;
+08/07/2012 10:37:02 pm: Loop 87: lastbID=20 ; bID=20;
+08/07/2012 10:37:02 pm: Loop 88: lastbID=20 ; bID=20;
+08/07/2012 10:37:02 pm: Loop 89: lastbID=20 ; bID=21;
+08/07/2012 10:37:02 pm: Loop 90: lastbID=21 ; bID=22;
+08/07/2012 10:37:02 pm: Loop 91: lastbID=22 ; bID=23;
+08/07/2012 10:37:02 pm: Loop 92: lastbID=23 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 93: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 94: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 95: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 96: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 97: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 98: lastbID=26 ; bID=26;
+08/07/2012 10:37:02 pm: Loop 99: lastbID=26 ; bID=26;

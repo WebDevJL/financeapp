@@ -1,0 +1,213 @@
+11/06/2012 07:30:46 pm: CALL USP_GetCurrencies();
+11/06/2012 07:30:47 pm: CALL USP_GetCategories2();
+11/06/2012 07:30:47 pm: CALL USP_GetCategories();
+11/06/2012 07:30:48 pm: CALL USP_GetAccounts();
+11/06/2012 07:30:49 pm: CALL USP_GetPayees();
+11/06/2012 08:06:32 pm: CALL USP_GetAccounts ()
+11/06/2012 08:06:38 pm: CALL USP_GetAccounts();
+11/06/2012 08:06:38 pm: CALL USP_GetCurrencies();
+11/06/2012 08:06:38 pm: CALL USP_GetCategories2();
+11/06/2012 08:06:38 pm: CALL USP_GetCategories();
+11/06/2012 08:06:38 pm: CALL USP_GetPayees();
+11/06/2012 08:07:00 pm: CALL USP_InsertAccount (1,'aaa test');
+11/06/2012 08:07:00 pm: CALL USP_GetAccounts ()
+11/06/2012 08:07:00 pm: CALL USP_GetAccounts();
+11/06/2012 08:07:11 pm: CALL USP_GetAccounts ()
+11/06/2012 08:08:20 pm: CALL USP_GetAccounts ()
+11/06/2012 08:08:52 pm: CALL USP_GetCurrencies();
+11/06/2012 08:08:52 pm: CALL USP_GetAccounts();
+11/06/2012 08:08:52 pm: CALL USP_GetCategories();
+11/06/2012 08:08:52 pm: CALL USP_GetCategories2();
+11/06/2012 08:08:52 pm: CALL USP_GetPayees();
+11/06/2012 08:10:01 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:10:01 pm: CALL USP_GetAccounts ()
+11/06/2012 08:10:01 pm: CALL USP_GetAccounts();
+11/06/2012 08:10:06 pm: CALL USP_GetAccounts ()
+11/06/2012 08:10:21 pm: CALL USP_GetAccounts ()
+11/06/2012 08:10:45 pm: CALL USP_GetCurrencies();
+11/06/2012 08:10:45 pm: CALL USP_GetAccounts();
+11/06/2012 08:10:45 pm: CALL USP_GetPayees();
+11/06/2012 08:10:45 pm: CALL USP_GetCategories2();
+11/06/2012 08:10:45 pm: CALL USP_GetCategories();
+11/06/2012 08:11:11 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:11:11 pm: CALL USP_GetAccounts ()
+11/06/2012 08:11:11 pm: CALL USP_GetAccounts();
+11/06/2012 08:11:23 pm: CALL USP_GetAccounts();
+11/06/2012 08:11:24 pm: CALL USP_GetCurrencies();
+11/06/2012 08:11:24 pm: CALL USP_GetCategories();
+11/06/2012 08:11:26 pm: CALL USP_GetPayees();
+11/06/2012 08:11:27 pm: CALL USP_GetCategories2();
+11/06/2012 08:12:03 pm: CALL USP_GetAccounts ()
+11/06/2012 08:12:09 pm: CALL USP_GetCategories();
+11/06/2012 08:12:09 pm: CALL USP_GetPayees();
+11/06/2012 08:12:09 pm: CALL USP_GetAccounts();
+11/06/2012 08:12:09 pm: CALL USP_GetCategories2();
+11/06/2012 08:12:09 pm: CALL USP_GetCurrencies();
+11/06/2012 08:12:26 pm: CALL USP_GetCurrencies();
+11/06/2012 08:12:26 pm: CALL USP_GetAccounts();
+11/06/2012 08:12:26 pm: CALL USP_GetPayees();
+11/06/2012 08:12:26 pm: CALL USP_GetCategories2();
+11/06/2012 08:12:26 pm: CALL USP_GetCategories();
+11/06/2012 08:13:06 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:13:06 pm: CALL USP_GetAccounts ()
+11/06/2012 08:13:06 pm: CALL USP_GetAccounts();
+11/06/2012 08:13:16 pm: CALL USP_GetAccounts ()
+11/06/2012 08:14:45 pm: CALL USP_GetAccounts();
+11/06/2012 08:14:45 pm: CALL USP_GetCurrencies();
+11/06/2012 08:14:45 pm: CALL USP_GetCategories();
+11/06/2012 08:14:45 pm: CALL USP_GetPayees();
+11/06/2012 08:14:45 pm: CALL USP_GetCategories2();
+11/06/2012 08:14:56 pm: CALL USP_GetAccounts();
+11/06/2012 08:14:56 pm: CALL USP_GetCurrencies();
+11/06/2012 08:14:57 pm: CALL USP_GetPayees();
+11/06/2012 08:14:58 pm: CALL USP_GetCategories();
+11/06/2012 08:14:59 pm: CALL USP_GetCategories2();
+11/06/2012 08:15:14 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:16:13 pm: CALL USP_GetAccounts ()
+11/06/2012 08:16:13 pm: CALL USP_GetAccounts();
+11/06/2012 08:16:26 pm: CALL USP_GetAccounts();
+11/06/2012 08:16:26 pm: CALL USP_GetPayees();
+11/06/2012 08:16:27 pm: CALL USP_GetCurrencies();
+11/06/2012 08:16:28 pm: CALL USP_GetCategories();
+11/06/2012 08:16:29 pm: CALL USP_GetCategories2();
+11/06/2012 08:17:06 pm: CALL USP_GetAccounts ()
+11/06/2012 08:17:14 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:17:14 pm: CALL USP_GetAccounts ()
+11/06/2012 08:17:14 pm: CALL USP_GetAccounts();
+11/06/2012 08:17:51 pm: CALL USP_GetAccounts();
+11/06/2012 08:17:52 pm: CALL USP_GetCurrencies();
+11/06/2012 08:17:52 pm: CALL USP_GetCategories();
+11/06/2012 08:17:53 pm: CALL USP_GetPayees();
+11/06/2012 08:17:54 pm: CALL USP_GetCategories2();
+11/06/2012 08:18:43 pm: CALL USP_GetAccounts ()
+11/06/2012 08:19:40 pm: CALL USP_GetCurrencies();
+11/06/2012 08:19:40 pm: CALL USP_GetAccounts();
+11/06/2012 08:19:40 pm: CALL USP_GetPayees();
+11/06/2012 08:19:40 pm: CALL USP_GetCategories2();
+11/06/2012 08:19:40 pm: CALL USP_GetCategories();
+11/06/2012 08:19:49 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:19:49 pm: CALL USP_GetAccounts ()
+11/06/2012 08:19:49 pm: CALL USP_GetAccounts();
+11/06/2012 08:21:01 pm: CALL USP_GetAccounts();
+11/06/2012 08:21:01 pm: CALL USP_GetCurrencies();
+11/06/2012 08:21:01 pm: CALL USP_GetPayees();
+11/06/2012 08:21:01 pm: CALL USP_GetCategories();
+11/06/2012 08:21:01 pm: CALL USP_GetCategories2();
+11/06/2012 08:21:07 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:21:07 pm: CALL USP_GetAccounts ()
+11/06/2012 08:21:07 pm: CALL USP_GetAccounts();
+11/06/2012 08:21:16 pm: CALL USP_GetAccounts();
+11/06/2012 08:21:16 pm: CALL USP_GetCurrencies();
+11/06/2012 08:21:17 pm: CALL USP_GetPayees();
+11/06/2012 08:21:17 pm: CALL USP_GetCategories();
+11/06/2012 08:21:18 pm: CALL USP_GetCategories2();
+11/06/2012 08:22:29 pm: CALL USP_GetCurrencies();
+11/06/2012 08:22:29 pm: CALL USP_GetAccounts();
+11/06/2012 08:22:29 pm: CALL USP_GetPayees();
+11/06/2012 08:22:29 pm: CALL USP_GetCategories();
+11/06/2012 08:22:29 pm: CALL USP_GetCategories2();
+11/06/2012 08:22:36 pm: CALL USP_InsertAccount (1,'test');
+11/06/2012 08:22:36 pm: CALL USP_GetAccounts ()
+11/06/2012 08:22:36 pm: CALL USP_GetAccounts();
+11/06/2012 08:28:27 pm: CALL USP_GetAccounts();
+11/06/2012 08:28:27 pm: CALL USP_GetCurrencies();
+11/06/2012 08:28:27 pm: CALL USP_GetCategories();
+11/06/2012 08:28:27 pm: CALL USP_GetPayees();
+11/06/2012 08:28:27 pm: CALL USP_GetCategories2();
+11/06/2012 08:28:44 pm: CALL USP_GetCurrencies();
+11/06/2012 08:28:44 pm: CALL USP_GetPayees();
+11/06/2012 08:28:44 pm: CALL USP_GetCategories();
+11/06/2012 08:28:44 pm: CALL USP_GetCategories2();
+11/06/2012 08:28:44 pm: CALL USP_GetAccounts();
+11/06/2012 08:28:58 pm: CALL USP_InsertCategory ('atest');
+11/06/2012 08:28:58 pm: CALL USP_GetCategories ()
+11/06/2012 08:28:58 pm: CALL USP_GetCategories();
+11/06/2012 08:29:28 pm: CALL USP_GetAccounts();
+11/06/2012 08:29:29 pm: CALL USP_GetCategories();
+11/06/2012 08:29:30 pm: CALL USP_GetPayees();
+11/06/2012 08:29:30 pm: CALL USP_GetCurrencies();
+11/06/2012 08:29:31 pm: CALL USP_GetCategories2();
+11/06/2012 08:31:39 pm: CALL USP_GetAccounts();
+11/06/2012 08:31:39 pm: CALL USP_GetCategories();
+11/06/2012 08:31:39 pm: CALL USP_GetPayees();
+11/06/2012 08:31:39 pm: CALL USP_GetCategories2();
+11/06/2012 08:31:39 pm: CALL USP_GetCurrencies();
+11/06/2012 08:32:17 pm: CALL USP_InsertSubCategory ('1','aTEst');
+11/06/2012 08:32:17 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:32:17 pm: CALL USP_GetCategories2();
+11/06/2012 08:32:23 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:32:46 pm: CALL USP_InsertSubCategory ('1','aaTest');
+11/06/2012 08:32:46 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:32:46 pm: CALL USP_GetCategories2();
+11/06/2012 08:32:55 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:32:59 pm: CALL USP_GetAccounts();
+11/06/2012 08:32:59 pm: CALL USP_GetCurrencies();
+11/06/2012 08:32:59 pm: CALL USP_GetPayees();
+11/06/2012 08:32:59 pm: CALL USP_GetCategories();
+11/06/2012 08:32:59 pm: CALL USP_GetCategories2();
+11/06/2012 08:33:14 pm: CALL USP_InsertPayee ('123456_test');
+11/06/2012 08:33:14 pm: CALL USP_GetPayees ()
+11/06/2012 08:33:14 pm: CALL USP_GetPayees();
+11/06/2012 08:33:17 pm: CALL USP_GetPayees ()
+11/06/2012 08:33:52 pm: CALL USP_GetPayees();
+11/06/2012 08:33:52 pm: CALL USP_GetCategories();
+11/06/2012 08:33:52 pm: CALL USP_GetCurrencies();
+11/06/2012 08:33:52 pm: CALL USP_GetCategories2();
+11/06/2012 08:33:52 pm: CALL USP_GetAccounts();
+11/06/2012 08:34:02 pm: CALL USP_GetAccounts();
+11/06/2012 08:34:02 pm: CALL USP_GetCurrencies();
+11/06/2012 08:34:03 pm: CALL USP_GetPayees();
+11/06/2012 08:34:03 pm: CALL USP_GetCategories();
+11/06/2012 08:34:04 pm: CALL USP_GetCategories2();
+11/06/2012 08:35:16 pm: CALL USP_GetAccounts();
+11/06/2012 08:35:16 pm: CALL USP_GetCurrencies();
+11/06/2012 08:35:17 pm: CALL USP_GetPayees();
+11/06/2012 08:35:17 pm: CALL USP_GetCategories();
+11/06/2012 08:35:18 pm: CALL USP_GetCategories2();
+11/06/2012 08:35:44 pm: CALL USP_UpdateCurrency ('1','Euro','&euro');
+11/06/2012 08:35:47 pm: CALL USP_GetCurrencies ()
+11/06/2012 08:35:47 pm: CALL USP_GetCurrencies();
+11/06/2012 08:36:01 pm: CALL USP_GetCurrencies();
+11/06/2012 08:36:01 pm: CALL USP_GetAccounts();
+11/06/2012 08:36:01 pm: CALL USP_GetPayees();
+11/06/2012 08:36:01 pm: CALL USP_GetCategories2();
+11/06/2012 08:36:01 pm: CALL USP_GetCategories();
+11/06/2012 08:37:54 pm: CALL USP_InsertCategory ('aaaTest');
+11/06/2012 08:37:54 pm: CALL USP_GetCategories ()
+11/06/2012 08:37:54 pm: CALL USP_GetCategories();
+11/06/2012 08:38:07 pm: CALL USP_UpdateCategory ('31','aaaTest_update');
+11/06/2012 08:38:07 pm: CALL USP_GetCategories ()
+11/06/2012 08:39:54 pm: CALL USP_GetAccounts();
+11/06/2012 08:39:54 pm: CALL USP_GetCurrencies();
+11/06/2012 08:39:54 pm: CALL USP_GetPayees();
+11/06/2012 08:39:54 pm: CALL USP_GetCategories();
+11/06/2012 08:39:54 pm: CALL USP_GetCategories2();
+11/06/2012 08:39:58 pm: CALL USP_GetCategories ()
+11/06/2012 08:40:25 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:40:53 pm: CALL USP_GetCategories2 ()
+11/06/2012 08:41:30 pm: CALL USP_GetAccounts();
+11/06/2012 08:41:30 pm: CALL USP_GetCategories();
+11/06/2012 08:41:30 pm: CALL USP_GetCurrencies();
+11/06/2012 08:41:30 pm: CALL USP_GetCategories2();
+11/06/2012 08:41:30 pm: CALL USP_GetPayees();
+11/06/2012 08:41:35 pm: CALL USP_GetPayees ()
+11/06/2012 08:55:29 pm: CALL USP_GetCurrencies();
+11/06/2012 08:55:29 pm: CALL USP_GetAccounts();
+11/06/2012 08:55:29 pm: CALL USP_GetCategories2();
+11/06/2012 08:55:29 pm: CALL USP_GetPayees();
+11/06/2012 08:55:29 pm: CALL USP_GetCategories();
+11/06/2012 08:55:55 pm: CALL USP_GetAccounts();
+11/06/2012 08:55:55 pm: CALL USP_GetCurrencies();
+11/06/2012 08:55:55 pm: CALL USP_GetCategories();
+11/06/2012 08:55:55 pm: CALL USP_GetCategories2();
+11/06/2012 08:55:55 pm: CALL USP_GetPayees();
+11/06/2012 09:00:27 pm: CALL USP_GetCurrencies();
+11/06/2012 09:00:27 pm: CALL USP_GetPayees();
+11/06/2012 09:00:27 pm: CALL USP_GetAccounts();
+11/06/2012 09:00:27 pm: CALL USP_GetCategories();
+11/06/2012 09:00:27 pm: CALL USP_GetCategories2();
+11/06/2012 09:00:32 pm: CALL USP_GetCategories2();
+11/06/2012 09:00:32 pm: CALL USP_GetAccounts();
+11/06/2012 09:00:32 pm: CALL USP_GetCategories();
+11/06/2012 09:00:32 pm: CALL USP_GetPayees();
+11/06/2012 09:00:32 pm: CALL USP_GetCurrencies();

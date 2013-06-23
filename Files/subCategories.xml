@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <type>subcategories</type>
+  <item cID="1">
+    <name>Accessories</name>
+    <id>1</id>
+  </item>
+  <item cID="1">
+    <name>Claud Butler Levante</name>
+    <id>2</id>
+  </item>
+  <item cID="1">
+    <name>Clothing</name>
+    <id>3</id>
+  </item>
+  <item cID="1">
+    <name>Cube Agree GTC Race</name>
+    <id>4</id>
+  </item>
+  <item cID="1">
+    <name>Cube Streamer 2010</name>
+    <id>5</id>
+  </item>
+  <item cID="1">
+    <name>Cube Streamer 2011</name>
+    <id>6</id>
+  </item>
+  <item cID="1">
+    <name>Dawes 201 Discovery</name>
+    <id>7</id>
+  </item>
+  <item cID="1">
+    <name>Monthly budget</name>
+    <id>8</id>
+  </item>
+  <item cID="1">
+    <name>Pro-Lite Cuneo 2012</name>
+    <id>9</id>
+  </item>
+  <item cID="1">
+    <name>Promax Hybrid</name>
+    <id>10</id>
+  </item>
+  <item cID="1">
+    <name>Raleigh Brazil 300EX</name>
+    <id>11</id>
+  </item>
+  <item cID="1">
+    <name>Raleigh Pionner</name>
+    <id>12</id>
+  </item>
+  <item cID="1">
+    <name>Scott CX Comp 2012</name>
+    <id>13</id>
+  </item>
+  <item cID="1">
+    <name>Single speed bike</name>
+    <id>14</id>
+  </item>
+  <item cID="1">
+    <name>Spare parts</name>
+    <id>15</id>
+  </item>
+  <item cID="1">
+    <name>Tools &amp; Maintenance</name>
+    <id>16</id>
+  </item>
+  <item cID="2">
+    <name>Bank charges</name>
+    <id>17</id>
+  </item>
+  <item cID="2">
+    <name>Electricity</name>
+    <id>18</id>
+  </item>
+  <item cID="2">
+    <name>Garbage and Recycle</name>
+    <id>19</id>
+  </item>
+  <item cID="2">
+    <name>Gas</name>
+    <id>20</id>
+  </item>
+  <item cID="2">
+    <name>Generic</name>
+    <id>21</id>
+  </item>
+  <item cID="2">
+    <name>Health</name>
+    <id>22</id>
+  </item>
+  <item cID="2">
+    <name>Internet</name>
+    <id>23</id>
+  </item>
+  <item cID="2">
+    <name>Membership fees</name>
+    <id>24</id>
+  </item>
+  <item cID="2">
+    <name>Monthly budget</name>
+    <id>25</id>
+  </item>
+  <item cID="2">
+    <name>Monthly budget (Rent)</name>
+    <id>26</id>
+  </item>
+  <item cID="2">
+    <name>Official documents</name>
+    <id>27</id>
+  </item>
+  <item cID="2">
+    <name>Postage &amp; Packaging</name>
+    <id>28</id>
+  </item>
+  <item cID="2">
+    <name>Received Rent</name>
+    <id>29</id>
+  </item>
+  <item cID="2">
+    <name>Rent</name>
+    <id>30</id>
+  </item>
+  <item cID="2">
+    <name>Security Deposit</name>
+    <id>31</id>
+  </item>
+  <item cID="2">
+    <name>Telephone</name>
+    <id>32</id>
+  </item>
+  <item cID="3">
+    <name>Dime 1</name>
+    <id>33</id>
+  </item>
+  <item cID="3">
+    <name>Dime 2</name>
+    <id>34</id>
+  </item>
+  <item cID="3">
+    <name>Offrande</name>
+    <id>35</id>
+  </item>
+  <item cID="4">
+    <name>Goodies</name>
+    <id>36</id>
+  </item>
+  <item cID="4">
+    <name>Hardware</name>
+    <id>37</id>
+  </item>
+  <item cID="4">
+    <name>Others</name>
+    <id>38</id>
+  </item>
+  <item cID="28">
+    <name>Generic</name>
+    <id>126</id>
+  </item>
+  <item cID="29">
+    <name>Generic</name>
+    <id>127</id>
+  </item>
+  <item cID="29">
+    <name>Food</name>
+    <id>128</id>
+  </item>
+  <item cID="29">
+    <name>Accomodation</name>
+    <id>129</id>
+  </item>
+  <item cID="29">
+    <name>Travel</name>
+    <id>130</id>
+  </item>
+  <item cID="29">
+    <name>Leisure</name>
+    <id>131</id>
+  </item>
+  <item cID="29">
+    <name>Clothing</name>
+    <id>132</id>
+  </item>
+  <item cID="5">
+    <name>Books</name>
+    <id>39</id>
+  </item>
+  <item cID="6">
+    <name>Generic</name>
+    <id>40</id>
+  </item>
+  <item cID="6">
+    <name>Hardware</name>
+    <id>41</id>
+  </item>
+  <item cID="6">
+    <name>Tools</name>
+    <id>42</id>
+  </item>
+  <item cID="7">
+    <name>Alcohol</name>
+    <id>43</id>
+  </item>
+  <item cID="7">
+    <name>Dining out</name>
+    <id>44</id>
+  </item>
+  <item cID="7">
+    <name>Groceries</name>
+    <id>45</id>
+  </item>
+  <item cID="7">
+    <name>Monthly budget</name>
+    <id>46</id>
+  </item>
+  <item cID="8">
+    <name>Generic</name>
+    <id>47</id>
+  </item>
+  <item cID="9">
+    <name>Barber</name>
+    <id>48</id>
+  </item>
+  <item cID="9">
+    <name>Dental</name>
+    <id>49</id>
+  </item>
+  <item cID="9">
+    <name>Eyecare</name>
+    <id>50</id>
+  </item>
+  <item cID="9">
+    <name>Generic</name>
+    <id>51</id>
+  </item>
+  <item cID="10">
+    <name>Clothing</name>
+    <id>52</id>
+  </item>
+  <item cID="10">
+    <name>Monthly budget</name>
+    <id>53</id>
+  </item>
+  <item cID="11">
+    <name>Bathroom Items</name>
+    <id>54</id>
+  </item>
+  <item cID="11">
+    <name>Bedroom items</name>
+    <id>55</id>
+  </item>
+  <item cID="11">
+    <name>Cleaning</name>
+    <id>56</id>
+  </item>
+  <item cID="11">
+    <name>Desk supplies</name>
+    <id>57</id>
+  </item>
+  <item cID="11">
+    <name>Furniture</name>
+    <id>58</id>
+  </item>
+  <item cID="11">
+    <name>Gardening</name>
+    <id>59</id>
+  </item>
+  <item cID="11">
+    <name>Generic</name>
+    <id>60</id>
+  </item>
+  <item cID="11">
+    <name>Kitchen items</name>
+    <id>61</id>
+  </item>
+  <item cID="11">
+    <name>Sewing</name>
+    <id>62</id>
+  </item>
+  <item cID="11">
+    <name>Tools &amp; Maintenance</name>
+    <id>63</id>
+  </item>
+  <item cID="11">
+    <name>Various Hardware</name>
+    <id>64</id>
+  </item>
+  <item cID="12">
+    <name>Bank interests</name>
+    <id>65</id>
+  </item>
+  <item cID="12">
+    <name>Generic</name>
+    <id>66</id>
+  </item>
+  <item cID="12">
+    <name>Gifts</name>
+    <id>67</id>
+  </item>
+  <item cID="12">
+    <name>Governement Grant</name>
+    <id>68</id>
+  </item>
+  <item cID="12">
+    <name>Refund</name>
+    <id>69</id>
+  </item>
+  <item cID="12">
+    <name>Wages and Salary</name>
+    <id>70</id>
+  </item>
+  <item cID="13">
+    <name>Generic</name>
+    <id>71</id>
+  </item>
+  <item cID="14">
+    <name>Books, CD's, &amp; Magazines</name>
+    <id>72</id>
+  </item>
+  <item cID="14">
+    <name>Cinema</name>
+    <id>73</id>
+  </item>
+  <item cID="14">
+    <name>Entertainement</name>
+    <id>74</id>
+  </item>
+  <item cID="14">
+    <name>Golf</name>
+    <id>75</id>
+  </item>
+  <item cID="14">
+    <name>Music</name>
+    <id>76</id>
+  </item>
+  <item cID="14">
+    <name>Night Out &amp; Social events</name>
+    <id>77</id>
+  </item>
+  <item cID="14">
+    <name>Office supplies</name>
+    <id>78</id>
+  </item>
+  <item cID="14">
+    <name>Others</name>
+    <id>79</id>
+  </item>
+  <item cID="14">
+    <name>Photography</name>
+    <id>80</id>
+  </item>
+  <item cID="14">
+    <name>Sporting Events</name>
+    <id>81</id>
+  </item>
+  <item cID="14">
+    <name>Sporting Goods</name>
+    <id>82</id>
+  </item>
+  <item cID="14">
+    <name>Tourism</name>
+    <id>83</id>
+  </item>
+  <item cID="15">
+    <name>Monthly budget</name>
+    <id>84</id>
+  </item>
+  <item cID="16">
+    <name>Generic</name>
+    <id>85</id>
+  </item>
+  <item cID="16">
+    <name>Goodies</name>
+    <id>86</id>
+  </item>
+  <item cID="16">
+    <name>Hardware</name>
+    <id>87</id>
+  </item>
+  <item cID="17">
+    <name>Generic</name>
+    <id>88</id>
+  </item>
+  <item cID="18">
+    <name>Monthly budget</name>
+    <id>89</id>
+  </item>
+  <item cID="19">
+    <name>Book Order</name>
+    <id>90</id>
+  </item>
+  <item cID="19">
+    <name>Sofware</name>
+    <id>91</id>
+  </item>
+  <item cID="19">
+    <name>Translations &amp; Proofreading</name>
+    <id>92</id>
+  </item>
+  <item cID="20">
+    <name>Android</name>
+    <id>93</id>
+  </item>
+  <item cID="20">
+    <name>Generic</name>
+    <id>94</id>
+  </item>
+  <item cID="20">
+    <name>MAC OS-X</name>
+    <id>95</id>
+  </item>
+  <item cID="21">
+    <name>Generic</name>
+    <id>96</id>
+  </item>
+  <item cID="22">
+    <name>Hardware</name>
+    <id>97</id>
+  </item>
+  <item cID="22">
+    <name>Mobile phones</name>
+    <id>98</id>
+  </item>
+  <item cID="22">
+    <name>Monthly budget</name>
+    <id>99</id>
+  </item>
+  <item cID="23">
+    <name>AIB - Current</name>
+    <id>100</id>
+  </item>
+  <item cID="23">
+    <name>AIB - Online notice 7-161</name>
+    <id>101</id>
+  </item>
+  <item cID="23">
+    <name>AIB - Online savings-328</name>
+    <id>102</id>
+  </item>
+  <item cID="23">
+    <name>AIB - Online savings-401</name>
+    <id>103</id>
+  </item>
+  <item cID="23">
+    <name>AIB - Savings-245</name>
+    <id>104</id>
+  </item>
+  <item cID="23">
+    <name>Banque Postale - CCP</name>
+    <id>105</id>
+  </item>
+  <item cID="23">
+    <name>Banque Postale - CEL</name>
+    <id>106</id>
+  </item>
+  <item cID="23">
+    <name>Banque Postale - Livret jeune</name>
+    <id>107</id>
+  </item>
+  <item cID="23">
+    <name>Dime 1</name>
+    <id>108</id>
+  </item>
+  <item cID="23">
+    <name>Dime 2</name>
+    <id>109</id>
+  </item>
+  <item cID="23">
+    <name>Euro - Cash Wallet</name>
+    <id>110</id>
+  </item>
+  <item cID="23">
+    <name>LeapCard-27515</name>
+    <id>111</id>
+  </item>
+  <item cID="23">
+    <name>LeapCard-29768</name>
+    <id>112</id>
+  </item>
+  <item cID="23">
+    <name>Luas Smartcard</name>
+    <id>113</id>
+  </item>
+  <item cID="23">
+    <name>N/A</name>
+    <id>114</id>
+  </item>
+  <item cID="23">
+    <name>Paypal</name>
+    <id>124</id>
+  </item>
+  <item cID="23">
+    <name>CHF - Cash Wallet</name>
+    <id>125</id>
+  </item>
+  <item cID="23">
+    <name>USB - Cash Wallet</name>
+    <id>133</id>
+  </item>
+  <item cID="24">
+    <name>Accessories</name>
+    <id>115</id>
+  </item>
+  <item cID="24">
+    <name>Accomodation</name>
+    <id>116</id>
+  </item>
+  <item cID="24">
+    <name>Bus</name>
+    <id>117</id>
+  </item>
+  <item cID="24">
+    <name>Food &amp; drinks</name>
+    <id>118</id>
+  </item>
+  <item cID="24">
+    <name>Generic</name>
+    <id>119</id>
+  </item>
+  <item cID="24">
+    <name>Plane</name>
+    <id>120</id>
+  </item>
+  <item cID="24">
+    <name>Train</name>
+    <id>121</id>
+  </item>
+  <item cID="24">
+    <name>Tram</name>
+    <id>122</id>
+  </item>
+  <item cID="25">
+    <name>Generic</name>
+    <id>123</id>
+  </item>
+</items>

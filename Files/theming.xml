@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<themes>
+  <theme id="1">
+  	<class name=".ui-header">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#f7651a</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#f5f5f5</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #a83821</value>
+		</property>
+  	</class>
+  	<class name=".button">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#ececec</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#555</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ccc</value>
+		</property>
+  	</class>
+  	<class name=".box">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#fff</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ddd</value>
+		</property>
+  	</class>
+  	<class name=".cell">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#f2f0f1</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#555</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ccc</value>
+		</property>
+  	</class>
+  	<class name=".positive">
+		<property>
+  	    	<name>color</name>
+  	    	<value>#409d0f</value>
+		</property>
+  	</class>
+  	<class name=".negative">
+		<property>
+  	    	<name>color</name>
+  	    	<value>#f80010</value>
+		</property>
+  	</class>
+  </theme>
+  <theme id="2">
+  	<class name=".ui-header">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#f7651a</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#f5f5f5</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #a83821</value>
+		</property>
+  	</class>
+  	<class name=".button">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#ececec</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#555</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ccc</value>
+		</property>
+  	</class>
+  	<class name=".box">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#fff</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ddd</value>
+		</property>
+  	</class>
+  	<class name=".cell">
+		<property>
+  	    	<name>background-color</name>
+  	    	<value>#f2f0f1</value>
+		</property>
+		<property>
+  	    	<name>color</name>
+  	    	<value>#555</value>
+		</property>
+		<property>
+  	    	<name>border</name>
+  	    	<value>1px solid #ccc</value>
+		</property>
+  	</class>
+  </theme>
+</themes>

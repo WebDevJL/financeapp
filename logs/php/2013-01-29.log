@@ -1,0 +1,53 @@
+01/29/2013 09:28:02 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:02 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:02 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:02 pm: Query has run: <CALL USP_GetCategories();>.
+01/29/2013 09:28:02 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:02 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:02 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:03 pm: Query has run: <CALL USP_GetCategories2();>.
+01/29/2013 09:28:03 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:03 pm: Query has run: <CALL USP_GetPayees();>.
+01/29/2013 09:28:03 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:03 pm: Query has run: <CALL USP_GetAccounts();>.
+01/29/2013 09:28:03 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:03 pm: Query has run: <CALL USP_GetCurrencies();>.
+01/29/2013 09:28:03 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:08 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:08 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:08 pm: Query has run: <CALL USP_GetCategories();>.
+01/29/2013 09:28:08 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:08 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:08 pm: Query has run: <CALL USP_GetAccounts();>.
+01/29/2013 09:28:08 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:08 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:08 pm: Get the dataset to return in json obj...
+01/29/2013 09:28:08 pm: Query has run: <CALL USP_GetPayees();>.
+01/29/2013 09:28:08 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:08 pm: Query has run: <CALL USP_GetCurrencies();>.
+01/29/2013 09:28:08 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:08 pm: Query has run: <CALL USP_GetCategories2();>.
+01/29/2013 09:28:08 pm: ... Got dataset to return in json obj
+01/29/2013 09:28:40 pm: Amount value: -50. Preg_match_all result is <1>
+01/29/2013 09:28:40 pm: Currency = <1>.
+01/29/2013 09:30:04 pm: Amount value: -2,47. Preg_match_all result is <1>
+01/29/2013 09:30:04 pm: Amount value: -2,47. Preg_match_all result is <1>
+01/29/2013 09:30:04 pm: Currency = <1>.
+01/29/2013 09:30:04 pm: Currency = <1>.
+01/29/2013 09:30:06 pm: Amount value: -2,47. Preg_match_all result is <1>
+01/29/2013 09:30:06 pm: Currency = <1>.
+01/29/2013 09:30:20 pm: Get the dataset to return in json obj...
+01/29/2013 09:30:20 pm: Get the dataset to return in json obj...
+01/29/2013 09:30:20 pm: Query has run: <CALL USP_GetCurrencies();>.
+01/29/2013 09:30:20 pm: Query has run: <CALL USP_GetAccounts();>.
+01/29/2013 09:30:20 pm: ... Got dataset to return in json obj
+01/29/2013 09:30:20 pm: ... Got dataset to return in json obj
+01/29/2013 09:30:20 pm: Get the dataset to return in json obj...
+01/29/2013 09:30:20 pm: Get the dataset to return in json obj...
+01/29/2013 09:30:20 pm: Query has run: <CALL USP_GetCategories();>.
+01/29/2013 09:30:20 pm: ... Got dataset to return in json obj
+01/29/2013 09:30:20 pm: Query has run: <CALL USP_GetPayees();>.
+01/29/2013 09:30:20 pm: ... Got dataset to return in json obj
+01/29/2013 09:30:20 pm: Get the dataset to return in json obj...
+01/29/2013 09:30:20 pm: Query has run: <CALL USP_GetCategories2();>.
+01/29/2013 09:30:20 pm: ... Got dataset to return in json obj

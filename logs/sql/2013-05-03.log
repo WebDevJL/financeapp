@@ -1,0 +1,5 @@
+05/03/2013 07:50:54 pm: CALL USP_GetPayees();
+05/03/2013 07:50:54 pm: CALL USP_GetCurrencies();
+05/03/2013 07:50:54 pm: CALL USP_GetAccounts();
+05/03/2013 07:50:54 pm: CALL USP_GetCategories();
+05/03/2013 07:50:54 pm: CALL USP_GetCategories2();

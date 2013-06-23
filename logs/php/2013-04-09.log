@@ -1,0 +1,16 @@
+04/09/2013 07:19:17 pm: Currency = <1>.
+04/09/2013 07:19:22 pm: Get the dataset to return in json obj...
+04/09/2013 07:19:22 pm: Get the dataset to return in json obj...
+04/09/2013 07:19:22 pm: Get the dataset to return in json obj...
+04/09/2013 07:19:22 pm: Get the dataset to return in json obj...
+04/09/2013 07:19:22 pm: Get the dataset to return in json obj...
+04/09/2013 07:19:22 pm: Query has run: <CALL USP_GetPayees();>.
+04/09/2013 07:19:22 pm: ... Got dataset to return in json obj
+04/09/2013 07:19:22 pm: Query has run: <CALL USP_GetCategories2();>.
+04/09/2013 07:19:22 pm: Query has run: <CALL USP_GetCategories();>.
+04/09/2013 07:19:22 pm: ... Got dataset to return in json obj
+04/09/2013 07:19:22 pm: ... Got dataset to return in json obj
+04/09/2013 07:19:22 pm: Query has run: <CALL USP_GetAccounts();>.
+04/09/2013 07:19:22 pm: ... Got dataset to return in json obj
+04/09/2013 07:19:22 pm: Query has run: <CALL USP_GetCurrencies();>.
+04/09/2013 07:19:22 pm: ... Got dataset to return in json obj

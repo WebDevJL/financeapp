@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions>
+  <transaction ID="t_10990">
+    <date>2013-05-21</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-14.80</amount>
+    <notes>various spendings for pentecost</notes>
+  </transaction>
+  <transaction ID="t_10989">
+    <date>2013-05-19</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-26.00</amount>
+    <notes>scéance de badminton</notes>
+  </transaction>
+  <transaction ID="t_10988">
+    <date>2013-05-19</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-8.00</amount>
+    <notes>cartes postale pour Nathalie</notes>
+  </transaction>
+  <transaction ID="t_10987">
+    <date>2013-05-19</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>Cadeau de Dave</notes>
+  </transaction>
+  <transaction ID="t_10985">
+    <date>2013-05-19</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="129" name="Accomodation"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-275.00</amount>
+    <notes>4 nights in Yverdon paid to Nathalie</notes>
+  </transaction>
+  <transaction ID="t_10981">
+    <date>2013-05-19</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="105" name="Banque Postale - CCP"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>150.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10986">
+    <date>2013-05-17</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="130" name="Travel"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-9.00</amount>
+    <notes>Consigne à la gare de Genève</notes>
+  </transaction>
+  <transaction ID="t_10960">
+    <date>2013-05-13</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="24" name="Travel"/>
+    <subcategory ID="118" name="Food &amp; drinks"/>
+    <payee ID="123">
+      <name>Lidl</name>
+    </payee>
+    <amount>-8.10</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10959">
+    <date>2013-05-13</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="24" name="Travel"/>
+    <subcategory ID="121" name="Train"/>
+    <payee ID="186">
+      <name>SNCF</name>
+    </payee>
+    <amount>-15.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10958">
+    <date>2013-05-13</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="24" name="Travel"/>
+    <subcategory ID="118" name="Food &amp; drinks"/>
+    <payee ID="123">
+      <name>Lidl</name>
+    </payee>
+    <amount>-18.25</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10957">
+    <date>2013-05-13</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="24" name="Travel"/>
+    <subcategory ID="122" name="Tram"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-7.00</amount>
+    <notes>Tram/bus geneva</notes>
+  </transaction>
+  <transaction ID="t_10790">
+    <date>2013-03-31</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-23.00</amount>
+    <notes>gift for Stephanie</notes>
+  </transaction>
+  <transaction ID="t_10778">
+    <date>2013-03-27</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="123">
+      <name>Lidl</name>
+    </payee>
+    <amount>-6.55</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10777">
+    <date>2013-03-24</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="130" name="Travel"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-1.90</amount>
+    <notes>metro lausanne</notes>
+  </transaction>
+  <transaction ID="t_10776">
+    <date>2013-03-24</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="87">
+      <name>Geneva Airport</name>
+    </payee>
+    <amount>-10.70</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10775">
+    <date>2013-03-24</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="130" name="Travel"/>
+    <payee ID="179">
+      <name>SBB</name>
+    </payee>
+    <amount>-5.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10200">
+    <date>2012-10-05</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-1.50</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10199">
+    <date>2012-10-05</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-35.60</amount>
+    <notes>via ferrata</notes>
+  </transaction>
+  <transaction ID="t_10198">
+    <date>2012-10-05</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-15.80</amount>
+    <notes>Cadeau Aurél</notes>
+  </transaction>
+  <transaction ID="t_10197">
+    <date>2012-10-05</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-1.60</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10196">
+    <date>2012-10-04</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-9.80</amount>
+    <notes>Thank you cards</notes>
+  </transaction>
+  <transaction ID="t_10195">
+    <date>2012-10-04</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-29.60</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10194">
+    <date>2012-10-03</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-85.10</amount>
+    <notes>Cash to Nate</notes>
+  </transaction>
+  <transaction ID="t_10193">
+    <date>2012-10-03</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-17.00</amount>
+    <notes>Téléphérique</notes>
+  </transaction>
+  <transaction ID="t_10192">
+    <date>2012-10-03</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-24.00</amount>
+    <notes>Billard</notes>
+  </transaction>
+  <transaction ID="t_10191">
+    <date>2012-10-03</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-2.75</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10190">
+    <date>2012-10-03</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-150.00</amount>
+    <notes>parapente nate</notes>
+  </transaction>
+  <transaction ID="t_10189">
+    <date>2012-10-02</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>Matthieu et Alizée</notes>
+  </transaction>
+  <transaction ID="t_10188">
+    <date>2012-10-02</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-26.50</amount>
+    <notes>Deo, Après rasage</notes>
+  </transaction>
+  <transaction ID="t_10187">
+    <date>2012-10-02</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-15.30</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10186">
+    <date>2012-10-02</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-26.95</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10185">
+    <date>2012-09-30</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-23.15</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10184">
+    <date>2012-09-30</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-17.05</amount>
+    <notes>Food parents</notes>
+  </transaction>
+  <transaction ID="t_10183">
+    <date>2012-09-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-26.50</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10104">
+    <date>2012-09-13</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="25" name="Uncategorized"/>
+    <subcategory ID="123" name="Generic"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>-7.65</amount>
+    <notes>Rebalance account</notes>
+  </transaction>
+  <transaction ID="t_10087">
+    <date>2012-09-07</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="100" name="AIB - Current"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>400.00</amount>
+    <notes>344,88 Eur</notes>
+  </transaction>
+  <transaction ID="t_9937">
+    <date>2012-05-29</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="123">
+      <name>Lidl</name>
+    </payee>
+    <amount>-5.20</amount>
+    <notes>Food</notes>
+  </transaction>
+  <transaction ID="t_9936">
+    <date>2012-05-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="131">
+      <name>Market</name>
+    </payee>
+    <amount>-8.65</amount>
+    <notes>Food</notes>
+  </transaction>
+  <transaction ID="t_9935">
+    <date>2012-05-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="216">
+      <name>Lausanne Leisure</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>Pedalo</notes>
+  </transaction>
+  <transaction ID="t_9934">
+    <date>2012-05-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="173">
+      <name>Restaurant</name>
+    </payee>
+    <amount>-42.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_9933">
+    <date>2012-05-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="144">
+      <name>Mr Aviolat</name>
+    </payee>
+    <amount>-50.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_9930">
+    <date>2012-05-28</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="129" name="Accomodation"/>
+    <payee ID="39">
+      <name>City Hostel Geneva</name>
+    </payee>
+    <amount>-69.30</amount>
+    <notes>Accomodation</notes>
+  </transaction>
+  <transaction ID="t_9931">
+    <date>2012-05-17</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="110" name="Euro - Cash Wallet"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>600.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_9916">
+    <date>2012-04-07</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="211">
+      <name>Coop</name>
+    </payee>
+    <amount>-38.10</amount>
+    <notes>restaurant for lunch</notes>
+  </transaction>
+  <transaction ID="t_9929">
+    <date>2012-04-06</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="131" name="Leisure"/>
+    <payee ID="216">
+      <name>Lausanne Leisure</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>Pedalo</notes>
+  </transaction>
+  <transaction ID="t_9917">
+    <date>2012-04-06</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="87">
+      <name>Geneva Airport</name>
+    </payee>
+    <amount>-4.90</amount>
+    <notes>water</notes>
+  </transaction>
+  <transaction ID="t_9901">
+    <date>2012-04-06</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>110.00</amount>
+    <notes>101,99 Euros</notes>
+  </transaction>
+  <transaction ID="t_9900">
+    <date>2012-03-01</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="21" name="Starting Balance"/>
+    <subcategory ID="96" name="Generic"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>9.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10201">
+    <date>2002-10-05</date>
+    <currency>2</currency>
+    <account ID="18" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-2.50</amount>
+    <notes>thank you card</notes>
+  </transaction>
+</transactions>

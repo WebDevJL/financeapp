@@ -1,0 +1,82 @@
+/* Theming values */
+/* 
+ */
+body{margin:0;padding:0;}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+/*commun styles*/
+body{
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -webkit-justify-content: left;
+}
+#cp{
+    -webkit-flex: 1 10 auto;
+    -webkit-flex-line-pack:start;
+}
+#online, #offline{
+    display: inline-block;
+    height: inherit;
+}
+#online li, #offline li{
+	max-width:100px;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+/*home*/
+#main_wrap_home{float: left;overflow:hidden;}
+#slider_home, #slider_home li{float: left;}
+/*#wrapper1 table{float: left;}*/
+a{
+	padding: 4px;
+	display:block;
+}
+/*add transaction*/
+/* #wrapper1 form{float: left;border-top:0} */
+input#add_transaction{width: 129px;}
+/*transactions*/
+#transactionsdb {float: left;max-width: 1024px;overflow:hidden;}
+
+/*settings*/
+#edit_overlay{padding:5px;visibility: hidden;color: #FFF;}
+.close_icon{position: relative;color: #a5e283;}
+
+/* schedules */
+#insert_form,
+#update_form,
+#delete_form
+{position: absolute; top: -9999px; left: -9999px; visibility: hidden;color: #FFF;}
+#show_insert_form{
+    /*position: absolute;
+    top:6px;left: 105px;*/
+    z-index: 100;
+}
+#schedulesXML{
+}
+.table{
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -webkit-justify-content: left;
+    -webkit-align-content: center;
+    -webkit-align-items: center;
+    -webkit-align-self: auto;
+}
+.table ul{
+    white-space: nowrap;
+    -webkit-flex: 1 10 auto;
+    overflow: hidden;
+    /*border-bottom: 1px solid #555;*/
+}
+.table ul.update_item,
+.table ul.delete_item{-webkit-flex: 0 10 auto;}
+ul.paging{display: inline-block;}
+ul.paging li{padding:4px;display: inline-block;padding: 5px 10px;}

@@ -1,0 +1,126 @@
+/*Structure*/
+/*{height: 100%;}*/
+html{height: 100%; /*background-color: #ff0;*/}
+body{padding: 0;margin: 0;height: 100%}
+table{table-layout: fixed;}
+
+#cp, #wrapper1 {    
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: start;
+  -webkit-box-align: start;
+/*
+  
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: start;
+  -moz-box-align: start;
+  
+  display: box;
+  box-orient: horizontal;
+  box-pack: start;
+  box-align: start;
+*/
+  
+  overflow: hidden;
+  overflow-x: scroll;
+/*   width: 100%; */
+}
+/* Desktop settings ----------- */
+@media only screen
+and (min-width : 1280px) {
+	#cpd_h{
+		min-width: 600px;
+		max-width: 1280px;
+	}
+	#cpi {
+  		max-width: 290px;
+  		max-height: 590px;
+	}
+	#cpd_h{
+		min-width: 600px;
+		max-width: 1280px;
+	}
+	#cpi {
+	  max-width: 290px;
+	  max-height: 590px;
+	/*   overflow: hidden; */
+	  overflow-x: scroll;
+	}
+	
+	#transactionsXML, #cpd2 {
+	  min-width: 1024px;
+	  max-width: 1280px;
+	  max-height: 590px;
+	/*   overflow: hidden; */
+	  overflow: scroll;
+	}
+}	
+/* Tablet settings ----------- */
+@media only screen
+and (max-width : 1280px) {
+	#cpd_h{
+		min-width: 600px;
+		max-width: 1024px;
+	}
+	#cpd_h{
+		min-width: 600px;
+		max-width: 1024px;
+	}
+	#cpi {
+	  max-width: 290px;
+	  height: 500px;
+	/*   overflow: hidden; */
+	  overflow-x: scroll;
+	}
+	
+	#transactionsXML, #cpd2 {
+	  height: 500px;
+	  width: 860px;
+	  overflow-x: scroll;
+	}
+}
+
+#mp, #mp_off{
+	max-width: 100px;min-height: 100%;
+	position: absolute; top:0; left: 0;
+}
+#cp, #cp_h{
+	max-width: 1024px;
+	min-height: 100%;
+	position: absolute; top: 0; left: 100px;
+}
+#cpm li{float: left;}
+#dialogBox{clear: both;}
+/* td{white-space: nowrap;} */
+.col1{width:125px;}
+.col8{width:200px;}
+td.col8{white-space: nowrap;}
+
+#slider_settings li{
+  float: left;
+  margin-top: 2px;
+}
+#slider_settings li a {padding: 2px 5px;}
+/*******************************************************/
+/*Theming*/
+#mp li, #mp_off li{
+	border-bottom: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+}
+#cp{
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+}
+#cpm li{
+	border: 0;
+	border-right: 1px solid #CCC;
+}
+#slider_settings li{
+  border-top: 1px solid #CCC;
+  border-bottom: 1px solid #CCC;
+  border-right: 1px solid #CCC;
+}
+#slider_settings li:nth-child(1){
+  border-left:1px solid #CCC;;
+}

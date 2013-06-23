@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <type>categoriesOnly</type>
+  <item>
+    <name>Bike</name>
+    <id>1</id>
+  </item>
+  <item>
+    <name>Bills</name>
+    <id>2</id>
+  </item>
+  <item>
+    <name>C.O.G</name>
+    <id>3</id>
+  </item>
+  <item>
+    <name>Computing</name>
+    <id>4</id>
+  </item>
+  <item>
+    <name>Dime 1</name>
+    <id>28</id>
+  </item>
+  <item>
+    <name>Dime 2</name>
+    <id>29</id>
+  </item>
+  <item>
+    <name>Education</name>
+    <id>5</id>
+  </item>
+  <item>
+    <name>Electronics</name>
+    <id>6</id>
+  </item>
+  <item>
+    <name>Food</name>
+    <id>7</id>
+  </item>
+  <item>
+    <name>Gifts</name>
+    <id>8</id>
+  </item>
+  <item>
+    <name>Healthcare</name>
+    <id>9</id>
+  </item>
+  <item>
+    <name>Home &amp; Living</name>
+    <id>10</id>
+  </item>
+  <item>
+    <name>Household</name>
+    <id>11</id>
+  </item>
+  <item>
+    <name>Income</name>
+    <id>12</id>
+  </item>
+  <item>
+    <name>Job Expenses</name>
+    <id>13</id>
+  </item>
+  <item>
+    <name>Leisure</name>
+    <id>14</id>
+  </item>
+  <item>
+    <name>Leisure &amp; Travel</name>
+    <id>15</id>
+  </item>
+  <item>
+    <name>Mobile Phones</name>
+    <id>16</id>
+  </item>
+  <item>
+    <name>Refund</name>
+    <id>17</id>
+  </item>
+  <item>
+    <name>Savings</name>
+    <id>18</id>
+  </item>
+  <item>
+    <name>Self Publishing</name>
+    <id>19</id>
+  </item>
+  <item>
+    <name>Software</name>
+    <id>20</id>
+  </item>
+  <item>
+    <name>Starting Balance</name>
+    <id>21</id>
+  </item>
+  <item>
+    <name>Technology</name>
+    <id>22</id>
+  </item>
+  <item>
+    <name>Transfer</name>
+    <id>23</id>
+  </item>
+  <item>
+    <name>Travel</name>
+    <id>24</id>
+  </item>
+  <item>
+    <name>Uncategorized</name>
+    <id>25</id>
+  </item>
+</items>

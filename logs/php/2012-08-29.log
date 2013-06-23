@@ -1,0 +1,741 @@
+08/29/2012 08:40:15 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 08:40:15 am: Get the dataset to return in json obj...
+08/29/2012 08:40:15 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 08:40:15 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 08:40:15 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 08:40:15 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 08:40:15 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 08:40:15 am: ... Got dataset to return in json obj
+08/29/2012 08:40:15 am: Get the dataset to return in json obj...
+08/29/2012 08:40:15 am: Get the dataset to return in json obj...
+08/29/2012 08:40:15 am: Get the dataset to return in json obj...
+08/29/2012 08:40:15 am: Get the dataset to return in json obj...
+08/29/2012 08:40:15 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 08:40:15 am: ... Got dataset to return in json obj
+08/29/2012 08:40:15 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 08:40:15 am: ... Got dataset to return in json obj
+08/29/2012 08:40:15 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 08:40:15 am: ... Got dataset to return in json obj
+08/29/2012 08:40:15 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 08:40:15 am: ... Got dataset to return in json obj
+08/29/2012 09:00:40 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:00:40 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:00:40 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:00:40 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:00:40 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:00:40 am: Get the dataset to return in json obj...
+08/29/2012 09:00:40 am: Get the dataset to return in json obj...
+08/29/2012 09:00:40 am: Get the dataset to return in json obj...
+08/29/2012 09:00:40 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:00:40 am: ... Got dataset to return in json obj
+08/29/2012 09:00:40 am: Get the dataset to return in json obj...
+08/29/2012 09:00:40 am: Get the dataset to return in json obj...
+08/29/2012 09:00:40 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:00:40 am: ... Got dataset to return in json obj
+08/29/2012 09:00:40 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:00:40 am: ... Got dataset to return in json obj
+08/29/2012 09:00:40 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:00:40 am: ... Got dataset to return in json obj
+08/29/2012 09:00:40 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:00:40 am: ... Got dataset to return in json obj
+08/29/2012 09:02:35 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:02:35 am: Get the dataset to return in json obj...
+08/29/2012 09:02:35 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:02:35 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:02:35 am: ... Got dataset to return in json obj
+08/29/2012 09:02:35 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:02:35 am: Get the dataset to return in json obj...
+08/29/2012 09:02:35 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:02:35 am: ... Got dataset to return in json obj
+08/29/2012 09:02:35 am: Get the dataset to return in json obj...
+08/29/2012 09:02:35 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:02:35 am: ... Got dataset to return in json obj
+08/29/2012 09:02:35 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:02:35 am: Get the dataset to return in json obj...
+08/29/2012 09:02:35 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:02:35 am: ... Got dataset to return in json obj
+08/29/2012 09:02:35 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:02:35 am: Get the dataset to return in json obj...
+08/29/2012 09:02:35 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:02:35 am: ... Got dataset to return in json obj
+08/29/2012 09:03:10 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:03:10 am: Get the dataset to return in json obj...
+08/29/2012 09:03:10 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:03:10 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:03:10 am: ... Got dataset to return in json obj
+08/29/2012 09:03:10 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:03:10 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:03:10 am: Get the dataset to return in json obj...
+08/29/2012 09:03:10 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:03:10 am: Get the dataset to return in json obj...
+08/29/2012 09:03:10 am: Get the dataset to return in json obj...
+08/29/2012 09:03:10 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:03:10 am: ... Got dataset to return in json obj
+08/29/2012 09:03:10 am: Get the dataset to return in json obj...
+08/29/2012 09:03:10 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:03:10 am: ... Got dataset to return in json obj
+08/29/2012 09:03:10 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:03:10 am: ... Got dataset to return in json obj
+08/29/2012 09:03:10 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:03:10 am: ... Got dataset to return in json obj
+08/29/2012 09:14:52 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:14:52 am: Get the dataset to return in json obj...
+08/29/2012 09:14:52 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:14:52 am: ... Got dataset to return in json obj
+08/29/2012 09:14:52 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:14:52 am: Get the dataset to return in json obj...
+08/29/2012 09:14:52 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:14:52 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:14:52 am: Get the dataset to return in json obj...
+08/29/2012 09:14:52 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:14:52 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:14:52 am: ... Got dataset to return in json obj
+08/29/2012 09:14:52 am: ... Got dataset to return in json obj
+08/29/2012 09:14:52 am: Get the dataset to return in json obj...
+08/29/2012 09:14:52 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:14:52 am: ... Got dataset to return in json obj
+08/29/2012 09:14:52 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:14:52 am: Get the dataset to return in json obj...
+08/29/2012 09:14:52 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:14:52 am: ... Got dataset to return in json obj
+08/29/2012 09:16:04 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:04 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:04 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:04 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:04 am: Get the dataset to return in json obj...
+08/29/2012 09:16:04 am: Get the dataset to return in json obj...
+08/29/2012 09:16:04 am: Get the dataset to return in json obj...
+08/29/2012 09:16:04 am: Get the dataset to return in json obj...
+08/29/2012 09:16:04 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:04 am: ... Got dataset to return in json obj
+08/29/2012 09:16:04 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:04 am: ... Got dataset to return in json obj
+08/29/2012 09:16:04 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:04 am: ... Got dataset to return in json obj
+08/29/2012 09:16:04 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:04 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:04 am: ... Got dataset to return in json obj
+08/29/2012 09:16:04 am: Get the dataset to return in json obj...
+08/29/2012 09:16:04 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:04 am: ... Got dataset to return in json obj
+08/29/2012 09:16:10 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:10 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:10 am: Get the dataset to return in json obj...
+08/29/2012 09:16:10 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:10 am: Get the dataset to return in json obj...
+08/29/2012 09:16:10 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:10 am: ... Got dataset to return in json obj
+08/29/2012 09:16:10 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:10 am: ... Got dataset to return in json obj
+08/29/2012 09:16:10 am: Get the dataset to return in json obj...
+08/29/2012 09:16:10 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:10 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:10 am: ... Got dataset to return in json obj
+08/29/2012 09:16:10 am: Get the dataset to return in json obj...
+08/29/2012 09:16:11 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:11 am: ... Got dataset to return in json obj
+08/29/2012 09:16:11 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:11 am: Get the dataset to return in json obj...
+08/29/2012 09:16:11 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:11 am: ... Got dataset to return in json obj
+08/29/2012 09:16:15 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:15 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:15 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:15 am: Get the dataset to return in json obj...
+08/29/2012 09:16:15 am: Get the dataset to return in json obj...
+08/29/2012 09:16:15 am: Get the dataset to return in json obj...
+08/29/2012 09:16:15 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:15 am: ... Got dataset to return in json obj
+08/29/2012 09:16:15 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:15 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:15 am: ... Got dataset to return in json obj
+08/29/2012 09:16:15 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:15 am: ... Got dataset to return in json obj
+08/29/2012 09:16:15 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:15 am: Get the dataset to return in json obj...
+08/29/2012 09:16:15 am: Get the dataset to return in json obj...
+08/29/2012 09:16:15 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:15 am: ... Got dataset to return in json obj
+08/29/2012 09:16:15 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:15 am: ... Got dataset to return in json obj
+08/29/2012 09:16:33 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:33 am: Get the dataset to return in json obj...
+08/29/2012 09:16:33 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:33 am: ... Got dataset to return in json obj
+08/29/2012 09:16:33 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:33 am: Get the dataset to return in json obj...
+08/29/2012 09:16:33 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:33 am: ... Got dataset to return in json obj
+08/29/2012 09:16:33 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:33 am: Get the dataset to return in json obj...
+08/29/2012 09:16:33 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:33 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:33 am: Get the dataset to return in json obj...
+08/29/2012 09:16:33 am: Get the dataset to return in json obj...
+08/29/2012 09:16:33 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:33 am: ... Got dataset to return in json obj
+08/29/2012 09:16:33 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:33 am: ... Got dataset to return in json obj
+08/29/2012 09:16:33 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:33 am: ... Got dataset to return in json obj
+08/29/2012 09:16:55 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:55 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:55 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:55 am: Get the dataset to return in json obj...
+08/29/2012 09:16:55 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:55 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:55 am: Get the dataset to return in json obj...
+08/29/2012 09:16:55 am: Get the dataset to return in json obj...
+08/29/2012 09:16:55 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:55 am: ... Got dataset to return in json obj
+08/29/2012 09:16:55 am: Get the dataset to return in json obj...
+08/29/2012 09:16:55 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:55 am: ... Got dataset to return in json obj
+08/29/2012 09:16:55 am: Get the dataset to return in json obj...
+08/29/2012 09:16:55 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:55 am: ... Got dataset to return in json obj
+08/29/2012 09:16:55 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:55 am: ... Got dataset to return in json obj
+08/29/2012 09:16:55 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:55 am: ... Got dataset to return in json obj
+08/29/2012 09:16:59 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:59 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:16:59 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:59 am: Get the dataset to return in json obj...
+08/29/2012 09:16:59 am: Get the dataset to return in json obj...
+08/29/2012 09:16:59 am: Get the dataset to return in json obj...
+08/29/2012 09:16:59 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:16:59 am: ... Got dataset to return in json obj
+08/29/2012 09:16:59 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:16:59 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:16:59 am: ... Got dataset to return in json obj
+08/29/2012 09:16:59 am: ... Got dataset to return in json obj
+08/29/2012 09:16:59 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:59 am: Get the dataset to return in json obj...
+08/29/2012 09:16:59 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:16:59 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:16:59 am: ... Got dataset to return in json obj
+08/29/2012 09:16:59 am: Get the dataset to return in json obj...
+08/29/2012 09:16:59 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:16:59 am: ... Got dataset to return in json obj
+08/29/2012 09:20:03 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:20:03 am: Get the dataset to return in json obj...
+08/29/2012 09:20:03 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:20:03 am: ... Got dataset to return in json obj
+08/29/2012 09:20:03 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:20:03 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:20:03 am: Get the dataset to return in json obj...
+08/29/2012 09:20:03 am: Get the dataset to return in json obj...
+08/29/2012 09:20:03 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:20:03 am: ... Got dataset to return in json obj
+08/29/2012 09:20:03 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:20:03 am: ... Got dataset to return in json obj
+08/29/2012 09:20:03 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:20:03 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:20:03 am: Get the dataset to return in json obj...
+08/29/2012 09:20:03 am: Get the dataset to return in json obj...
+08/29/2012 09:20:03 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:20:03 am: ... Got dataset to return in json obj
+08/29/2012 09:20:03 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:20:03 am: ... Got dataset to return in json obj
+08/29/2012 09:21:45 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:21:45 am: Get the dataset to return in json obj...
+08/29/2012 09:21:45 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:21:45 am: ... Got dataset to return in json obj
+08/29/2012 09:21:45 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:21:45 am: Get the dataset to return in json obj...
+08/29/2012 09:21:45 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:21:45 am: ... Got dataset to return in json obj
+08/29/2012 09:21:45 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:21:45 am: Get the dataset to return in json obj...
+08/29/2012 09:21:45 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:21:45 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:21:45 am: Get the dataset to return in json obj...
+08/29/2012 09:21:45 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:21:45 am: ... Got dataset to return in json obj
+08/29/2012 09:21:45 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:21:45 am: ... Got dataset to return in json obj
+08/29/2012 09:21:45 am: Get the dataset to return in json obj...
+08/29/2012 09:21:45 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:21:45 am: ... Got dataset to return in json obj
+08/29/2012 09:22:00 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:22:01 am: Get the dataset to return in json obj...
+08/29/2012 09:22:01 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:22:01 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:22:01 am: ... Got dataset to return in json obj
+08/29/2012 09:22:01 am: Get the dataset to return in json obj...
+08/29/2012 09:22:01 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:22:01 am: Get the dataset to return in json obj...
+08/29/2012 09:22:01 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:22:01 am: ... Got dataset to return in json obj
+08/29/2012 09:22:01 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:22:01 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:22:01 am: ... Got dataset to return in json obj
+08/29/2012 09:22:01 am: Get the dataset to return in json obj...
+08/29/2012 09:22:01 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:22:01 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:22:01 am: Get the dataset to return in json obj...
+08/29/2012 09:22:01 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:22:01 am: ... Got dataset to return in json obj
+08/29/2012 09:22:01 am: ... Got dataset to return in json obj
+08/29/2012 09:23:36 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:23:36 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:36 am: Get the dataset to return in json obj...
+08/29/2012 09:23:36 am: Get the dataset to return in json obj...
+08/29/2012 09:23:36 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:36 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:36 am: Get the dataset to return in json obj...
+08/29/2012 09:23:36 am: Get the dataset to return in json obj...
+08/29/2012 09:23:36 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:23:36 am: ... Got dataset to return in json obj
+08/29/2012 09:23:36 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:36 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:23:36 am: ... Got dataset to return in json obj
+08/29/2012 09:23:36 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:23:36 am: ... Got dataset to return in json obj
+08/29/2012 09:23:36 am: Get the dataset to return in json obj...
+08/29/2012 09:23:36 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:23:36 am: ... Got dataset to return in json obj
+08/29/2012 09:23:36 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:23:36 am: ... Got dataset to return in json obj
+08/29/2012 09:23:37 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:23:37 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:37 am: Get the dataset to return in json obj...
+08/29/2012 09:23:37 am: Get the dataset to return in json obj...
+08/29/2012 09:23:37 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:37 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:37 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:23:37 am: ... Got dataset to return in json obj
+08/29/2012 09:23:37 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:23:37 am: ... Got dataset to return in json obj
+08/29/2012 09:23:37 am: Get the dataset to return in json obj...
+08/29/2012 09:23:37 am: Get the dataset to return in json obj...
+08/29/2012 09:23:37 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:23:37 am: ... Got dataset to return in json obj
+08/29/2012 09:23:37 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:37 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:23:37 am: ... Got dataset to return in json obj
+08/29/2012 09:23:37 am: Get the dataset to return in json obj...
+08/29/2012 09:23:37 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:23:37 am: ... Got dataset to return in json obj
+08/29/2012 09:23:38 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:23:38 am: Get the dataset to return in json obj...
+08/29/2012 09:23:38 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:38 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:23:38 am: ... Got dataset to return in json obj
+08/29/2012 09:23:38 am: Get the dataset to return in json obj...
+08/29/2012 09:23:38 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:38 am: Get the dataset to return in json obj...
+08/29/2012 09:23:38 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:23:38 am: ... Got dataset to return in json obj
+08/29/2012 09:23:38 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:23:38 am: ... Got dataset to return in json obj
+08/29/2012 09:23:38 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:38 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:38 am: Get the dataset to return in json obj...
+08/29/2012 09:23:38 am: Get the dataset to return in json obj...
+08/29/2012 09:23:38 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:23:38 am: ... Got dataset to return in json obj
+08/29/2012 09:23:38 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:23:38 am: ... Got dataset to return in json obj
+08/29/2012 09:23:42 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:42 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:42 am: Get the dataset to return in json obj...
+08/29/2012 09:23:42 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:42 am: Get the dataset to return in json obj...
+08/29/2012 09:23:42 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:23:42 am: ... Got dataset to return in json obj
+08/29/2012 09:23:42 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:23:42 am: ... Got dataset to return in json obj
+08/29/2012 09:23:42 am: Get the dataset to return in json obj...
+08/29/2012 09:23:42 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:23:42 am: ... Got dataset to return in json obj
+08/29/2012 09:23:42 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:23:42 am: Get the dataset to return in json obj...
+08/29/2012 09:23:42 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:23:42 am: ... Got dataset to return in json obj
+08/29/2012 09:23:42 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:42 am: Get the dataset to return in json obj...
+08/29/2012 09:23:42 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:23:42 am: ... Got dataset to return in json obj
+08/29/2012 09:23:43 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:23:43 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:43 am: Get the dataset to return in json obj...
+08/29/2012 09:23:43 am: Get the dataset to return in json obj...
+08/29/2012 09:23:43 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:43 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:43 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:23:43 am: Get the dataset to return in json obj...
+08/29/2012 09:23:43 am: Get the dataset to return in json obj...
+08/29/2012 09:23:43 am: Get the dataset to return in json obj...
+08/29/2012 09:23:43 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:23:43 am: ... Got dataset to return in json obj
+08/29/2012 09:23:43 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:23:43 am: ... Got dataset to return in json obj
+08/29/2012 09:23:43 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:23:43 am: ... Got dataset to return in json obj
+08/29/2012 09:23:43 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:23:43 am: ... Got dataset to return in json obj
+08/29/2012 09:23:43 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:23:43 am: ... Got dataset to return in json obj
+08/29/2012 09:28:48 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:28:48 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:28:48 am: Get the dataset to return in json obj...
+08/29/2012 09:28:48 am: Get the dataset to return in json obj...
+08/29/2012 09:28:48 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:28:48 am: ... Got dataset to return in json obj
+08/29/2012 09:28:48 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:28:48 am: ... Got dataset to return in json obj
+08/29/2012 09:28:48 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:28:48 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:28:48 am: Get the dataset to return in json obj...
+08/29/2012 09:28:48 am: Get the dataset to return in json obj...
+08/29/2012 09:28:48 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:28:48 am: ... Got dataset to return in json obj
+08/29/2012 09:28:48 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:28:48 am: Get the dataset to return in json obj...
+08/29/2012 09:28:48 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:28:48 am: ... Got dataset to return in json obj
+08/29/2012 09:28:48 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:28:48 am: ... Got dataset to return in json obj
+08/29/2012 09:29:47 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:29:47 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:29:47 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:29:47 am: Get the dataset to return in json obj...
+08/29/2012 09:29:47 am: Get the dataset to return in json obj...
+08/29/2012 09:29:47 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:29:47 am: ... Got dataset to return in json obj
+08/29/2012 09:29:47 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:29:47 am: ... Got dataset to return in json obj
+08/29/2012 09:29:47 am: Get the dataset to return in json obj...
+08/29/2012 09:29:47 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:29:47 am: ... Got dataset to return in json obj
+08/29/2012 09:29:47 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:29:47 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:29:47 am: Get the dataset to return in json obj...
+08/29/2012 09:29:47 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:29:47 am: ... Got dataset to return in json obj
+08/29/2012 09:29:47 am: Get the dataset to return in json obj...
+08/29/2012 09:29:47 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:29:47 am: ... Got dataset to return in json obj
+08/29/2012 09:30:41 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:30:41 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:30:41 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:30:41 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:30:41 am: Get the dataset to return in json obj...
+08/29/2012 09:30:41 am: Get the dataset to return in json obj...
+08/29/2012 09:30:41 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:30:41 am: Get the dataset to return in json obj...
+08/29/2012 09:30:41 am: Get the dataset to return in json obj...
+08/29/2012 09:30:41 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:30:41 am: ... Got dataset to return in json obj
+08/29/2012 09:30:41 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:30:41 am: ... Got dataset to return in json obj
+08/29/2012 09:30:41 am: Get the dataset to return in json obj...
+08/29/2012 09:30:41 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:30:41 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:30:41 am: ... Got dataset to return in json obj
+08/29/2012 09:30:41 am: ... Got dataset to return in json obj
+08/29/2012 09:30:41 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:30:41 am: ... Got dataset to return in json obj
+08/29/2012 09:31:35 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 09:31:35 am: Get the dataset to return in json obj...
+08/29/2012 09:31:35 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 09:31:35 am: ... Got dataset to return in json obj
+08/29/2012 09:31:35 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:31:35 am: Get the dataset to return in json obj...
+08/29/2012 09:31:35 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 09:31:35 am: ... Got dataset to return in json obj
+08/29/2012 09:31:35 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:31:35 am: Get the dataset to return in json obj...
+08/29/2012 09:31:35 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 09:31:35 am: ... Got dataset to return in json obj
+08/29/2012 09:31:35 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:31:35 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 09:31:35 am: Get the dataset to return in json obj...
+08/29/2012 09:31:35 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 09:31:35 am: ... Got dataset to return in json obj
+08/29/2012 09:31:35 am: Get the dataset to return in json obj...
+08/29/2012 09:31:35 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 09:31:35 am: ... Got dataset to return in json obj
+08/29/2012 10:00:19 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 10:00:19 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 10:00:19 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 10:00:19 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 10:00:19 am: Get the dataset to return in json obj...
+08/29/2012 10:00:19 am: Get the dataset to return in json obj...
+08/29/2012 10:00:19 am: Get the dataset to return in json obj...
+08/29/2012 10:00:19 am: Get the dataset to return in json obj...
+08/29/2012 10:00:19 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 10:00:19 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 10:00:19 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 10:00:19 am: ... Got dataset to return in json obj
+08/29/2012 10:00:19 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 10:00:19 am: ... Got dataset to return in json obj
+08/29/2012 10:00:19 am: ... Got dataset to return in json obj
+08/29/2012 10:00:19 am: Get the dataset to return in json obj...
+08/29/2012 10:00:19 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 10:00:19 am: ... Got dataset to return in json obj
+08/29/2012 10:00:19 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 10:00:19 am: ... Got dataset to return in json obj
+08/29/2012 11:13:06 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:06 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 11:13:06 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:06 am: Get the dataset to return in json obj...
+08/29/2012 11:13:06 am: Get the dataset to return in json obj...
+08/29/2012 11:13:06 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:06 am: Get the dataset to return in json obj...
+08/29/2012 11:13:06 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 11:13:06 am: ... Got dataset to return in json obj
+08/29/2012 11:13:06 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:06 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 11:13:06 am: ... Got dataset to return in json obj
+08/29/2012 11:13:06 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 11:13:06 am: ... Got dataset to return in json obj
+08/29/2012 11:13:06 am: Get the dataset to return in json obj...
+08/29/2012 11:13:06 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 11:13:06 am: ... Got dataset to return in json obj
+08/29/2012 11:13:06 am: Get the dataset to return in json obj...
+08/29/2012 11:13:06 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 11:13:06 am: ... Got dataset to return in json obj
+08/29/2012 11:13:12 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:12 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:12 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 11:13:12 am: Get the dataset to return in json obj...
+08/29/2012 11:13:12 am: Get the dataset to return in json obj...
+08/29/2012 11:13:12 am: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 11:13:12 am: ... Got dataset to return in json obj
+08/29/2012 11:13:12 am: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 11:13:12 am: ... Got dataset to return in json obj
+08/29/2012 11:13:12 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:12 am: Get the dataset to return in json obj...
+08/29/2012 11:13:12 am: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 11:13:12 am: ... Got dataset to return in json obj
+08/29/2012 11:13:12 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 11:13:12 am: Get the dataset to return in json obj...
+08/29/2012 11:13:12 am: Get the dataset to return in json obj...
+08/29/2012 11:13:12 am: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 11:13:12 am: ... Got dataset to return in json obj
+08/29/2012 11:13:12 am: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 11:13:12 am: ... Got dataset to return in json obj
+08/29/2012 04:02:33 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:02:33 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:02:33 pm: Get the dataset to return in json obj...
+08/29/2012 04:02:33 pm: Get the dataset to return in json obj...
+08/29/2012 04:02:33 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:02:33 pm: ... Got dataset to return in json obj
+08/29/2012 04:02:33 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:02:33 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:02:33 pm: Get the dataset to return in json obj...
+08/29/2012 04:02:33 pm: ... Got dataset to return in json obj
+08/29/2012 04:02:33 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:02:33 pm: ... Got dataset to return in json obj
+08/29/2012 04:02:33 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:02:33 pm: Get the dataset to return in json obj...
+08/29/2012 04:02:33 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:02:33 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:02:33 pm: ... Got dataset to return in json obj
+08/29/2012 04:02:33 pm: Get the dataset to return in json obj...
+08/29/2012 04:02:33 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:02:33 pm: ... Got dataset to return in json obj
+08/29/2012 04:06:06 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:06:06 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:06:06 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:06:06 pm: Get the dataset to return in json obj...
+08/29/2012 04:06:06 pm: Get the dataset to return in json obj...
+08/29/2012 04:06:06 pm: Get the dataset to return in json obj...
+08/29/2012 04:06:06 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:06:06 pm: ... Got dataset to return in json obj
+08/29/2012 04:06:06 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:06:06 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:06:06 pm: ... Got dataset to return in json obj
+08/29/2012 04:06:06 pm: ... Got dataset to return in json obj
+08/29/2012 04:06:06 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:06:06 pm: Get the dataset to return in json obj...
+08/29/2012 04:06:06 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:06:06 pm: Get the dataset to return in json obj...
+08/29/2012 04:06:06 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:06:06 pm: ... Got dataset to return in json obj
+08/29/2012 04:06:06 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:06:06 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:11 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:13:11 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:11 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:13:11 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:11 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:11 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:11 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:13:11 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:11 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:11 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:11 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:11 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:13:11 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:11 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:11 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:11 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:13:11 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:11 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:11 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:13:11 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:35 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:13:35 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:35 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:35 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:35 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:35 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:35 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:35 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:35 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:13:35 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:35 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:13:35 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:35 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:13:35 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:13:35 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:35 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:13:35 pm: ... Got dataset to return in json obj
+08/29/2012 04:13:35 pm: Get the dataset to return in json obj...
+08/29/2012 04:13:35 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:13:35 pm: ... Got dataset to return in json obj
+08/29/2012 04:24:38 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:24:38 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:24:38 pm: Get the dataset to return in json obj...
+08/29/2012 04:24:38 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:24:38 pm: Get the dataset to return in json obj...
+08/29/2012 04:24:38 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:24:38 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:24:38 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:24:38 pm: ... Got dataset to return in json obj
+08/29/2012 04:24:38 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:24:38 pm: ... Got dataset to return in json obj
+08/29/2012 04:24:38 pm: Get the dataset to return in json obj...
+08/29/2012 04:24:38 pm: Get the dataset to return in json obj...
+08/29/2012 04:24:38 pm: Get the dataset to return in json obj...
+08/29/2012 04:24:38 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:24:38 pm: ... Got dataset to return in json obj
+08/29/2012 04:24:38 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:24:38 pm: ... Got dataset to return in json obj
+08/29/2012 04:24:38 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:24:38 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:14 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:14 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:14 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:25:14 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:14 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:25:14 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:14 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:14 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:14 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:14 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:14 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:14 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:25:14 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:14 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:25:14 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:14 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:25:14 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:14 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:14 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:25:14 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:41 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:41 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:25:41 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:41 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:41 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:25:41 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:41 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:41 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:41 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:41 pm: Get the dataset to return in json obj...
+08/29/2012 04:25:41 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:25:41 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:41 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:25:41 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:41 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:25:41 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:41 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:25:41 pm: ... Got dataset to return in json obj
+08/29/2012 04:25:41 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:25:41 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:09 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:09 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:09 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:35:09 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:09 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:09 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:09 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:09 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:09 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:09 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:35:09 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:09 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:09 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:35:09 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:09 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:35:09 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:09 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:35:09 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:09 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:35:09 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:43 pm: Amount value: -100. Preg_match_all result is <1>
+08/29/2012 04:35:54 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:35:54 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:54 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:54 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:54 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:54 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:35:54 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:54 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:54 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:35:54 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:54 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:54 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:35:54 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:54 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:35:54 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:54 pm: Get the dataset to return in json obj...
+08/29/2012 04:35:54 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:35:54 pm: ... Got dataset to return in json obj
+08/29/2012 04:35:54 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:35:54 pm: ... Got dataset to return in json obj
+08/29/2012 04:45:59 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:45:59 pm: Get the dataset to return in json obj...
+08/29/2012 04:45:59 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:45:59 pm: ... Got dataset to return in json obj
+08/29/2012 04:45:59 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:45:59 pm: Get the dataset to return in json obj...
+08/29/2012 04:45:59 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:45:59 pm: ... Got dataset to return in json obj
+08/29/2012 04:45:59 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:45:59 pm: Get the dataset to return in json obj...
+08/29/2012 04:45:59 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:45:59 pm: ... Got dataset to return in json obj
+08/29/2012 04:45:59 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:45:59 pm: Get the dataset to return in json obj...
+08/29/2012 04:45:59 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:45:59 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:45:59 pm: ... Got dataset to return in json obj
+08/29/2012 04:45:59 pm: Get the dataset to return in json obj...
+08/29/2012 04:45:59 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:45:59 pm: ... Got dataset to return in json obj
+08/29/2012 04:46:12 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+08/29/2012 04:46:12 pm: Get the dataset to return in json obj...
+08/29/2012 04:46:12 pm: Query has run: <CALL USP_GetAccounts();>.
+08/29/2012 04:46:12 pm: ... Got dataset to return in json obj
+08/29/2012 04:46:12 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:46:12 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:46:12 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:46:12 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+08/29/2012 04:46:12 pm: Get the dataset to return in json obj...
+08/29/2012 04:46:12 pm: Get the dataset to return in json obj...
+08/29/2012 04:46:12 pm: Get the dataset to return in json obj...
+08/29/2012 04:46:12 pm: Get the dataset to return in json obj...
+08/29/2012 04:46:12 pm: Query has run: <CALL USP_GetCategories();>.
+08/29/2012 04:46:12 pm: ... Got dataset to return in json obj
+08/29/2012 04:46:12 pm: Query has run: <CALL USP_GetCategories2();>.
+08/29/2012 04:46:12 pm: ... Got dataset to return in json obj
+08/29/2012 04:46:12 pm: Query has run: <CALL USP_GetCurrencies();>.
+08/29/2012 04:46:13 pm: Query has run: <CALL USP_GetPayees();>.
+08/29/2012 04:46:13 pm: ... Got dataset to return in json obj
+08/29/2012 04:46:13 pm: ... Got dataset to return in json obj

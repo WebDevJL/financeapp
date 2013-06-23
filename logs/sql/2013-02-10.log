@@ -1,0 +1,14 @@
+02/10/2013 06:57:41 pm: CALL USP_GetAccounts();
+02/10/2013 06:57:41 pm: CALL USP_GetCurrencies();
+02/10/2013 06:57:41 pm: CALL USP_GetCategories2();
+02/10/2013 06:57:41 pm: CALL USP_GetCategories();
+02/10/2013 06:57:41 pm: CALL USP_GetPayees();
+02/10/2013 06:58:47 pm: CALL USP_InsertTransaction('2013-02-10','11','1','1','7','45','8','-14.37','');
+02/10/2013 06:58:47 pm: CALL USP_InsertTransaction('2013-02-10','11','1','1','7','45','8','-14.37','');
+02/10/2013 06:58:56 pm: CALL USP_InsertTransaction('2013-02-10','11','1','1','7','45','123','-11.37','');
+02/10/2013 06:58:56 pm: CALL USP_InsertTransaction('2013-02-10','11','1','1','7','45','123','-11.37','');
+02/10/2013 06:59:01 pm: CALL USP_GetCurrencies();
+02/10/2013 06:59:01 pm: CALL USP_GetCategories();
+02/10/2013 06:59:01 pm: CALL USP_GetAccounts();
+02/10/2013 06:59:01 pm: CALL USP_GetCategories2();
+02/10/2013 06:59:01 pm: CALL USP_GetPayees();

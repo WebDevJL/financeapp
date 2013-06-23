@@ -1,0 +1,17 @@
+09/28/2012 07:58:57 am: Amount value: -12,70. Preg_match_all result is <1>
+09/28/2012 07:59:46 am: Amount value: -8. Preg_match_all result is <1>
+09/28/2012 08:19:56 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+09/28/2012 08:19:56 pm: Get the dataset to return in json obj...
+09/28/2012 08:19:56 pm: ... Got dataset to return in json obj
+09/28/2012 08:19:56 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+09/28/2012 08:19:56 pm: Get the dataset to return in json obj...
+09/28/2012 08:19:56 pm: ... Got dataset to return in json obj
+09/28/2012 08:19:56 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+09/28/2012 08:19:56 pm: Get the dataset to return in json obj...
+09/28/2012 08:19:56 pm: ... Got dataset to return in json obj
+09/28/2012 08:19:56 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+09/28/2012 08:19:56 pm: Get the dataset to return in json obj...
+09/28/2012 08:19:56 pm: ... Got dataset to return in json obj
+09/28/2012 08:19:56 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+09/28/2012 08:19:56 pm: Get the dataset to return in json obj...
+09/28/2012 08:19:56 pm: ... Got dataset to return in json obj

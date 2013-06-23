@@ -1,0 +1,19 @@
+07/20/2012 08:13:18 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:13:18 am: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:13:28 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:13:29 am: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:39:45 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:39:45 am: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:41:05 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:41:05 am: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:41:11 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,11,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:41:11 am: call USP_GetTransactions(0,20,1,11,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:43:57 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,11,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 08:43:57 am: call USP_GetTransactions(0,20,1,11,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:00:58 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (2,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:00:58 pm: call USP_GetTransactions(0,20,2,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:01:05 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:01:06 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:01:18 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:01:19 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/20/2012 05:07:16 pm: CALL USP_GetAccounts ()

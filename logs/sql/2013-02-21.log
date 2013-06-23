@@ -1,0 +1,12 @@
+02/21/2013 09:47:09 pm: CALL USP_GetCategories();
+02/21/2013 09:47:09 pm: CALL USP_GetCategories2();
+02/21/2013 09:47:09 pm: CALL USP_GetPayees();
+02/21/2013 09:47:09 pm: CALL USP_GetCurrencies();
+02/21/2013 09:47:09 pm: CALL USP_GetAccounts();
+02/21/2013 09:47:50 pm: CALL USP_InsertTransaction('2013-02-21','6','1','1','2','24','187','-3.87','membership for Cacoo diagrams');
+02/21/2013 09:47:50 pm: CALL USP_InsertTransaction('2013-02-21','6','1','1','2','24','187','-3.87','membership for Cacoo diagrams');
+02/21/2013 09:48:50 pm: CALL USP_GetCurrencies();
+02/21/2013 09:48:50 pm: CALL USP_GetAccounts();
+02/21/2013 09:48:50 pm: CALL USP_GetPayees();
+02/21/2013 09:48:50 pm: CALL USP_GetCategories();
+02/21/2013 09:48:50 pm: CALL USP_GetCategories2();

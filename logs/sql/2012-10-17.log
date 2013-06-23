@@ -1,0 +1,15 @@
+10/17/2012 07:32:07 pm: CALL USP_GetCurrencies();
+10/17/2012 07:32:07 pm: CALL USP_GetAccounts();
+10/17/2012 07:32:07 pm: CALL USP_GetPayees();
+10/17/2012 07:32:07 pm: CALL USP_GetCategories2();
+10/17/2012 07:32:07 pm: CALL USP_GetCategories();
+10/17/2012 08:26:09 pm: CALL USP_GetAccounts();
+10/17/2012 08:26:09 pm: CALL USP_GetPayees();
+10/17/2012 08:26:09 pm: CALL USP_GetCurrencies();
+10/17/2012 08:26:09 pm: CALL USP_GetCategories2();
+10/17/2012 08:26:09 pm: CALL USP_GetCategories();
+10/17/2012 08:28:22 pm: CALL USP_GetAccounts();
+10/17/2012 08:28:22 pm: CALL USP_GetCategories();
+10/17/2012 08:28:22 pm: CALL USP_GetCategories2();
+10/17/2012 08:28:22 pm: CALL USP_GetPayees();
+10/17/2012 08:28:22 pm: CALL USP_GetCurrencies();

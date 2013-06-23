@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <pubDate>11/28/2012 06:41:36 pm</pubDate>
+  <type>schedules</type>
+  <item ID="s_1">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="1" name="Debit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="30" name="Rent"/>
+    <payee ID="20" name="BellRentals"/>
+    <amount>-1100.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_9">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="10" name="Home &amp; Living"/>
+    <subcategory ID="53" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>0.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_17">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="23" name="Internet"/>
+    <payee ID="210" name="Jonas Vingilys"/>
+    <amount>15.66</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_16">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="23" name="Internet"/>
+    <payee ID="142" name="Monica Zerson"/>
+    <amount>15.66</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_4">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="16" name="Offrande"/>
+    <type ID="2" name="Credit"/>
+    <category ID="3" name="C.O.G"/>
+    <subcategory ID="35" name="Offrande"/>
+    <payee ID="135" name="Me"/>
+    <amount>22.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_7">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="25" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>50.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_11">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="22" name="Technology"/>
+    <subcategory ID="99" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>50.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_10">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="15" name="Leisure &amp; Travel"/>
+    <subcategory ID="84" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>150.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_6">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="1" name="Bike"/>
+    <subcategory ID="8" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>150.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_5">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="7" name="Food"/>
+    <subcategory ID="46" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>175.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_2">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="9" name="Dime 1"/>
+    <type ID="2" name="Credit"/>
+    <category ID="3" name="C.O.G"/>
+    <subcategory ID="33" name="Dime 1"/>
+    <payee ID="135" name="Me"/>
+    <amount>220.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_3">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="10" name="Dime 2"/>
+    <type ID="2" name="Credit"/>
+    <category ID="3" name="C.O.G"/>
+    <subcategory ID="34" name="Dime 2"/>
+    <payee ID="135" name="Me"/>
+    <amount>220.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_8">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="26" name="Monthly budget (Rent)"/>
+    <payee ID="135" name="Me"/>
+    <amount>320.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_15">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="29" name="Received Rent"/>
+    <payee ID="210" name="Jonas Vingilys"/>
+    <amount>360.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_14">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="2" name="Credit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="29" name="Received Rent"/>
+    <payee ID="142" name="Monica Zerson"/>
+    <amount>420.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_12">
+    <date>2012-12-01</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="15" name="N/A"/>
+    <type ID="2" name="Credit"/>
+    <category ID="18" name="Savings"/>
+    <subcategory ID="89" name="Monthly budget"/>
+    <payee ID="135" name="Me"/>
+    <amount>600.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_21">
+    <date>2012-12-05</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="3" name="Transfer"/>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="104" name="AIB - Savings-245"/>
+    <payee ID="135" name="Me"/>
+    <amount>-350.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_22">
+    <date>2012-12-10</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="3" name="Transfer"/>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="102" name="AIB - Online savings-328"/>
+    <payee ID="135" name="Me"/>
+    <amount>-125.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_23">
+    <date>2012-12-10</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="3" name="Transfer"/>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="103" name="AIB - Online savings-401"/>
+    <payee ID="135" name="Me"/>
+    <amount>-30.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_13">
+    <date>2012-12-28</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="1" name="Debit"/>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="23" name="Internet"/>
+    <payee ID="201" name="UPC"/>
+    <amount>-47.00</amount>
+    <notes></notes>
+  </item>
+  <item ID="s_20">
+    <date>2012-12-28</date>
+    <currency>1</currency>
+    <interval ID="3" name="Month"/>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="2" name="Credit"/>
+    <category ID="12" name="Income"/>
+    <subcategory ID="70" name="Wages and Salary"/>
+    <payee ID="200" name="Trust5"/>
+    <amount>1495.00</amount>
+    <notes></notes>
+  </item>
+</items>

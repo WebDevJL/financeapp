@@ -1,0 +1,7 @@
+07/28/2012 10:37:51 pm: CALL USP_GetAccounts();
+07/28/2012 10:37:51 pm: CALL USP_GetPayees();
+07/28/2012 10:37:51 pm: CALL USP_GetCurrencies();
+07/28/2012 10:37:51 pm: CALL USP_GetCategories();
+07/28/2012 10:37:51 pm: CALL USP_GetCategories2();
+07/28/2012 10:39:46 pm: CALL USP_InsertTransaction('2012-07-28','17','1','1','1','11','35','-47.32','Brand X Quill adaptor, Deda Elementi RHM01 Road Handlebar - Black, BBB Cork Race Ribbon Bar Tape BHT01');
+07/28/2012 10:39:46 pm: CALL USP_InsertTransaction('2012-07-28','17','1','1','1','11','35','-47.32','Brand X Quill adaptor, Deda Elementi RHM01 Road Handlebar - Black, BBB Cork Race Ribbon Bar Tape BHT01');

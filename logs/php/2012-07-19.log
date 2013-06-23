@@ -1,0 +1,115 @@
+07/19/2012 09:29:58 am: Date in POST: 1970-01-01
+07/19/2012 09:30:15 am: Date in POST: 1970-01-01
+07/19/2012 09:31:42 am: Date in POST: . Date formatted: 1970-01-01.
+07/19/2012 09:32:12 am: Date in POST: . Date formatted: 1970-01-01.
+07/19/2012 09:32:42 am: Date in POST: . Date formatted: 1970-01-01.
+07/19/2012 09:33:02 am: Date in POST: 07/19/2012. Date formatted: 2012-07-19.
+07/19/2012 09:51:12 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','1','1','1','7','45','8','a','');>.
+07/19/2012 09:54:31 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','1','1','1','7','45','8','a','');>.
+07/19/2012 09:56:09 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','1','1','1','7','45','8','a','');>.
+07/19/2012 10:00:00 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','11','1','2','7','45','8','10a','');>.
+07/19/2012 10:01:05 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','11','1','2','7','45','8','a10','');>.
+07/19/2012 10:51:42 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','11','1','2','7','45','8','a10','');>.
+07/19/2012 10:54:09 am: Result is_numeric : is_numeric(a10
+07/19/2012 10:54:09 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','11','1','2','7','45','8','a10','');>.
+07/19/2012 10:54:49 am: Result is_numeric : is_numeric(a10
+07/19/2012 10:54:49 am: Query has run: <CALL USP_InsertTransaction('2012-07-19','11','1','2','7','45','8','a10','');>.
+07/19/2012 10:58:20 am: Result is_numeric : 
+07/19/2012 10:58:58 am: Result is_numeric : 
+07/19/2012 10:59:40 am: Result is_numeric : a10
+07/19/2012 11:00:34 am: Result is_numeric : 
+07/19/2012 11:04:01 am: 1
+07/19/2012 12:06:19 pm: 
+07/19/2012 12:08:59 pm: Preg_match_all result is <0>.
+07/19/2012 12:10:45 pm: Preg_match_all result is <0>.
+07/19/2012 12:10:59 pm: Preg_match_all result is <0>.
+07/19/2012 12:11:14 pm: Preg_match_all result is <>.
+07/19/2012 12:15:13 pm: Preg_match_all result is <>.
+07/19/2012 12:15:34 pm: Preg_match_all result is <>.
+07/19/2012 12:17:29 pm: Preg_match_all result is <>.
+07/19/2012 12:17:43 pm: Preg_match_all result is <>.
+07/19/2012 12:18:39 pm: Preg_match_all result is <>.
+07/19/2012 12:20:02 pm: Preg_match_all result is <>.
+07/19/2012 12:23:21 pm: Preg_match_all result is <>.
+07/19/2012 12:24:03 pm: Preg_match_all result is <>
+07/19/2012 12:24:48 pm: Preg_match_all result is <>
+07/19/2012 12:25:31 pm: Preg_match_all result is <>
+07/19/2012 12:26:16 pm: Preg_match_all result is <1>
+07/19/2012 01:15:47 pm: Preg_match_all result is <1>
+07/19/2012 01:30:11 pm: Preg_match_all result is <1>
+07/19/2012 01:31:20 pm: Amount value: a10Preg_match_all result is <1>
+07/19/2012 01:33:57 pm: Amount value: a10Preg_match_all result is <1;1;1;1>
+07/19/2012 01:40:47 pm: Amount value: a10Preg_match_all result is <1;1;1;1>
+07/19/2012 01:41:48 pm: Amount value: a10. Preg_match_all result is <1>
+07/19/2012 01:42:18 pm: Amount value: 12. Preg_match_all result is <1>
+07/19/2012 01:43:02 pm: Amount value: 12. Preg_match_all result is <1>
+07/19/2012 01:43:19 pm: Amount value: a12. Preg_match_all result is <0>
+07/19/2012 01:44:04 pm: Amount value: a12. Preg_match_all result is <>
+07/19/2012 01:45:08 pm: Amount value: a12. Preg_match_all result is <0>
+07/19/2012 01:45:17 pm: Amount value: 120gktdjrd. Preg_match_all result is <1>
+07/19/2012 01:45:57 pm: Amount value: 120gktdjrd00. Preg_match_all result is <1>
+07/19/2012 01:54:31 pm: Amount value: a1145. Preg_match_all result is <Array>
+07/19/2012 01:55:02 pm: Amount value: a1145. Preg_match_all result is <Array>
+07/19/2012 01:55:23 pm: Amount value: a1145. Preg_match_all result is <>
+07/19/2012 01:57:29 pm: Amount value: a1145. Preg_match_all result is <0>
+07/19/2012 02:11:42 pm: Amount value: . Preg_match_all result is <0>
+07/19/2012 02:11:49 pm: Amount value: a10. Preg_match_all result is <0>
+07/19/2012 02:11:55 pm: Amount value: 10a. Preg_match_all result is <1>
+07/19/2012 02:12:45 pm: Amount value: ,05. Preg_match_all result is <1>
+07/19/2012 02:12:49 pm: Amount value: a,05. Preg_match_all result is <0>
+07/19/2012 05:39:51 pm: problem with DB result
+07/19/2012 05:40:35 pm: problem with DB result
+07/19/2012 05:40:53 pm: problem with DB result
+07/19/2012 05:41:32 pm: problem with DB result
+07/19/2012 05:44:35 pm: problem with DB result
+07/19/2012 05:45:52 pm: problem with DB result
+07/19/2012 05:47:36 pm: problem with DB result
+07/19/2012 05:50:48 pm: problem with DB result
+07/19/2012 05:53:59 pm: problem with DB result
+07/19/2012 07:03:54 pm: problem with DB result
+07/19/2012 07:04:01 pm: problem with DB result
+07/19/2012 07:04:09 pm: problem with DB result
+07/19/2012 07:04:49 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 07:16:09 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 07:20:31 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 07:21:00 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 07:31:05 pm: Amount value: 9. Preg_match_all result is <1>
+07/19/2012 07:32:16 pm: Amount value: 110. Preg_match_all result is <1>
+07/19/2012 08:34:37 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 08:34:53 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 08:35:17 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 08:36:18 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 08:38:45 pm: Query has run: <CALL USP_GetCurrencies ()>.
+07/19/2012 08:39:10 pm: Query has run: <CALL USP_GetCurrencies ()>.
+07/19/2012 10:21:49 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 10:21:57 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 10:22:05 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 10:25:19 pm: Query has run: <CALL USP_GetPayees ()>.
+07/19/2012 10:25:23 pm: Query has run: <CALL USP_GetPayees ()>.
+07/19/2012 10:27:49 pm: Query has run: <CALL USP_GetTransactionTypes ()>.
+07/19/2012 10:27:52 pm: Query has run: <CALL USP_GetPayees ()>.
+07/19/2012 10:27:53 pm: Query has run: <CALL USP_GetCategories2 ()>.
+07/19/2012 10:27:55 pm: Query has run: <CALL USP_GetAccounts ()>.
+07/19/2012 10:27:57 pm: Query has run: <CALL USP_GetCurrencies ()>.
+07/19/2012 10:28:17 pm: Query has run: <CALL USP_GetCurrencies ()>.
+07/19/2012 10:28:35 pm: dates filters: start: and end:
+07/19/2012 10:28:35 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/19/2012 10:28:35 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:35 pm: query string=
+07/19/2012 10:28:35 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:35 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:35 pm: totalrows=3326;page=1,limit=20;startIndex=0
+07/19/2012 10:28:39 pm: dates filters: start: and end:
+07/19/2012 10:28:39 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/19/2012 10:28:39 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:39 pm: query string=
+07/19/2012 10:28:39 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:39 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:28:39 pm: totalrows=3326;page=1,limit=20;startIndex=0
+07/19/2012 10:39:02 pm: dates filters: start: and end:
+07/19/2012 10:39:02 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/19/2012 10:39:02 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:39:02 pm: query string=
+07/19/2012 10:39:02 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:39:02 pm: totalrows=3326;page=1,limit=20
+07/19/2012 10:39:02 pm: totalrows=3326;page=1,limit=20;startIndex=0

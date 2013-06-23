@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <type>categoriesLong</type>
+  <item>
+    <name>Bike:Accessories</name>
+    <id>1:1</id>
+  </item>
+  <item>
+    <name>Bike:Claud Butler Levante</name>
+    <id>1:2</id>
+  </item>
+  <item>
+    <name>Bike:Clothing</name>
+    <id>1:3</id>
+  </item>
+  <item>
+    <name>Bike:Cube Agree GTC Race</name>
+    <id>1:4</id>
+  </item>
+  <item>
+    <name>Bike:Cube Streamer 2010</name>
+    <id>1:5</id>
+  </item>
+  <item>
+    <name>Bike:Cube Streamer 2011</name>
+    <id>1:6</id>
+  </item>
+  <item>
+    <name>Bike:Dawes 201 Discovery</name>
+    <id>1:7</id>
+  </item>
+  <item>
+    <name>Bike:Monthly budget</name>
+    <id>1:8</id>
+  </item>
+  <item>
+    <name>Bike:Pro-Lite Cuneo 2012</name>
+    <id>1:9</id>
+  </item>
+  <item>
+    <name>Bike:Promax Hybrid</name>
+    <id>1:10</id>
+  </item>
+  <item>
+    <name>Bike:Raleigh Brazil 300EX</name>
+    <id>1:11</id>
+  </item>
+  <item>
+    <name>Bike:Raleigh Pionner</name>
+    <id>1:12</id>
+  </item>
+  <item>
+    <name>Bike:Scott CX Comp 2012</name>
+    <id>1:13</id>
+  </item>
+  <item>
+    <name>Bike:Single speed bike</name>
+    <id>1:14</id>
+  </item>
+  <item>
+    <name>Bike:Spare parts</name>
+    <id>1:15</id>
+  </item>
+  <item>
+    <name>Bike:Tools &amp; Maintenance</name>
+    <id>1:16</id>
+  </item>
+  <item>
+    <name>Bills:Bank charges</name>
+    <id>2:17</id>
+  </item>
+  <item>
+    <name>Bills:Electricity</name>
+    <id>2:18</id>
+  </item>
+  <item>
+    <name>Bills:Garbage and Recycle</name>
+    <id>2:19</id>
+  </item>
+  <item>
+    <name>Bills:Gas</name>
+    <id>2:20</id>
+  </item>
+  <item>
+    <name>Bills:Generic</name>
+    <id>2:21</id>
+  </item>
+  <item>
+    <name>Bills:Health</name>
+    <id>2:22</id>
+  </item>
+  <item>
+    <name>Bills:Internet</name>
+    <id>2:23</id>
+  </item>
+  <item>
+    <name>Bills:Membership fees</name>
+    <id>2:24</id>
+  </item>
+  <item>
+    <name>Bills:Monthly budget</name>
+    <id>2:25</id>
+  </item>
+  <item>
+    <name>Bills:Monthly budget (Rent)</name>
+    <id>2:26</id>
+  </item>
+  <item>
+    <name>Bills:Official documents</name>
+    <id>2:27</id>
+  </item>
+  <item>
+    <name>Bills:Postage &amp; Packaging</name>
+    <id>2:28</id>
+  </item>
+  <item>
+    <name>Bills:Received Rent</name>
+    <id>2:29</id>
+  </item>
+  <item>
+    <name>Bills:Rent</name>
+    <id>2:30</id>
+  </item>
+  <item>
+    <name>Bills:Security Deposit</name>
+    <id>2:31</id>
+  </item>
+  <item>
+    <name>Bills:Telephone</name>
+    <id>2:32</id>
+  </item>
+  <item>
+    <name>C.O.G:Dime 1</name>
+    <id>3:33</id>
+  </item>
+  <item>
+    <name>C.O.G:Dime 2</name>
+    <id>3:34</id>
+  </item>
+  <item>
+    <name>C.O.G:Offrande</name>
+    <id>3:35</id>
+  </item>
+  <item>
+    <name>Computing:Goodies</name>
+    <id>4:36</id>
+  </item>
+  <item>
+    <name>Computing:Hardware</name>
+    <id>4:37</id>
+  </item>
+  <item>
+    <name>Computing:Others</name>
+    <id>4:38</id>
+  </item>
+  <item>
+    <name>Dime 1:Generic</name>
+    <id>28:126</id>
+  </item>
+  <item>
+    <name>Dime 2:Generic</name>
+    <id>29:127</id>
+  </item>
+  <item>
+    <name>Dime 2:Food</name>
+    <id>29:128</id>
+  </item>
+  <item>
+    <name>Dime 2:Accomodation</name>
+    <id>29:129</id>
+  </item>
+  <item>
+    <name>Dime 2:Travel</name>
+    <id>29:130</id>
+  </item>
+  <item>
+    <name>Dime 2:Leisure</name>
+    <id>29:131</id>
+  </item>
+  <item>
+    <name>Dime 2:Clothing</name>
+    <id>29:132</id>
+  </item>
+  <item>
+    <name>Education:Books</name>
+    <id>5:39</id>
+  </item>
+  <item>
+    <name>Electronics:Generic</name>
+    <id>6:40</id>
+  </item>
+  <item>
+    <name>Electronics:Hardware</name>
+    <id>6:41</id>
+  </item>
+  <item>
+    <name>Electronics:Tools</name>
+    <id>6:42</id>
+  </item>
+  <item>
+    <name>Food:Alcohol</name>
+    <id>7:43</id>
+  </item>
+  <item>
+    <name>Food:Dining out</name>
+    <id>7:44</id>
+  </item>
+  <item>
+    <name>Food:Groceries</name>
+    <id>7:45</id>
+  </item>
+  <item>
+    <name>Food:Monthly budget</name>
+    <id>7:46</id>
+  </item>
+  <item>
+    <name>Gifts:Generic</name>
+    <id>8:47</id>
+  </item>
+  <item>
+    <name>Healthcare:Barber</name>
+    <id>9:48</id>
+  </item>
+  <item>
+    <name>Healthcare:Dental</name>
+    <id>9:49</id>
+  </item>
+  <item>
+    <name>Healthcare:Eyecare</name>
+    <id>9:50</id>
+  </item>
+  <item>
+    <name>Healthcare:Generic</name>
+    <id>9:51</id>
+  </item>
+  <item>
+    <name>Home &amp; Living:Clothing</name>
+    <id>10:52</id>
+  </item>
+  <item>
+    <name>Home &amp; Living:Monthly budget</name>
+    <id>10:53</id>
+  </item>
+  <item>
+    <name>Household:Bathroom Items</name>
+    <id>11:54</id>
+  </item>
+  <item>
+    <name>Household:Bedroom items</name>
+    <id>11:55</id>
+  </item>
+  <item>
+    <name>Household:Cleaning</name>
+    <id>11:56</id>
+  </item>
+  <item>
+    <name>Household:Desk supplies</name>
+    <id>11:57</id>
+  </item>
+  <item>
+    <name>Household:Furniture</name>
+    <id>11:58</id>
+  </item>
+  <item>
+    <name>Household:Gardening</name>
+    <id>11:59</id>
+  </item>
+  <item>
+    <name>Household:Generic</name>
+    <id>11:60</id>
+  </item>
+  <item>
+    <name>Household:Kitchen items</name>
+    <id>11:61</id>
+  </item>
+  <item>
+    <name>Household:Sewing</name>
+    <id>11:62</id>
+  </item>
+  <item>
+    <name>Household:Tools &amp; Maintenance</name>
+    <id>11:63</id>
+  </item>
+  <item>
+    <name>Household:Various Hardware</name>
+    <id>11:64</id>
+  </item>
+  <item>
+    <name>Income:Bank interests</name>
+    <id>12:65</id>
+  </item>
+  <item>
+    <name>Income:Generic</name>
+    <id>12:66</id>
+  </item>
+  <item>
+    <name>Income:Gifts</name>
+    <id>12:67</id>
+  </item>
+  <item>
+    <name>Income:Governement Grant</name>
+    <id>12:68</id>
+  </item>
+  <item>
+    <name>Income:Refund</name>
+    <id>12:69</id>
+  </item>
+  <item>
+    <name>Income:Wages and Salary</name>
+    <id>12:70</id>
+  </item>
+  <item>
+    <name>Job Expenses:Generic</name>
+    <id>13:71</id>
+  </item>
+  <item>
+    <name>Leisure:Books, CD's, &amp; Magazines</name>
+    <id>14:72</id>
+  </item>
+  <item>
+    <name>Leisure:Cinema</name>
+    <id>14:73</id>
+  </item>
+  <item>
+    <name>Leisure:Entertainement</name>
+    <id>14:74</id>
+  </item>
+  <item>
+    <name>Leisure:Golf</name>
+    <id>14:75</id>
+  </item>
+  <item>
+    <name>Leisure:Music</name>
+    <id>14:76</id>
+  </item>
+  <item>
+    <name>Leisure:Night Out &amp; Social events</name>
+    <id>14:77</id>
+  </item>
+  <item>
+    <name>Leisure:Office supplies</name>
+    <id>14:78</id>
+  </item>
+  <item>
+    <name>Leisure:Others</name>
+    <id>14:79</id>
+  </item>
+  <item>
+    <name>Leisure:Photography</name>
+    <id>14:80</id>
+  </item>
+  <item>
+    <name>Leisure:Sporting Events</name>
+    <id>14:81</id>
+  </item>
+  <item>
+    <name>Leisure:Sporting Goods</name>
+    <id>14:82</id>
+  </item>
+  <item>
+    <name>Leisure:Tourism</name>
+    <id>14:83</id>
+  </item>
+  <item>
+    <name>Leisure &amp; Travel:Monthly budget</name>
+    <id>15:84</id>
+  </item>
+  <item>
+    <name>Mobile Phones:Generic</name>
+    <id>16:85</id>
+  </item>
+  <item>
+    <name>Mobile Phones:Goodies</name>
+    <id>16:86</id>
+  </item>
+  <item>
+    <name>Mobile Phones:Hardware</name>
+    <id>16:87</id>
+  </item>
+  <item>
+    <name>Refund:Generic</name>
+    <id>17:88</id>
+  </item>
+  <item>
+    <name>Savings:Monthly budget</name>
+    <id>18:89</id>
+  </item>
+  <item>
+    <name>Self Publishing:Book Order</name>
+    <id>19:90</id>
+  </item>
+  <item>
+    <name>Self Publishing:Sofware</name>
+    <id>19:91</id>
+  </item>
+  <item>
+    <name>Self Publishing:Translations &amp; Proofreading</name>
+    <id>19:92</id>
+  </item>
+  <item>
+    <name>Software:Android</name>
+    <id>20:93</id>
+  </item>
+  <item>
+    <name>Software:Generic</name>
+    <id>20:94</id>
+  </item>
+  <item>
+    <name>Software:MAC OS-X</name>
+    <id>20:95</id>
+  </item>
+  <item>
+    <name>Starting Balance:Generic</name>
+    <id>21:96</id>
+  </item>
+  <item>
+    <name>Technology:Hardware</name>
+    <id>22:97</id>
+  </item>
+  <item>
+    <name>Technology:Mobile phones</name>
+    <id>22:98</id>
+  </item>
+  <item>
+    <name>Technology:Monthly budget</name>
+    <id>22:99</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Current</name>
+    <id>23:100</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Online notice 7-161</name>
+    <id>23:101</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Online savings-328</name>
+    <id>23:102</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Online savings-401</name>
+    <id>23:103</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Savings-245</name>
+    <id>23:104</id>
+  </item>
+  <item>
+    <name>Transfer:Banque Postale - CCP</name>
+    <id>23:105</id>
+  </item>
+  <item>
+    <name>Transfer:Banque Postale - CEL</name>
+    <id>23:106</id>
+  </item>
+  <item>
+    <name>Transfer:Banque Postale - Livret jeune</name>
+    <id>23:107</id>
+  </item>
+  <item>
+    <name>Transfer:Dime 1</name>
+    <id>23:108</id>
+  </item>
+  <item>
+    <name>Transfer:Dime 2</name>
+    <id>23:109</id>
+  </item>
+  <item>
+    <name>Transfer:Euro - Cash Wallet</name>
+    <id>23:110</id>
+  </item>
+  <item>
+    <name>Transfer:LeapCard-27515</name>
+    <id>23:111</id>
+  </item>
+  <item>
+    <name>Transfer:LeapCard-29768</name>
+    <id>23:112</id>
+  </item>
+  <item>
+    <name>Transfer:Luas Smartcard</name>
+    <id>23:113</id>
+  </item>
+  <item>
+    <name>Transfer:N/A</name>
+    <id>23:114</id>
+  </item>
+  <item>
+    <name>Transfer:Paypal</name>
+    <id>23:124</id>
+  </item>
+  <item>
+    <name>Transfer:CHF - Cash Wallet</name>
+    <id>23:125</id>
+  </item>
+  <item>
+    <name>Transfer:USD - Cash Wallet</name>
+    <id>23:133</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Online notice 21-591</name>
+    <id>23:134</id>
+  </item>
+  <item>
+    <name>Transfer:AIB - Online Saver-674</name>
+    <id>23:135</id>
+  </item>
+  <item>
+    <name>Travel:Accessories</name>
+    <id>24:115</id>
+  </item>
+  <item>
+    <name>Travel:Accomodation</name>
+    <id>24:116</id>
+  </item>
+  <item>
+    <name>Travel:Bus</name>
+    <id>24:117</id>
+  </item>
+  <item>
+    <name>Travel:Food &amp; drinks</name>
+    <id>24:118</id>
+  </item>
+  <item>
+    <name>Travel:Generic</name>
+    <id>24:119</id>
+  </item>
+  <item>
+    <name>Travel:Plane</name>
+    <id>24:120</id>
+  </item>
+  <item>
+    <name>Travel:Train</name>
+    <id>24:121</id>
+  </item>
+  <item>
+    <name>Travel:Tram</name>
+    <id>24:122</id>
+  </item>
+  <item>
+    <name>Uncategorized:Generic</name>
+    <id>25:123</id>
+  </item>
+</items>

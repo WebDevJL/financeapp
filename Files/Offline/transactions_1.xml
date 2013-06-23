@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<transactions>
+  <transaction tID="3">
+    <date>2012-10-08</date>
+    <currency>1</currency>
+    <enable>1</enable>
+    <account ID="11" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="3" name="C.O.G"/>
+    <subcategory ID="35" name="Offrande"/>
+    <payee ID="144">
+      <name>Mr Aviolat</name>
+    </payee>
+    <amount>-200</amount>
+    <notes/>
+  </transaction>
+  <transaction tID="11">
+    <date>2012-09-28</date>
+    <currency>1</currency>
+    <enable>1</enable>
+    <account ID="11" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="130" name="Travel"/>
+    <payee ID="63">
+      <name>Dublin bus</name>
+    </payee>
+    <amount>-8</amount>
+    <notes/>
+  </transaction>
+  <transaction tID="10">
+    <date>2012-09-28</date>
+    <currency>1</currency>
+    <enable>1</enable>
+    <account ID="1" name="AIB - Current"/>
+    <type ID="1">Debit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="128" name="Food"/>
+    <payee ID="62">
+      <name>Dublin Airport</name>
+    </payee>
+    <amount>-12.70</amount>
+    <notes>Wiskey for Jd, M</notes>
+  </transaction>
+</transactions>

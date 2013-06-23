@@ -1,0 +1,17 @@
+05/29/2013 06:30:29 pm: CALL USP_GetCurrencies();
+05/29/2013 06:30:29 pm: CALL USP_GetPayees();
+05/29/2013 06:30:29 pm: CALL USP_GetAccounts();
+05/29/2013 06:30:30 pm: CALL USP_GetCategories();
+05/29/2013 06:30:31 pm: CALL USP_GetCategories2();
+05/29/2013 06:30:42 pm: CALL USP_GetAccounts();
+05/29/2013 06:30:42 pm: CALL USP_GetCategories();
+05/29/2013 06:30:42 pm: CALL USP_GetCurrencies();
+05/29/2013 06:30:42 pm: CALL USP_GetCategories2();
+05/29/2013 06:30:42 pm: CALL USP_GetPayees();
+05/29/2013 10:41:25 pm: CALL USP_GetAccounts();
+05/29/2013 10:41:25 pm: CALL USP_GetCategories();
+05/29/2013 10:41:25 pm: CALL USP_GetCategories2();
+05/29/2013 10:41:25 pm: CALL USP_GetPayees();
+05/29/2013 10:41:25 pm: CALL USP_GetCurrencies();
+05/29/2013 10:42:02 pm: CALL USP_InsertTransaction('2013-05-29','11','1','1','14','77','187','-6','dance night');
+05/29/2013 10:42:08 pm: CALL USP_InsertTransaction('2013-05-22','11','1','1','14','77','187','-6','dance night');

@@ -1,0 +1,13 @@
+07/16/2012 11:07:28 am: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 11:07:28 am: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 05:22:14 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 05:22:14 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 07:30:20 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 07:30:20 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/16/2012 10:53:35 pm: CALL USP_InsertAccount (3,'Dollar - Cash Wallet');
+07/16/2012 10:57:22 pm: CALL USP_InsertAccount (3,'Dime 1');
+07/16/2012 10:57:27 pm: CALL USP_InsertAccount (3,'Dime 2');
+07/16/2012 10:57:33 pm: CALL USP_InsertAccount (3,'Offrande');
+07/16/2012 11:01:31 pm: CALL USP_InsertAccount (2,'Offrande');
+07/16/2012 11:01:34 pm: CALL USP_InsertAccount (2,'Dime 1');
+07/16/2012 11:01:42 pm: CALL USP_InsertAccount (2,'Dime 2');

@@ -1,0 +1,38 @@
+03/24/2013 11:37:28 am: Get the dataset to return in json obj...
+03/24/2013 11:37:28 am: Get the dataset to return in json obj...
+03/24/2013 11:37:28 am: Get the dataset to return in json obj...
+03/24/2013 11:37:28 am: Get the dataset to return in json obj...
+03/24/2013 11:37:28 am: Get the dataset to return in json obj...
+03/24/2013 11:37:28 am: Query has run: <CALL USP_GetCategories();>.
+03/24/2013 11:37:28 am: ... Got dataset to return in json obj
+03/24/2013 11:37:28 am: Query has run: <CALL USP_GetCurrencies();>.
+03/24/2013 11:37:28 am: ... Got dataset to return in json obj
+03/24/2013 11:37:28 am: Query has run: <CALL USP_GetPayees();>.
+03/24/2013 11:37:28 am: ... Got dataset to return in json obj
+03/24/2013 11:37:28 am: Query has run: <CALL USP_GetCategories2();>.
+03/24/2013 11:37:28 am: ... Got dataset to return in json obj
+03/24/2013 11:37:28 am: Query has run: <CALL USP_GetAccounts();>.
+03/24/2013 11:37:28 am: ... Got dataset to return in json obj
+03/24/2013 11:38:00 am: Amount value: -300. Preg_match_all result is <1>
+03/24/2013 11:38:00 am: Currency = <1>.
+03/24/2013 11:38:45 am: Amount value: -20. Preg_match_all result is <1>
+03/24/2013 11:38:45 am: Currency = <1>.
+03/24/2013 11:39:10 am: Amount value: -250. Preg_match_all result is <1>
+03/24/2013 11:39:10 am: Currency = <1>.
+03/24/2013 11:39:55 am: Amount value: -11,5. Preg_match_all result is <1>
+03/24/2013 11:39:55 am: Currency = <1>.
+03/24/2013 11:40:00 am: Get the dataset to return in json obj...
+03/24/2013 11:40:00 am: Get the dataset to return in json obj...
+03/24/2013 11:40:00 am: Query has run: <CALL USP_GetAccounts();>.
+03/24/2013 11:40:00 am: ... Got dataset to return in json obj
+03/24/2013 11:40:00 am: Query has run: <CALL USP_GetCategories();>.
+03/24/2013 11:40:00 am: ... Got dataset to return in json obj
+03/24/2013 11:40:00 am: Get the dataset to return in json obj...
+03/24/2013 11:40:00 am: Query has run: <CALL USP_GetPayees();>.
+03/24/2013 11:40:00 am: ... Got dataset to return in json obj
+03/24/2013 11:40:00 am: Get the dataset to return in json obj...
+03/24/2013 11:40:00 am: Query has run: <CALL USP_GetCurrencies();>.
+03/24/2013 11:40:00 am: ... Got dataset to return in json obj
+03/24/2013 11:40:00 am: Get the dataset to return in json obj...
+03/24/2013 11:40:00 am: Query has run: <CALL USP_GetCategories2();>.
+03/24/2013 11:40:00 am: ... Got dataset to return in json obj

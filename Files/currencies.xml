@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <type>currencies</type>
+  <item>
+    <name>Euro</name>
+    <id>1</id>
+    <symbol>&amp;euro</symbol>
+  </item>
+  <item>
+    <name>Swiss Franc</name>
+    <id>2</id>
+    <symbol>Fr.</symbol>
+  </item>
+  <item>
+    <name>US Dollar</name>
+    <id>3</id>
+    <symbol>$</symbol>
+  </item>
+</items>

@@ -1,0 +1,13 @@
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','10','test insert');#09/16/2012 02:18:58 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','20','test insert');#09/16/2012 02:22:24 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','20','test insert');#09/16/2012 02:30:58 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:31:19 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:37:04 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:38:03 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:42:19 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:42:42 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','15','test insert');#09/16/2012 02:43:58 pm;
+CALL USP_InsertTransaction('2012-09-16','11','1','2','25','123','135','10','test insert');#09/16/2012 02:44:18 pm;
+CALL USP_InsertTransaction('2012-09-16','1','1','1','2','29','20','-1100','');#09/16/2012 04:05:34 pm;
+CALL USP_InsertTransaction('2012-09-16','17','1','2','6','40','72','-11.99','refund');#09/16/2012 04:16:15 pm;
+CALL USP_InsertTransaction('2012-09-16','17','1','2','6','40','72','11.97','');#09/16/2012 04:17:00 pm;

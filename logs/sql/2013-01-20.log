@@ -1,0 +1,17 @@
+01/20/2013 11:17:41 pm: CALL USP_GetPayees();
+01/20/2013 11:17:41 pm: CALL USP_GetCategories();
+01/20/2013 11:17:42 pm: CALL USP_GetCategories2();
+01/20/2013 11:17:42 pm: CALL USP_GetAccounts();
+01/20/2013 11:17:42 pm: CALL USP_GetCurrencies();
+01/20/2013 11:17:43 pm: CALL USP_GetCategories();
+01/20/2013 11:17:43 pm: CALL USP_GetAccounts();
+01/20/2013 11:17:43 pm: CALL USP_GetCategories2();
+01/20/2013 11:17:43 pm: CALL USP_GetPayees();
+01/20/2013 11:17:43 pm: CALL USP_GetCurrencies();
+01/20/2013 11:18:10 pm: CALL USP_InsertTransaction('2013-01-20','19','1','1','14','77','187','-22','Olive garden\'s dinner');
+01/20/2013 11:18:10 pm: CALL USP_InsertTransaction('2013-01-20','19','1','1','14','77','187','-22','Olive garden\'s dinner');
+01/20/2013 11:18:18 pm: CALL USP_GetAccounts();
+01/20/2013 11:18:18 pm: CALL USP_GetPayees();
+01/20/2013 11:18:18 pm: CALL USP_GetCategories2();
+01/20/2013 11:18:18 pm: CALL USP_GetCurrencies();
+01/20/2013 11:18:18 pm: CALL USP_GetCategories();

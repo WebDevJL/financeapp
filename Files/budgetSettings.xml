@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<budgets>
+  <budget>
+    <name>Food budget</name>
+    <id>14</id>
+    <amount>175.00</amount>
+    <items>
+      <item CatID="7" ScatID="43"/>
+      <item CatID="7" ScatID="44"/>
+      <item CatID="7" ScatID="45"/>
+      <item CatID="7" ScatID="46"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Bike budget</name>
+    <id>15</id>
+    <amount>125.00</amount>
+    <items>
+      <item CatID="1" ScatID="1"/>
+      <item CatID="1" ScatID="2"/>
+      <item CatID="1" ScatID="3"/>
+      <item CatID="1" ScatID="4"/>
+      <item CatID="1" ScatID="5"/>
+      <item CatID="1" ScatID="6"/>
+      <item CatID="1" ScatID="7"/>
+      <item CatID="1" ScatID="8"/>
+      <item CatID="1" ScatID="9"/>
+      <item CatID="1" ScatID="10"/>
+      <item CatID="1" ScatID="11"/>
+      <item CatID="1" ScatID="12"/>
+      <item CatID="1" ScatID="13"/>
+      <item CatID="1" ScatID="14"/>
+      <item CatID="1" ScatID="15"/>
+      <item CatID="1" ScatID="16"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Bills budget</name>
+    <id>16</id>
+    <amount>50.00</amount>
+    <items>
+      <item CatID="2" ScatID="17"/>
+      <item CatID="2" ScatID="18"/>
+      <item CatID="2" ScatID="19"/>
+      <item CatID="2" ScatID="20"/>
+      <item CatID="2" ScatID="21"/>
+      <item CatID="2" ScatID="22"/>
+      <item CatID="2" ScatID="23"/>
+      <item CatID="2" ScatID="24"/>
+      <item CatID="2" ScatID="25"/>
+      <item CatID="2" ScatID="27"/>
+      <item CatID="2" ScatID="28"/>
+      <item CatID="2" ScatID="32"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Home &amp; Living budget</name>
+    <id>17</id>
+    <amount>5.00</amount>
+    <items>
+      <item CatID="5" ScatID="39"/>
+      <item CatID="9" ScatID="48"/>
+      <item CatID="9" ScatID="49"/>
+      <item CatID="9" ScatID="50"/>
+      <item CatID="9" ScatID="51"/>
+      <item CatID="10" ScatID="52"/>
+      <item CatID="10" ScatID="53"/>
+      <item CatID="10" ScatID="54"/>
+      <item CatID="10" ScatID="55"/>
+      <item CatID="10" ScatID="56"/>
+      <item CatID="10" ScatID="57"/>
+      <item CatID="10" ScatID="58"/>
+      <item CatID="10" ScatID="59"/>
+      <item CatID="10" ScatID="60"/>
+      <item CatID="10" ScatID="61"/>
+      <item CatID="10" ScatID="62"/>
+      <item CatID="10" ScatID="63"/>
+      <item CatID="10" ScatID="64"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Leisure &amp; Travel budget</name>
+    <id>18</id>
+    <amount>150.00</amount>
+    <items>
+      <item CatID="14" ScatID="72"/>
+      <item CatID="14" ScatID="73"/>
+      <item CatID="14" ScatID="74"/>
+      <item CatID="14" ScatID="75"/>
+      <item CatID="14" ScatID="76"/>
+      <item CatID="14" ScatID="78"/>
+      <item CatID="14" ScatID="79"/>
+      <item CatID="14" ScatID="80"/>
+      <item CatID="14" ScatID="81"/>
+      <item CatID="14" ScatID="82"/>
+      <item CatID="14" ScatID="83"/>
+      <item CatID="15" ScatID="84"/>
+      <item CatID="24" ScatID="115"/>
+      <item CatID="24" ScatID="116"/>
+      <item CatID="24" ScatID="117"/>
+      <item CatID="24" ScatID="118"/>
+      <item CatID="24" ScatID="119"/>
+      <item CatID="24" ScatID="120"/>
+      <item CatID="24" ScatID="121"/>
+      <item CatID="24" ScatID="122"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Technology budget</name>
+    <id>19</id>
+    <amount>50.00</amount>
+    <items>
+      <item CatID="4" ScatID="36"/>
+      <item CatID="4" ScatID="37"/>
+      <item CatID="4" ScatID="38"/>
+      <item CatID="6" ScatID="40"/>
+      <item CatID="6" ScatID="41"/>
+      <item CatID="6" ScatID="42"/>
+      <item CatID="16" ScatID="85"/>
+      <item CatID="16" ScatID="86"/>
+      <item CatID="16" ScatID="87"/>
+      <item CatID="20" ScatID="93"/>
+      <item CatID="20" ScatID="94"/>
+      <item CatID="20" ScatID="95"/>
+      <item CatID="22" ScatID="97"/>
+      <item CatID="22" ScatID="98"/>
+      <item CatID="22" ScatID="99"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Rent budget</name>
+    <id>20</id>
+    <amount>320.00</amount>
+    <items>
+      <item CatID="2" ScatID="26"/>
+      <item CatID="2" ScatID="29"/>
+      <item CatID="2" ScatID="30"/>
+      <item CatID="2" ScatID="31"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Dime 1</name>
+    <id>21</id>
+    <amount>259.00</amount>
+    <items>
+      <item CatID="3" ScatID="33"/>
+      <item CatID="28" ScatID="126"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Dime 2</name>
+    <id>22</id>
+    <amount>259.00</amount>
+    <items>
+      <item CatID="3" ScatID="34"/>
+      <item CatID="29" ScatID="127"/>
+      <item CatID="29" ScatID="128"/>
+      <item CatID="29" ScatID="129"/>
+      <item CatID="29" ScatID="130"/>
+      <item CatID="29" ScatID="131"/>
+      <item CatID="29" ScatID="132"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Offrande</name>
+    <id>23</id>
+    <amount>26.00</amount>
+    <items>
+      <item CatID="3" ScatID="35"/>
+    </items>
+  </budget>
+  <budget>
+    <name>Savings</name>
+    <id>26</id>
+    <amount>750.00</amount>
+    <items>
+      <item CatID="18" ScatID="89"/>
+    </items>
+  </budget>
+</budgets>

@@ -1,0 +1,16 @@
+12/20/2012 10:08:43 am: CALL USP_GetPayees();
+12/20/2012 10:08:43 am: CALL USP_GetCurrencies();
+12/20/2012 10:08:43 am: CALL USP_GetCategories();
+12/20/2012 10:08:43 am: CALL USP_GetAccounts();
+12/20/2012 10:08:43 am: CALL USP_GetCategories2();
+12/20/2012 10:09:31 am: CALL USP_InsertTransaction('2012-12-20','17','1','1','6','41','72','-7.77','camera cleaning kit');
+12/20/2012 10:09:31 am: CALL USP_InsertTransaction('2012-12-20','17','1','1','6','41','72','-7.77','camera cleaning kit');
+12/20/2012 10:10:10 pm: CALL USP_InsertTransaction('2012-12-20','1','1','1','2','17','6','-11.7','');
+12/20/2012 10:10:10 pm: CALL USP_InsertTransaction('2012-12-20','1','1','1','2','17','6','-11.7','');
+12/20/2012 10:10:33 pm: CALL USP_InsertTransaction('2012-12-20','1','1','1','2','18','75','-105.36','');
+12/20/2012 10:10:33 pm: CALL USP_InsertTransaction('2012-12-20','1','1','1','2','18','75','-105.36','');
+12/20/2012 10:10:39 pm: CALL USP_GetCurrencies();
+12/20/2012 10:10:39 pm: CALL USP_GetAccounts();
+12/20/2012 10:10:39 pm: CALL USP_GetPayees();
+12/20/2012 10:10:39 pm: CALL USP_GetCategories();
+12/20/2012 10:10:39 pm: CALL USP_GetCategories2();

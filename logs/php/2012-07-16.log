@@ -1,0 +1,149 @@
+07/16/2012 11:05:46 am: dates filters: start: and end:
+07/16/2012 11:05:46 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/16/2012 11:05:46 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:05:46 am: query string=
+07/16/2012 11:05:46 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:05:46 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:05:46 am: totalrows=3318;page=1,limit=20;startIndex=0
+07/16/2012 11:07:28 am: dates filters: start: and end:
+07/16/2012 11:07:28 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/16/2012 11:07:28 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:07:28 am: query string=
+07/16/2012 11:07:28 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:07:28 am: totalrows=3318;page=1,limit=20
+07/16/2012 11:07:28 am: totalrows=3318;page=1,limit=20;startIndex=0
+07/16/2012 05:22:14 pm: dates filters: start: and end:
+07/16/2012 05:22:14 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/16/2012 05:22:14 pm: totalrows=3318;page=1,limit=20
+07/16/2012 05:22:14 pm: query string=
+07/16/2012 05:22:14 pm: totalrows=3318;page=1,limit=20
+07/16/2012 05:22:14 pm: totalrows=3318;page=1,limit=20
+07/16/2012 05:22:14 pm: totalrows=3318;page=1,limit=20;startIndex=0
+07/16/2012 07:30:20 pm: dates filters: start: and end:
+07/16/2012 07:30:20 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/16/2012 07:30:20 pm: totalrows=3319;page=1,limit=20
+07/16/2012 07:30:20 pm: query string=
+07/16/2012 07:30:20 pm: totalrows=3319;page=1,limit=20
+07/16/2012 07:30:20 pm: totalrows=3319;page=1,limit=20
+07/16/2012 07:30:20 pm: totalrows=3319;page=1,limit=20;startIndex=0
+07/16/2012 08:45:16 pm: Hit to insert.php
+07/16/2012 08:52:46 pm: Hit to insert.php
+07/16/2012 09:06:30 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:13:34 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:14:51 pm: Hit to <insert.php>. Currency in Post=<US Dollar> Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:16:06 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:16:42 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:27:16 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:28:02 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:34:21 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:34:21 pm: Start lookup...
+07/16/2012 09:39:16 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:39:16 pm: Start lookup...
+07/16/2012 09:40:10 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:40:10 pm: Start lookup...
+07/16/2012 09:40:10 pm: no currency
+07/16/2012 09:45:08 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:45:08 pm: Start lookup...
+07/16/2012 09:45:08 pm: no currency in file
+07/16/2012 09:45:47 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:45:47 pm: Start lookup...
+07/16/2012 09:45:47 pm: ... Finished lookup.
+07/16/2012 09:47:15 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:47:15 pm: Start lookup...
+07/16/2012 09:47:15 pm: ... Finished lookup.
+07/16/2012 09:47:43 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 09:47:43 pm: Start lookup...
+07/16/2012 09:47:43 pm: For loop - item0
+07/16/2012 09:47:43 pm: For loop - item0
+07/16/2012 09:47:43 pm: got currency - ID=3
+07/16/2012 09:47:43 pm: For loop - item0
+07/16/2012 09:47:43 pm: ... Finished lookup.
+07/16/2012 10:37:24 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:37:24 pm: Start lookup for currency...
+07/16/2012 10:37:24 pm: ... Finished lookup for currency.
+07/16/2012 10:37:24 pm: Start insert...
+07/16/2012 10:39:41 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:39:41 pm: Start lookup for currency...
+07/16/2012 10:39:41 pm: ... Finished lookup for currency.
+07/16/2012 10:39:41 pm: Start insert...
+07/16/2012 10:41:53 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:41:53 pm: Start lookup for currency...
+07/16/2012 10:41:53 pm: ... Finished lookup for currency.
+07/16/2012 10:41:53 pm: Start insert...
+07/16/2012 10:42:27 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:42:27 pm: Start lookup for currency...
+07/16/2012 10:42:27 pm: ... Finished lookup for currency.
+07/16/2012 10:42:27 pm: Start insert...
+07/16/2012 10:44:06 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:44:06 pm: Start lookup for currency...
+07/16/2012 10:44:06 pm: ... Finished lookup for currency.
+07/16/2012 10:44:06 pm: Start insert...
+07/16/2012 10:45:57 pm: Hit to <insert.php>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:45:57 pm: Start lookup for currency...
+07/16/2012 10:45:57 pm: ... Finished lookup for currency.
+07/16/2012 10:45:57 pm: Start insert...
+07/16/2012 10:48:07 pm: Hit to <insert.php>. Type in GET: <>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:48:07 pm: Start lookup for currency...
+07/16/2012 10:48:07 pm: ... Finished lookup for currency.
+07/16/2012 10:48:07 pm: Start insert...
+07/16/2012 10:49:11 pm: Hit to <insert.php>. Type in GET: <>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:49:11 pm: Start lookup for currency...
+07/16/2012 10:49:11 pm: ... Finished lookup for currency.
+07/16/2012 10:49:11 pm: Start insert...
+07/16/2012 10:49:34 pm: Hit to <insert.php>. Type in GET: <>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:49:34 pm: Start lookup for currency...
+07/16/2012 10:49:34 pm: ... Finished lookup for currency.
+07/16/2012 10:49:34 pm: Start insert...
+07/16/2012 10:50:03 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:50:03 pm: Start lookup for currency...
+07/16/2012 10:50:03 pm: ... Finished lookup for currency.
+07/16/2012 10:50:03 pm: Start insert...
+07/16/2012 10:50:54 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:50:54 pm: Type in GET: <acc>.
+07/16/2012 10:50:54 pm: Query to run: <CALL USP_InsertAccount (,Dollar - Cash Wallet);>.
+07/16/2012 10:50:54 pm: Start lookup for currency...
+07/16/2012 10:50:54 pm: ... Finished lookup for currency.
+07/16/2012 10:50:54 pm: Start insert...
+07/16/2012 10:52:33 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:52:33 pm: Type in GET: <acc>.
+07/16/2012 10:52:33 pm: Start lookup for currency...
+07/16/2012 10:52:33 pm: ... Finished lookup for currency.
+07/16/2012 10:52:33 pm: Query to run: <CALL USP_InsertAccount (3,Dollar - Cash Wallet);>.
+07/16/2012 10:52:33 pm: Start insert...
+07/16/2012 10:53:35 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dollar - Cash Wallet>.
+07/16/2012 10:53:35 pm: Type in GET: <acc>.
+07/16/2012 10:53:35 pm: Start lookup for currency...
+07/16/2012 10:53:35 pm: ... Finished lookup for currency.
+07/16/2012 10:53:35 pm: Query to run: <CALL USP_InsertAccount (3,'Dollar - Cash Wallet');>.
+07/16/2012 10:53:35 pm: Start insert...
+07/16/2012 10:53:35 pm: ... End insert
+07/16/2012 10:57:22 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dime 1>.
+07/16/2012 10:57:22 pm: Start lookup for currency...
+07/16/2012 10:57:22 pm: ... Finished lookup for currency.
+07/16/2012 10:57:22 pm: Start insert...
+07/16/2012 10:57:22 pm: ... End insert
+07/16/2012 10:57:27 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Dime 2>.
+07/16/2012 10:57:27 pm: Start lookup for currency...
+07/16/2012 10:57:27 pm: ... Finished lookup for currency.
+07/16/2012 10:57:27 pm: Start insert...
+07/16/2012 10:57:27 pm: ... End insert
+07/16/2012 10:57:33 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<US Dollar>. Account Name in Post=<Offrande>.
+07/16/2012 10:57:33 pm: Start lookup for currency...
+07/16/2012 10:57:33 pm: ... Finished lookup for currency.
+07/16/2012 10:57:33 pm: Start insert...
+07/16/2012 10:57:33 pm: ... End insert
+07/16/2012 11:01:31 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<Swiss Franc>. Account Name in Post=<Offrande>.
+07/16/2012 11:01:31 pm: Start lookup for currency...
+07/16/2012 11:01:31 pm: ... Finished lookup for currency.
+07/16/2012 11:01:31 pm: Start insert...
+07/16/2012 11:01:31 pm: ... End insert
+07/16/2012 11:01:34 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<Swiss Franc>. Account Name in Post=<Dime 1>.
+07/16/2012 11:01:34 pm: Start lookup for currency...
+07/16/2012 11:01:34 pm: ... Finished lookup for currency.
+07/16/2012 11:01:34 pm: Start insert...
+07/16/2012 11:01:34 pm: ... End insert
+07/16/2012 11:01:42 pm: Hit to <insert.php>. Type in GET: <acc>. Currency in Post=<Swiss Franc>. Account Name in Post=<Dime 2>.
+07/16/2012 11:01:42 pm: Start lookup for currency...
+07/16/2012 11:01:42 pm: ... Finished lookup for currency.
+07/16/2012 11:01:42 pm: Start insert...
+07/16/2012 11:01:42 pm: ... End insert

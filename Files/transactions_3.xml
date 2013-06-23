@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions>
+  <transaction ID="t_10564">
+    <date>2013-01-25</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-37.33</amount>
+    <notes>unicef donation</notes>
+  </transaction>
+  <transaction ID="t_10556">
+    <date>2013-01-25</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="110" name="Euro - Cash Wallet"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>-416.00</amount>
+    <notes>Transfer (1Euro = 1,3812$)</notes>
+  </transaction>
+  <transaction ID="t_10563">
+    <date>2013-01-24</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-16.33</amount>
+    <notes>Wine for Dave</notes>
+  </transaction>
+  <transaction ID="t_10561">
+    <date>2013-01-24</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>Gas for Aure's car</notes>
+  </transaction>
+  <transaction ID="t_10555">
+    <date>2013-01-23</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-110.00</amount>
+    <notes>Dinner at Rancho Pinot</notes>
+  </transaction>
+  <transaction ID="t_10554">
+    <date>2013-01-23</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-33.75</amount>
+    <notes>Gift to Aurelie and Dave</notes>
+  </transaction>
+  <transaction ID="t_10553">
+    <date>2013-01-23</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-7.63</amount>
+    <notes>Flowers</notes>
+  </transaction>
+  <transaction ID="t_10551">
+    <date>2013-01-23</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="1" name="Bike"/>
+    <subcategory ID="15" name="Spare parts"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>250.00</amount>
+    <notes>Benotto Road bike</notes>
+  </transaction>
+  <transaction ID="t_10548">
+    <date>2013-01-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="23" name="Internet"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-0.99</amount>
+    <notes>fedex computing</notes>
+  </transaction>
+  <transaction ID="t_10547">
+    <date>2013-01-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-29.60</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10546">
+    <date>2013-01-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="11" name="Household"/>
+    <subcategory ID="54" name="Bathroom Items"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-1.27</amount>
+    <notes>toilet tissue</notes>
+  </transaction>
+  <transaction ID="t_10544">
+    <date>2013-01-20</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-22.00</amount>
+    <notes>Olive garden's dinner</notes>
+  </transaction>
+  <transaction ID="t_10543">
+    <date>2013-01-18</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="9" name="Healthcare"/>
+    <subcategory ID="51" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-14.53</amount>
+    <notes>arm sling</notes>
+  </transaction>
+  <transaction ID="t_10542">
+    <date>2013-01-18</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-5.23</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10539">
+    <date>2013-01-15</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-7.89</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10538">
+    <date>2013-01-15</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="28" name="Postage &amp; Packaging"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-4.60</amount>
+    <notes>stamps, card</notes>
+  </transaction>
+  <transaction ID="t_10535">
+    <date>2013-01-12</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-0.89</amount>
+    <notes>dance</notes>
+  </transaction>
+  <transaction ID="t_10534">
+    <date>2013-01-12</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-5.00</amount>
+    <notes>dance</notes>
+  </transaction>
+  <transaction ID="t_10536">
+    <date>2013-01-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-28.44</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10533">
+    <date>2013-01-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-3.17</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10532">
+    <date>2013-01-09</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-5.00</amount>
+    <notes>climbing gears</notes>
+  </transaction>
+  <transaction ID="t_10524">
+    <date>2013-01-09</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-45.20</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10519">
+    <date>2013-01-07</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="12" name="Income"/>
+    <subcategory ID="69" name="Refund"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>200.00</amount>
+    <notes>Money back</notes>
+  </transaction>
+  <transaction ID="t_10517">
+    <date>2013-01-07</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="11" name="Household"/>
+    <subcategory ID="54" name="Bathroom Items"/>
+    <payee ID="222">
+      <name>Safeway</name>
+    </payee>
+    <amount>-15.92</amount>
+    <notes>cotton tige, brosse à dents, dentifrice</notes>
+  </transaction>
+  <transaction ID="t_10513">
+    <date>2013-01-07</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="222">
+      <name>Safeway</name>
+    </payee>
+    <amount>-4.99</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10505">
+    <date>2013-01-04</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-27.21</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10503">
+    <date>2013-01-04</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-71.70</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10502">
+    <date>2013-01-04</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="105" name="Banque Postale - CCP"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>360.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10501">
+    <date>2013-01-02</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-7.00</amount>
+    <notes>dance night</notes>
+  </transaction>
+  <transaction ID="t_10494">
+    <date>2013-01-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-21.45</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10493">
+    <date>2013-01-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="32" name="Telephone"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-16.83</amount>
+    <notes>$15 AT&amp;T recharge</notes>
+  </transaction>
+  <transaction ID="t_10492">
+    <date>2013-01-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-9.50</amount>
+    <notes>Les Miserables Movie</notes>
+  </transaction>
+  <transaction ID="t_10476">
+    <date>2012-12-30</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-23.01</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10475">
+    <date>2012-12-30</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="11" name="Household"/>
+    <subcategory ID="54" name="Bathroom Items"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-5.91</amount>
+    <notes>toilet paper, tissues</notes>
+  </transaction>
+  <transaction ID="t_10473">
+    <date>2012-12-30</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-58.60</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10472">
+    <date>2012-12-27</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-87.68</amount>
+    <notes>snowshoes rental</notes>
+  </transaction>
+  <transaction ID="t_10471">
+    <date>2012-12-27</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-51.00</amount>
+    <notes>ski lift</notes>
+  </transaction>
+  <transaction ID="t_10470">
+    <date>2012-12-25</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-51.00</amount>
+    <notes>ski lift</notes>
+  </transaction>
+  <transaction ID="t_10464">
+    <date>2012-12-22</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-7.00</amount>
+    <notes>dance night out</notes>
+  </transaction>
+  <transaction ID="t_10461">
+    <date>2012-12-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="9" name="Healthcare"/>
+    <subcategory ID="48" name="Barber"/>
+    <payee ID="17">
+      <name>Barber Shop</name>
+    </payee>
+    <amount>-16.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10460">
+    <date>2012-12-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="11" name="Household"/>
+    <subcategory ID="61" name="Kitchen items"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-21.73</amount>
+    <notes>Thermos</notes>
+  </transaction>
+  <transaction ID="t_10459">
+    <date>2012-12-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-5.81</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10458">
+    <date>2012-12-21</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-25.43</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10457">
+    <date>2012-12-19</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="12" name="Income"/>
+    <subcategory ID="67" name="Gifts"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>180.00</amount>
+    <notes>Gift from Aurélie</notes>
+  </transaction>
+  <transaction ID="t_10456">
+    <date>2012-12-19</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="127" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>120.00</amount>
+    <notes>Nate refund (1Eur=1,32USD)</notes>
+  </transaction>
+  <transaction ID="t_10450">
+    <date>2012-12-17</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="9" name="Healthcare"/>
+    <subcategory ID="49" name="Dental"/>
+    <payee ID="221">
+      <name>Fry shop</name>
+    </payee>
+    <amount>-2.82</amount>
+    <notes>Sponges for medical care</notes>
+  </transaction>
+  <transaction ID="t_10446">
+    <date>2012-12-17</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="225">
+      <name>Frys Food shop</name>
+    </payee>
+    <amount>-6.10</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10445">
+    <date>2012-12-17</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="9" name="Healthcare"/>
+    <subcategory ID="49" name="Dental"/>
+    <payee ID="224">
+      <name>Pharmacy</name>
+    </payee>
+    <amount>-3.27</amount>
+    <notes>aleve</notes>
+  </transaction>
+  <transaction ID="t_10444">
+    <date>2012-12-17</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="9" name="Healthcare"/>
+    <subcategory ID="49" name="Dental"/>
+    <payee ID="223">
+      <name>Dentist</name>
+    </payee>
+    <amount>-251.00</amount>
+    <notes>tooth pulled</notes>
+  </transaction>
+  <transaction ID="t_10443">
+    <date>2012-12-16</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-11.63</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10441">
+    <date>2012-12-12</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-11.00</amount>
+    <notes>jewelery for Aurélie</notes>
+  </transaction>
+  <transaction ID="t_10436">
+    <date>2012-12-12</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="83" name="Tourism"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-1.30</amount>
+    <notes>postcards</notes>
+  </transaction>
+  <transaction ID="t_10449">
+    <date>2012-12-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="25" name="Uncategorized"/>
+    <subcategory ID="123" name="Generic"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>-4.68</amount>
+    <notes>Rebalance account</notes>
+  </transaction>
+  <transaction ID="t_10448">
+    <date>2012-12-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="8" name="Gifts"/>
+    <subcategory ID="47" name="Generic"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-0.92</amount>
+    <notes>Gift to Savannah &amp; Cheyanne</notes>
+  </transaction>
+  <transaction ID="t_10447">
+    <date>2012-12-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-28.45</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10442">
+    <date>2012-12-11</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="110" name="Euro - Cash Wallet"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>365.00</amount>
+    <notes>300 Euro conversion</notes>
+  </transaction>
+  <transaction ID="t_10417">
+    <date>2012-12-10</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="23" name="Transfer"/>
+    <subcategory ID="105" name="Banque Postale - CCP"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>200.00</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10416">
+    <date>2012-12-10</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-25.65</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10404">
+    <date>2012-12-09</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="77" name="Night Out &amp; Social events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-12.00</amount>
+    <notes>Chez Vous resto</notes>
+  </transaction>
+  <transaction ID="t_10403">
+    <date>2012-12-07</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-45.98</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10402">
+    <date>2012-12-06</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-20.00</amount>
+    <notes>racket ball with dave</notes>
+  </transaction>
+  <transaction ID="t_10401">
+    <date>2012-12-05</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="14" name="Leisure"/>
+    <subcategory ID="81" name="Sporting Events"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-18.00</amount>
+    <notes>climbing fee+harness</notes>
+  </transaction>
+  <transaction ID="t_10400">
+    <date>2012-12-05</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-3.43</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10399">
+    <date>2012-12-05</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-20.75</amount>
+    <notes>2 x bungee</notes>
+  </transaction>
+  <transaction ID="t_10398">
+    <date>2012-12-05</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="11" name="Household"/>
+    <subcategory ID="64" name="Various Hardware"/>
+    <payee ID="97">
+      <name>Hardware store</name>
+    </payee>
+    <amount>-3.15</amount>
+    <notes>2 x bungee</notes>
+  </transaction>
+  <transaction ID="t_10397">
+    <date>2012-12-05</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="1" name="Bike"/>
+    <subcategory ID="15" name="Spare parts"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-118.21</amount>
+    <notes>new wheels for Phoenix bike</notes>
+  </transaction>
+  <transaction ID="t_10391">
+    <date>2012-12-04</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-13.50</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10389">
+    <date>2012-12-04</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="219">
+      <name>Trader Joe</name>
+    </payee>
+    <amount>-32.55</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10387">
+    <date>2012-12-03</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="218">
+      <name>Sprouts market</name>
+    </payee>
+    <amount>-60.91</amount>
+    <notes></notes>
+  </transaction>
+  <transaction ID="t_10386">
+    <date>2012-12-03</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="2" name="Bills"/>
+    <subcategory ID="32" name="Telephone"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-25.00</amount>
+    <notes>Credit for december (480-370-4195)</notes>
+  </transaction>
+  <transaction ID="t_10384">
+    <date>2012-12-02</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="7" name="Food"/>
+    <subcategory ID="45" name="Groceries"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>-11.08</amount>
+    <notes>Food at chicago O'hare</notes>
+  </transaction>
+  <transaction ID="t_10203">
+    <date>2012-10-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="1">Debit</type>
+    <category ID="25" name="Uncategorized"/>
+    <subcategory ID="123" name="Generic"/>
+    <payee ID="135">
+      <name>Me</name>
+    </payee>
+    <amount>0.00</amount>
+    <notes>Start balance</notes>
+  </transaction>
+  <transaction ID="t_10202">
+    <date>2012-10-01</date>
+    <currency>3</currency>
+    <account ID="19" name="Cash Wallet"/>
+    <type ID="2">Credit</type>
+    <category ID="29" name="Dime 2"/>
+    <subcategory ID="129" name="Accomodation"/>
+    <payee ID="187">
+      <name>Someone</name>
+    </payee>
+    <amount>400.00</amount>
+    <notes>Accomodation from Nate (1Eur=1,29USD)</notes>
+  </transaction>
+</transactions>

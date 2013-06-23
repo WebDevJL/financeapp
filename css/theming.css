@@ -1,0 +1,102 @@
+/* Theming values */
+/* 
+ */
+body{
+background-color: #fff;
+font-family:"Georgia","Times New Roman", Times, serif;
+font-size: 0.9em;
+color: #555;
+}
+a{text-decoration: none;color: #555;}
+/*-----------------------------*/
+/*--- General look and feel ---*/
+
+/*commun styles*/
+.box{border: 1px solid #CCC;}
+.box{border-top: 0;}
+.box{background-color: #555;}
+th{color: #FFF;}
+.ui-datepicker-calendar th{color: #333;}
+td{border-bottom:1px solid #000;}
+td{background-color: #f2f0f1;}
+li.current a{background-color: #ff6;}
+.negative{font-weight: bold;color: #e94137}
+.positive{font-weight: bold;color: #7b5}
+
+/* main menu */
+#mp{border-right: 1px solid #555;}
+#mp li{
+    border-bottom: 1px solid #555;
+}
+#mp li:hover{background-color: #feea59;}
+/* home online */
+#wrapper0{background-color: #111;}
+#wrapper0 a{background-color: #eee;}
+#slider_home{border: 0;}
+#slider_home a{border-right: 1px solid #CCC;}
+#slider_home a{border-bottom: 1px solid #CCC;}
+
+/*add transaction*/
+input{padding:10px 5px;border:0;border:1px solid #555;}
+fieldset{padding:5px;}
+legend{padding:5px;}
+.defaultTextActive{color:#AAA;}
+
+/*transactions*/
+
+/*settings*/
+.close_overlay,
+.delete_row{
+  margin: 5px;
+  padding:5px;
+  background-color: #FFF;
+  border: 1px solid #AAA;
+  border-radius: 2px;
+  color: #555;
+  text-align: center;
+}
+
+/* schedules */
+#insert_form{background-color: #e2e0e1;}
+#show_insert_form{
+    background-image: url("../images/add_icon.png");
+    background-size: 15px;
+    background-repeat:no-repeat;
+    color: transparent;
+}
+.table ul li.row_data{
+    border-bottom:1px solid #555;
+}
+.table ul li.ui-header{
+    height: 15px;
+    border-top:2px solid #555;
+    border-bottom:2px solid #555;
+}
+.table ul.delete_item li{
+    background-image: url("../images/delete.png");
+    background-size: 15px;
+    background-repeat:no-repeat;
+    color: transparent;
+}.table ul.update_item li{
+    background-image: url("../images/update.png");
+    background-size: 15px;
+    background-repeat:no-repeat;
+    color: transparent;
+}
+.table ul.update_item li.ui-header,
+.table ul.delete_item li.ui-header{background-image: none;}
+.table ul li{
+    border-right:1px dashed #555;
+    border-bottom: 1px solid #555;
+}
+.table ul li.nb{border-right: 0;}
+.table li{padding: 4px;}
+ul.paging li{
+    border-right:1px solid #555;
+    border-bottom:1px solid #555;
+}
+ul.paging li:hover{background-color: #ff0;}
+
+.row_data{color: #000;background-color: #afe;}
+
+#update_cell{background-color: #fae;padding: 10px;}

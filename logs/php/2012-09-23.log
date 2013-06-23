@@ -1,0 +1,227 @@
+09/23/2012 06:13:25 pm: TransactionID to disable: <8>
+09/23/2012 06:13:25 pm: Loop: 0 // 9 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 8 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 7 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 6 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 5 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 4 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 3 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 2 vs 8.
+09/23/2012 06:13:25 pm: Loop: 0 // 1 vs 8.
+09/23/2012 06:13:25 pm: For loop exited.
+09/23/2012 06:15:59 pm: TransactionID to disable: <9>
+09/23/2012 06:15:59 pm: Loop: 0 // 9 vs 9.
+09/23/2012 06:15:59 pm: TransactionID is found: <>
+09/23/2012 06:15:59 pm: For loop exited.
+09/23/2012 06:22:05 pm: TransactionID to disable: <8>
+09/23/2012 06:22:05 pm: Loop: 0 // 9 vs 8.
+09/23/2012 06:22:05 pm: Loop: 0 // 8 vs 8.
+09/23/2012 06:22:05 pm: TransactionID is found: <>
+09/23/2012 06:22:05 pm: For loop exited.
+09/23/2012 06:22:24 pm: TransactionID to disable: <8>
+09/23/2012 06:22:24 pm: Loop: 0 // 9 vs 8.
+09/23/2012 06:22:24 pm: Loop: 0 // 8 vs 8.
+09/23/2012 06:22:24 pm: TransactionID is found: <>
+09/23/2012 06:22:24 pm: For loop exited.
+09/23/2012 06:22:31 pm: TransactionID to disable: <7>
+09/23/2012 06:22:31 pm: Loop: 0 // 9 vs 7.
+09/23/2012 06:22:31 pm: Loop: 0 // 8 vs 7.
+09/23/2012 06:22:31 pm: Loop: 0 // 7 vs 7.
+09/23/2012 06:22:31 pm: TransactionID is found: <>
+09/23/2012 06:22:31 pm: For loop exited.
+09/23/2012 06:23:21 pm: TransactionID to disable: <6>
+09/23/2012 06:23:21 pm: Loop: 0 // 9 vs 6.
+09/23/2012 06:23:21 pm: Loop: 0 // 8 vs 6.
+09/23/2012 06:23:21 pm: Loop: 0 // 7 vs 6.
+09/23/2012 06:23:21 pm: Loop: 0 // 6 vs 6.
+09/23/2012 06:23:21 pm: TransactionID is found: <>
+09/23/2012 06:23:21 pm: For loop exited.
+09/23/2012 06:24:25 pm: TransactionID to disable: <5>
+09/23/2012 06:24:25 pm: Loop: 0 // 9 vs 5.
+09/23/2012 06:24:25 pm: Loop: 0 // 8 vs 5.
+09/23/2012 06:24:25 pm: Loop: 0 // 7 vs 5.
+09/23/2012 06:24:25 pm: Loop: 0 // 6 vs 5.
+09/23/2012 06:24:25 pm: Loop: 0 // 5 vs 5.
+09/23/2012 06:24:25 pm: TransactionID is found: <>
+09/23/2012 06:24:25 pm: For loop exited.
+09/23/2012 06:25:17 pm: TransactionID to disable: <4>
+09/23/2012 06:25:17 pm: Loop: 0 // 9 vs 4.
+09/23/2012 06:25:17 pm: Loop: 0 // 8 vs 4.
+09/23/2012 06:25:17 pm: Loop: 0 // 7 vs 4.
+09/23/2012 06:25:17 pm: Loop: 0 // 6 vs 4.
+09/23/2012 06:25:17 pm: Loop: 0 // 5 vs 4.
+09/23/2012 06:25:17 pm: Loop: 0 // 4 vs 4.
+09/23/2012 06:25:17 pm: TransactionID is found: <>
+09/23/2012 06:25:17 pm: For loop exited.
+09/23/2012 07:39:35 pm: TransactionID to disable: <3>
+09/23/2012 07:39:35 pm: Loop: 0 // 9 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 8 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 7 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 6 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 5 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 4 vs 3.
+09/23/2012 07:39:35 pm: Loop: 0 // 3 vs 3.
+09/23/2012 07:39:35 pm: TransactionID is found: <>
+09/23/2012 07:39:35 pm: For loop exited.
+09/23/2012 07:41:19 pm: TransactionID to disable: <1>
+09/23/2012 07:41:19 pm: Loop: 0 // 9 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 8 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 7 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 6 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 5 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 4 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 3 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 2 vs 1.
+09/23/2012 07:41:19 pm: Loop: 0 // 1 vs 1.
+09/23/2012 07:41:19 pm: TransactionID is found: <>
+09/23/2012 07:41:19 pm: For loop exited.
+09/23/2012 07:41:51 pm: TransactionID to disable: <2>
+09/23/2012 07:41:51 pm: Loop: 0 // 9 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 8 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 7 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 6 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 5 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 4 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 3 vs 2.
+09/23/2012 07:41:51 pm: Loop: 0 // 2 vs 2.
+09/23/2012 07:41:51 pm: TransactionID is found: <>
+09/23/2012 07:41:51 pm: For loop exited.
+09/23/2012 07:50:10 pm: Amount value: -10. Preg_match_all result is <1>
+09/23/2012 07:55:32 pm: Amount value: -1. Preg_match_all result is <1>
+09/23/2012 07:55:53 pm: Amount value: 14. Preg_match_all result is <1>
+09/23/2012 08:19:57 pm: Amount value: 15. Preg_match_all result is <1>
+09/23/2012 08:20:15 pm: Amount value: 15. Preg_match_all result is <1>
+09/23/2012 08:22:08 pm: TransactionID to disable: <1>
+09/23/2012 08:22:08 pm: Loop: 0 // 5 vs 1.
+09/23/2012 08:22:08 pm: Loop: 0 // 4 vs 1.
+09/23/2012 08:22:08 pm: Loop: 0 // 3 vs 1.
+09/23/2012 08:22:08 pm: Loop: 0 // 2 vs 1.
+09/23/2012 08:22:08 pm: Loop: 0 // 1 vs 1.
+09/23/2012 08:22:08 pm: TransactionID is found: <>
+09/23/2012 08:22:08 pm: For loop exited.
+09/23/2012 08:24:40 pm: Amount value: 34,59. Preg_match_all result is <1>
+09/23/2012 08:25:46 pm: Amount value: 24,67. Preg_match_all result is <1>
+09/23/2012 08:25:58 pm: TransactionID to disable: <7>
+09/23/2012 08:25:58 pm: Loop: 0 // 7 vs 7.
+09/23/2012 08:25:58 pm: TransactionID is found: <>
+09/23/2012 08:25:58 pm: For loop exited.
+09/23/2012 08:26:22 pm: TransactionID to disable: <2>
+09/23/2012 08:26:22 pm: Loop: 0 // 7 vs 2.
+09/23/2012 08:26:22 pm: Loop: 0 // 6 vs 2.
+09/23/2012 08:26:22 pm: Loop: 0 // 5 vs 2.
+09/23/2012 08:26:22 pm: Loop: 0 // 4 vs 2.
+09/23/2012 08:26:22 pm: Loop: 0 // 3 vs 2.
+09/23/2012 08:26:22 pm: Loop: 0 // 2 vs 2.
+09/23/2012 08:26:22 pm: TransactionID is found: <>
+09/23/2012 08:26:22 pm: For loop exited.
+09/23/2012 08:27:30 pm: TransactionID to disable: <3>
+09/23/2012 08:27:30 pm: Loop: 0 // 7 vs 3.
+09/23/2012 08:27:30 pm: Loop: 0 // 6 vs 3.
+09/23/2012 08:27:30 pm: Loop: 0 // 5 vs 3.
+09/23/2012 08:27:30 pm: Loop: 0 // 4 vs 3.
+09/23/2012 08:27:30 pm: Loop: 0 // 3 vs 3.
+09/23/2012 08:27:30 pm: TransactionID is found: <>
+09/23/2012 08:27:30 pm: For loop exited.
+09/23/2012 08:27:32 pm: TransactionID to disable: <4>
+09/23/2012 08:27:32 pm: Loop: 0 // 7 vs 4.
+09/23/2012 08:27:32 pm: Loop: 0 // 6 vs 4.
+09/23/2012 08:27:32 pm: Loop: 0 // 5 vs 4.
+09/23/2012 08:27:32 pm: Loop: 0 // 4 vs 4.
+09/23/2012 08:27:32 pm: TransactionID is found: <>
+09/23/2012 08:27:32 pm: For loop exited.
+09/23/2012 08:27:33 pm: TransactionID to disable: <5>
+09/23/2012 08:27:33 pm: Loop: 0 // 7 vs 5.
+09/23/2012 08:27:33 pm: Loop: 0 // 6 vs 5.
+09/23/2012 08:27:33 pm: Loop: 0 // 5 vs 5.
+09/23/2012 08:27:33 pm: TransactionID is found: <>
+09/23/2012 08:27:33 pm: For loop exited.
+09/23/2012 08:27:33 pm: TransactionID to disable: <6>
+09/23/2012 08:27:33 pm: Loop: 0 // 7 vs 6.
+09/23/2012 08:27:33 pm: Loop: 0 // 6 vs 6.
+09/23/2012 08:27:33 pm: TransactionID is found: <>
+09/23/2012 08:27:33 pm: For loop exited.
+09/23/2012 08:34:00 pm: Amount value: -10,99. Preg_match_all result is <1>
+09/23/2012 08:34:12 pm: TransactionID to disable: <8>
+09/23/2012 08:34:12 pm: Loop: 0 // 8 vs 8.
+09/23/2012 08:34:12 pm: TransactionID is found: <>
+09/23/2012 08:34:12 pm: For loop exited.
+09/23/2012 07:55:20 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+09/23/2012 07:55:20 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:20 pm: Query has run: <CALL USP_GetAccounts();>.
+09/23/2012 07:55:20 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:20 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:20 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:20 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:20 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:20 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:20 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:20 pm: Query has run: <CALL USP_GetCurrencies();>.
+09/23/2012 07:55:20 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:20 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:20 pm: Query has run: <CALL USP_GetPayees();>.
+09/23/2012 07:55:20 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:20 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:20 pm: Query has run: <CALL USP_GetCategories2();>.
+09/23/2012 07:55:20 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:20 pm: Query has run: <CALL USP_GetCategories();>.
+09/23/2012 07:55:20 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:30 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:30 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:30 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+09/23/2012 07:55:30 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:30 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:30 pm: Query has run: <CALL USP_GetCurrencies();>.
+09/23/2012 07:55:30 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:30 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:30 pm: Query has run: <CALL USP_GetAccounts();>.
+09/23/2012 07:55:30 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:30 pm: Query has run: <CALL USP_GetPayees();>.
+09/23/2012 07:55:30 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:30 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:30 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:30 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 07:55:30 pm: Query has run: <CALL USP_GetCategories2();>.
+09/23/2012 07:55:30 pm: ... Got dataset to return in json obj
+09/23/2012 07:55:30 pm: Get the dataset to return in json obj...
+09/23/2012 07:55:30 pm: Query has run: <CALL USP_GetCategories();>.
+09/23/2012 07:55:30 pm: ... Got dataset to return in json obj
+09/23/2012 09:32:22 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+09/23/2012 09:32:22 pm: Get the dataset to return in json obj...
+09/23/2012 09:32:22 pm: Query has run: <CALL USP_GetAccounts();>.
+09/23/2012 09:32:22 pm: ... Got dataset to return in json obj
+09/23/2012 09:32:22 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:32:22 pm: Get the dataset to return in json obj...
+09/23/2012 09:32:22 pm: Query has run: <CALL USP_GetCurrencies();>.
+09/23/2012 09:32:22 pm: ... Got dataset to return in json obj
+09/23/2012 09:32:22 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:32:22 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:32:22 pm: Get the dataset to return in json obj...
+09/23/2012 09:32:22 pm: Query has run: <CALL USP_GetCategories();>.
+09/23/2012 09:32:22 pm: ... Got dataset to return in json obj
+09/23/2012 09:32:22 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:32:22 pm: Get the dataset to return in json obj...
+09/23/2012 09:32:22 pm: Get the dataset to return in json obj...
+09/23/2012 09:32:22 pm: Query has run: <CALL USP_GetCategories2();>.
+09/23/2012 09:32:22 pm: ... Got dataset to return in json obj
+09/23/2012 09:32:22 pm: Query has run: <CALL USP_GetPayees();>.
+09/23/2012 09:32:22 pm: ... Got dataset to return in json obj
+09/23/2012 09:50:59 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+09/23/2012 09:50:59 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:50:59 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:50:59 pm: Get the dataset to return in json obj...
+09/23/2012 09:50:59 pm: Get the dataset to return in json obj...
+09/23/2012 09:50:59 pm: Query has run: <CALL USP_GetPayees();>.
+09/23/2012 09:50:59 pm: ... Got dataset to return in json obj
+09/23/2012 09:50:59 pm: Query has run: <CALL USP_GetCurrencies();>.
+09/23/2012 09:50:59 pm: ... Got dataset to return in json obj
+09/23/2012 09:50:59 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:50:59 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+09/23/2012 09:50:59 pm: Get the dataset to return in json obj...
+09/23/2012 09:50:59 pm: Query has run: <CALL USP_GetAccounts();>.
+09/23/2012 09:50:59 pm: ... Got dataset to return in json obj
+09/23/2012 09:50:59 pm: Get the dataset to return in json obj...
+09/23/2012 09:50:59 pm: Get the dataset to return in json obj...
+09/23/2012 09:50:59 pm: Query has run: <CALL USP_GetCategories();>.
+09/23/2012 09:50:59 pm: ... Got dataset to return in json obj
+09/23/2012 09:50:59 pm: Query has run: <CALL USP_GetCategories2();>.
+09/23/2012 09:50:59 pm: ... Got dataset to return in json obj

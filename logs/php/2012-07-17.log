@@ -1,0 +1,542 @@
+07/17/2012 08:51:03 am: dates filters: start: and end:
+07/17/2012 08:51:03 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/17/2012 08:51:03 am: totalrows=3320;page=1,limit=20
+07/17/2012 08:51:03 am: query string=
+07/17/2012 08:51:03 am: totalrows=3320;page=1,limit=20
+07/17/2012 08:51:03 am: totalrows=3320;page=1,limit=20
+07/17/2012 08:51:03 am: totalrows=3320;page=1,limit=20;startIndex=0
+07/17/2012 11:31:16 am: Start lookup for currency...
+07/17/2012 11:31:36 am: Start lookup for currency...
+07/17/2012 11:35:32 am: Start lookup for currency...
+07/17/2012 11:35:32 am: For loop - item0
+07/17/2012 11:35:32 am: got currency - ID=2
+07/17/2012 11:35:32 am: For loop - item0
+07/17/2012 11:35:32 am: For loop - item0
+07/17/2012 11:35:32 am: ... Finished lookup for currency.
+07/17/2012 11:35:32 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:35:32 am: Start insert...
+07/17/2012 11:35:32 am: ... End insert
+07/17/2012 11:37:17 am: Start lookup for currency...
+07/17/2012 11:37:17 am: For loop - item0
+07/17/2012 11:37:17 am: got currency - ID=2
+07/17/2012 11:37:17 am: For loop - item0
+07/17/2012 11:37:17 am: For loop - item0
+07/17/2012 11:37:17 am: ... Finished lookup for currency.
+07/17/2012 11:37:17 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:37:17 am: Start insert...
+07/17/2012 11:37:17 am: ... End insert
+07/17/2012 11:37:33 am: Start lookup for currency...
+07/17/2012 11:37:33 am: For loop - item0
+07/17/2012 11:37:33 am: got currency - ID=2
+07/17/2012 11:37:33 am: For loop - item0
+07/17/2012 11:37:33 am: For loop - item0
+07/17/2012 11:37:33 am: ... Finished lookup for currency.
+07/17/2012 11:37:33 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:37:33 am: Start insert...
+07/17/2012 11:43:10 am: Start lookup for currency...
+07/17/2012 11:43:10 am: For loop - item0
+07/17/2012 11:43:10 am: got currency - ID=2
+07/17/2012 11:43:10 am: For loop - item0
+07/17/2012 11:43:10 am: For loop - item0
+07/17/2012 11:43:10 am: ... Finished lookup for currency.
+07/17/2012 11:43:10 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:43:10 am: Start insert...
+07/17/2012 11:43:10 am: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:43:10 am: ... End insert
+07/17/2012 11:46:40 am: Start lookup for currency...
+07/17/2012 11:46:40 am: For loop - item0
+07/17/2012 11:46:40 am: got currency - ID=2
+07/17/2012 11:46:40 am: For loop - item0
+07/17/2012 11:46:40 am: For loop - item0
+07/17/2012 11:46:40 am: ... Finished lookup for currency.
+07/17/2012 11:46:40 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:46:40 am: Start insert...
+07/17/2012 11:47:17 am: Start lookup for currency...
+07/17/2012 11:47:17 am: For loop - item0
+07/17/2012 11:47:17 am: got currency - ID=2
+07/17/2012 11:47:17 am: For loop - item0
+07/17/2012 11:47:17 am: For loop - item0
+07/17/2012 11:47:17 am: ... Finished lookup for currency.
+07/17/2012 11:47:17 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:47:17 am: Start insert...
+07/17/2012 11:47:17 am: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:47:17 am: ... End insert
+07/17/2012 11:48:27 am: Start lookup for currency...
+07/17/2012 11:48:27 am: For loop - item0
+07/17/2012 11:48:27 am: got currency - ID=2
+07/17/2012 11:48:27 am: For loop - item0
+07/17/2012 11:48:27 am: For loop - item0
+07/17/2012 11:48:27 am: ... Finished lookup for currency.
+07/17/2012 11:48:27 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:48:27 am: Start insert...
+07/17/2012 11:51:37 am: Start lookup for currency...
+07/17/2012 11:51:37 am: For loop - item0
+07/17/2012 11:51:37 am: got currency - ID=2
+07/17/2012 11:51:37 am: For loop - item0
+07/17/2012 11:51:37 am: For loop - item0
+07/17/2012 11:51:37 am: ... Finished lookup for currency.
+07/17/2012 11:51:37 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:51:37 am: Start insert...
+07/17/2012 11:58:32 am: Start lookup for currency...
+07/17/2012 11:58:32 am: For loop - item0
+07/17/2012 11:58:32 am: got currency - ID=2
+07/17/2012 11:58:32 am: For loop - item0
+07/17/2012 11:58:32 am: For loop - item0
+07/17/2012 11:58:32 am: ... Finished lookup for currency.
+07/17/2012 11:58:32 am: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 11:58:32 am: Start insert...
+07/17/2012 01:04:45 pm: Start lookup for currency...
+07/17/2012 01:04:45 pm: For loop - item0
+07/17/2012 01:04:45 pm: got currency - ID=2
+07/17/2012 01:04:45 pm: For loop - item0
+07/17/2012 01:04:45 pm: For loop - item0
+07/17/2012 01:04:45 pm: ... Finished lookup for currency.
+07/17/2012 01:04:45 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:04:45 pm: Start insert...
+07/17/2012 01:04:45 pm: returned value from from DB exec: 107/17/2012 01:04:45 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:04:45 pm: ... End insert
+07/17/2012 01:05:55 pm: Start lookup for currency...
+07/17/2012 01:05:55 pm: For loop - item0
+07/17/2012 01:05:55 pm: got currency - ID=2
+07/17/2012 01:05:55 pm: For loop - item0
+07/17/2012 01:05:55 pm: For loop - item0
+07/17/2012 01:05:55 pm: ... Finished lookup for currency.
+07/17/2012 01:05:55 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:05:55 pm: Start insert...
+07/17/2012 01:05:55 pm: returned value from from DB exec: 07/17/2012 01:05:55 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:05:55 pm: ... End insert
+07/17/2012 01:06:38 pm: Start lookup for currency...
+07/17/2012 01:06:38 pm: For loop - item0
+07/17/2012 01:06:38 pm: got currency - ID=2
+07/17/2012 01:06:38 pm: For loop - item0
+07/17/2012 01:06:38 pm: For loop - item0
+07/17/2012 01:06:38 pm: ... Finished lookup for currency.
+07/17/2012 01:06:38 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:06:38 pm: Start insert...
+07/17/2012 01:06:38 pm: returned value from from DB exec: 07/17/2012 01:06:38 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:06:38 pm: ... End insert
+07/17/2012 01:12:51 pm: Start lookup for currency...
+07/17/2012 01:12:51 pm: For loop - item0
+07/17/2012 01:12:51 pm: got currency - ID=2
+07/17/2012 01:12:51 pm: For loop - item0
+07/17/2012 01:12:51 pm: For loop - item0
+07/17/2012 01:12:51 pm: ... Finished lookup for currency.
+07/17/2012 01:12:51 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:12:51 pm: Start insert...
+07/17/2012 01:12:51 pm: returned value from from DB exec: Error in query: CALL USP_InsertAccount (2,'test2');- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062). - File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.07/17/2012 01:12:51 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:12:51 pm: ... End insert
+07/17/2012 01:13:26 pm: Start lookup for currency...
+07/17/2012 01:13:26 pm: For loop - item0
+07/17/2012 01:13:26 pm: got currency - ID=2
+07/17/2012 01:13:26 pm: For loop - item0
+07/17/2012 01:13:26 pm: For loop - item0
+07/17/2012 01:13:26 pm: ... Finished lookup for currency.
+07/17/2012 01:13:26 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:13:26 pm: Start insert...
+07/17/2012 01:13:26 pm: returned value from from DB exec: Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062). - File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.07/17/2012 01:13:26 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:13:26 pm: ... End insert
+07/17/2012 01:16:05 pm: Start lookup for currency...
+07/17/2012 01:16:05 pm: For loop - item0
+07/17/2012 01:16:05 pm: got currency - ID=2
+07/17/2012 01:16:05 pm: For loop - item0
+07/17/2012 01:16:05 pm: For loop - item0
+07/17/2012 01:16:05 pm: ... Finished lookup for currency.
+07/17/2012 01:16:05 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:16:05 pm: Start insert...
+07/17/2012 01:16:05 pm: returned value from from DB exec: 
+Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062). - File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.07/17/2012 01:16:05 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:16:05 pm: ... End insert
+07/17/2012 01:17:55 pm: Start lookup for currency...
+07/17/2012 01:17:55 pm: For loop - item0
+07/17/2012 01:17:55 pm: got currency - ID=2
+07/17/2012 01:17:55 pm: For loop - item0
+07/17/2012 01:17:55 pm: For loop - item0
+07/17/2012 01:17:55 pm: ... Finished lookup for currency.
+07/17/2012 01:17:55 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:17:55 pm: Start insert...
+07/17/2012 01:17:55 pm: returned value from from DB exec: 
+Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062). - File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.07/17/2012 01:17:55 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:17:55 pm: ... End insert
+07/17/2012 01:20:46 pm: Start lookup for currency...
+07/17/2012 01:20:46 pm: For loop - item0
+07/17/2012 01:20:46 pm: got currency - ID=2
+07/17/2012 01:20:46 pm: For loop - item0
+07/17/2012 01:20:46 pm: For loop - item0
+07/17/2012 01:20:46 pm: ... Finished lookup for currency.
+07/17/2012 01:20:46 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:20:46 pm: Start insert...
+07/17/2012 01:20:46 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.07/17/2012 01:20:46 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:20:46 pm: ... End insert
+07/17/2012 01:21:34 pm: Start lookup for currency...
+07/17/2012 01:21:34 pm: For loop - item0
+07/17/2012 01:21:34 pm: got currency - ID=2
+07/17/2012 01:21:34 pm: For loop - item0
+07/17/2012 01:21:34 pm: For loop - item0
+07/17/2012 01:21:34 pm: ... Finished lookup for currency.
+07/17/2012 01:21:34 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:21:34 pm: Start insert...
+07/17/2012 01:21:34 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: './Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 01:21:34 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 01:21:34 pm: ... End insert
+07/17/2012 02:40:52 pm: Start lookup for currency...
+07/17/2012 02:40:52 pm: For loop - item0
+07/17/2012 02:40:52 pm: got currency - ID=2
+07/17/2012 02:40:52 pm: For loop - item0
+07/17/2012 02:40:52 pm: For loop - item0
+07/17/2012 02:40:52 pm: ... Finished lookup for currency.
+07/17/2012 02:40:52 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:40:52 pm: Start insert...
+07/17/2012 02:40:52 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 02:40:52 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:40:52 pm: ... End insert
+07/17/2012 02:41:29 pm: Start lookup for currency...
+07/17/2012 02:41:29 pm: For loop - item0
+07/17/2012 02:41:29 pm: got currency - ID=2
+07/17/2012 02:41:29 pm: For loop - item0
+07/17/2012 02:41:29 pm: For loop - item0
+07/17/2012 02:41:29 pm: ... Finished lookup for currency.
+07/17/2012 02:41:29 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:41:29 pm: Start insert...
+07/17/2012 02:41:29 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 02:41:29 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:41:29 pm: ... End insert
+07/17/2012 02:54:26 pm: Start lookup for currency...
+07/17/2012 02:54:26 pm: For loop - item0
+07/17/2012 02:54:26 pm: got currency - ID=2
+07/17/2012 02:54:26 pm: For loop - item0
+07/17/2012 02:54:26 pm: For loop - item0
+07/17/2012 02:54:26 pm: ... Finished lookup for currency.
+07/17/2012 02:54:26 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:54:26 pm: Start insert...
+07/17/2012 02:54:26 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 02:54:26 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:54:26 pm: ... End insert
+07/17/2012 02:54:27 pm: Start lookup for currency...
+07/17/2012 02:54:27 pm: For loop - item0
+07/17/2012 02:54:27 pm: got currency - ID=2
+07/17/2012 02:54:27 pm: For loop - item0
+07/17/2012 02:54:27 pm: For loop - item0
+07/17/2012 02:54:27 pm: ... Finished lookup for currency.
+07/17/2012 02:54:27 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:54:27 pm: Start insert...
+07/17/2012 02:54:27 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 02:54:27 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:54:27 pm: ... End insert
+07/17/2012 02:55:44 pm: Start lookup for currency...
+07/17/2012 02:55:44 pm: For loop - item0
+07/17/2012 02:55:44 pm: got currency - ID=2
+07/17/2012 02:55:44 pm: For loop - item0
+07/17/2012 02:55:44 pm: For loop - item0
+07/17/2012 02:55:44 pm: ... Finished lookup for currency.
+07/17/2012 02:55:44 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:55:44 pm: Start insert...
+07/17/2012 02:55:44 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 02:55:44 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 02:55:44 pm: ... End insert
+07/17/2012 03:00:57 pm: Start lookup for currency...
+07/17/2012 03:00:57 pm: For loop - item0
+07/17/2012 03:00:57 pm: got currency - ID=2
+07/17/2012 03:00:57 pm: For loop - item0
+07/17/2012 03:00:57 pm: For loop - item0
+07/17/2012 03:00:57 pm: ... Finished lookup for currency.
+07/17/2012 03:00:57 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:00:57 pm: Start insert...
+07/17/2012 03:00:57 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:00:57 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:00:57 pm: ... End insert
+07/17/2012 03:02:30 pm: Start lookup for currency...
+07/17/2012 03:02:30 pm: For loop - item0
+07/17/2012 03:02:30 pm: got currency - ID=2
+07/17/2012 03:02:30 pm: For loop - item0
+07/17/2012 03:02:30 pm: For loop - item0
+07/17/2012 03:02:30 pm: ... Finished lookup for currency.
+07/17/2012 03:02:30 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:02:30 pm: Start insert...
+07/17/2012 03:02:30 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:02:30 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:02:30 pm: ... End insert
+07/17/2012 03:04:04 pm: Start lookup for currency...
+07/17/2012 03:04:04 pm: For loop - item0
+07/17/2012 03:04:04 pm: got currency - ID=2
+07/17/2012 03:04:04 pm: For loop - item0
+07/17/2012 03:04:04 pm: For loop - item0
+07/17/2012 03:04:04 pm: ... Finished lookup for currency.
+07/17/2012 03:04:04 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:04:04 pm: Start insert...
+07/17/2012 03:04:04 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:04:04 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:04:04 pm: ... End insert
+07/17/2012 03:04:56 pm: Start lookup for currency...
+07/17/2012 03:04:56 pm: For loop - item0
+07/17/2012 03:04:56 pm: got currency - ID=2
+07/17/2012 03:04:56 pm: For loop - item0
+07/17/2012 03:04:56 pm: For loop - item0
+07/17/2012 03:04:56 pm: ... Finished lookup for currency.
+07/17/2012 03:04:56 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:04:56 pm: Start insert...
+07/17/2012 03:04:56 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:04:56 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:04:56 pm: ... End insert
+07/17/2012 03:05:32 pm: Start lookup for currency...
+07/17/2012 03:05:32 pm: For loop - item0
+07/17/2012 03:05:32 pm: got currency - ID=2
+07/17/2012 03:05:32 pm: For loop - item0
+07/17/2012 03:05:32 pm: For loop - item0
+07/17/2012 03:05:32 pm: ... Finished lookup for currency.
+07/17/2012 03:05:32 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:05:32 pm: Start insert...
+07/17/2012 03:05:32 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:05:32 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:05:32 pm: ... End insert
+07/17/2012 03:15:27 pm: Start lookup for currency...
+07/17/2012 03:15:27 pm: For loop - item0
+07/17/2012 03:15:27 pm: got currency - ID=2
+07/17/2012 03:15:27 pm: For loop - item0
+07/17/2012 03:15:27 pm: For loop - item0
+07/17/2012 03:15:27 pm: ... Finished lookup for currency.
+07/17/2012 03:15:27 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:15:27 pm: Start insert...
+07/17/2012 03:15:27 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:15:27 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:15:27 pm: ... End insert
+07/17/2012 03:18:07 pm: Start lookup for currency...
+07/17/2012 03:18:07 pm: For loop - item0
+07/17/2012 03:18:07 pm: got currency - ID=2
+07/17/2012 03:18:07 pm: For loop - item0
+07/17/2012 03:18:07 pm: For loop - item0
+07/17/2012 03:18:07 pm: ... Finished lookup for currency.
+07/17/2012 03:18:07 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:18:07 pm: Start insert...
+07/17/2012 03:18:07 pm: returned value from from DB exec: 
+- Error in query: CALL USP_InsertAccount (2,'test2');
+- Error: Duplicate entry '2-test2' for key 'uc_cID_accountName' (Error #1062)
+- File: /Users/trust5/Dropbox/DEV/Web/FinanceApp/php/insert.php.
+07/17/2012 03:18:07 pm: ... End insert
+07/17/2012 03:19:21 pm: Start lookup for currency...
+07/17/2012 03:19:21 pm: For loop - item0
+07/17/2012 03:19:21 pm: got currency - ID=2
+07/17/2012 03:19:21 pm: For loop - item0
+07/17/2012 03:19:21 pm: For loop - item0
+07/17/2012 03:19:21 pm: ... Finished lookup for currency.
+07/17/2012 03:19:21 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:19:21 pm: Start insert...
+07/17/2012 03:19:21 pm: Query has run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:19:21 pm: ... End insert
+07/17/2012 03:19:25 pm: Start lookup for currency...
+07/17/2012 03:19:25 pm: For loop - item0
+07/17/2012 03:19:25 pm: got currency - ID=2
+07/17/2012 03:19:25 pm: For loop - item0
+07/17/2012 03:19:25 pm: For loop - item0
+07/17/2012 03:19:25 pm: ... Finished lookup for currency.
+07/17/2012 03:19:25 pm: Query to run: <CALL USP_InsertAccount (2,'test2');>.
+07/17/2012 03:19:25 pm: Start insert...
+07/17/2012 03:19:25 pm: ... End insert
+07/17/2012 03:30:45 pm: Start lookup for currency...
+07/17/2012 03:30:45 pm: For loop - item0
+07/17/2012 03:30:45 pm: For loop - item0
+07/17/2012 03:30:45 pm: For loop - item0
+07/17/2012 03:30:45 pm: ... Finished lookup for currency.
+07/17/2012 03:30:45 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 03:30:45 pm: Start insert...
+07/17/2012 03:30:45 pm: ... End insert
+07/17/2012 07:31:07 pm: Start lookup for currency...
+07/17/2012 07:31:07 pm: For loop - item0
+07/17/2012 07:31:07 pm: For loop - item0
+07/17/2012 07:31:07 pm: For loop - item0
+07/17/2012 07:31:07 pm: ... Finished lookup for currency.
+07/17/2012 07:31:07 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 07:31:07 pm: Start insert...
+07/17/2012 07:31:07 pm: ... End insert
+07/17/2012 07:31:09 pm: Start lookup for currency...
+07/17/2012 07:31:09 pm: For loop - item0
+07/17/2012 07:31:09 pm: For loop - item0
+07/17/2012 07:31:09 pm: For loop - item0
+07/17/2012 07:31:09 pm: ... Finished lookup for currency.
+07/17/2012 07:31:09 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 07:31:09 pm: Start insert...
+07/17/2012 07:31:09 pm: ... End insert
+07/17/2012 09:36:34 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','2','1','13','187','35','Shimano Tiagra 4650 Chainset');>.
+07/17/2012 09:38:08 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','2','1','13','187','35','Shimano Tiagra 4650 Chainset');>.
+07/17/2012 09:39:23 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','2','1','13','187','35','Shimano Tiagra 4650 Chainset');>.
+07/17/2012 10:09:54 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','1','25','123','135','0','');>.
+07/17/2012 10:26:25 pm: Start lookup for currency...
+07/17/2012 10:26:25 pm: For loop - item0
+07/17/2012 10:26:25 pm: For loop - item0
+07/17/2012 10:26:25 pm: For loop - item0
+07/17/2012 10:26:25 pm: ... Finished lookup for currency.
+07/17/2012 10:26:25 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:26:25 pm: Start insert...
+07/17/2012 10:26:25 pm: ... End insert
+07/17/2012 10:27:01 pm: Start lookup for currency...
+07/17/2012 10:27:01 pm: For loop - item0
+07/17/2012 10:27:01 pm: For loop - item0
+07/17/2012 10:27:01 pm: For loop - item0
+07/17/2012 10:27:01 pm: ... Finished lookup for currency.
+07/17/2012 10:27:01 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:27:01 pm: Start insert...
+07/17/2012 10:27:01 pm: ... End insert
+07/17/2012 10:27:03 pm: Start lookup for currency...
+07/17/2012 10:27:03 pm: For loop - item0
+07/17/2012 10:27:03 pm: For loop - item0
+07/17/2012 10:27:03 pm: For loop - item0
+07/17/2012 10:27:03 pm: ... Finished lookup for currency.
+07/17/2012 10:27:03 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:27:03 pm: Start insert...
+07/17/2012 10:27:03 pm: ... End insert
+07/17/2012 10:27:07 pm: Start lookup for currency...
+07/17/2012 10:27:07 pm: For loop - item0
+07/17/2012 10:27:07 pm: For loop - item0
+07/17/2012 10:27:07 pm: For loop - item0
+07/17/2012 10:27:07 pm: ... Finished lookup for currency.
+07/17/2012 10:27:07 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:27:07 pm: Start insert...
+07/17/2012 10:27:07 pm: ... End insert
+07/17/2012 10:28:03 pm: Start lookup for currency...
+07/17/2012 10:28:03 pm: For loop - item0
+07/17/2012 10:28:03 pm: For loop - item0
+07/17/2012 10:28:03 pm: For loop - item0
+07/17/2012 10:28:03 pm: ... Finished lookup for currency.
+07/17/2012 10:28:03 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:28:03 pm: Start insert...
+07/17/2012 10:28:03 pm: ... End insert
+07/17/2012 10:30:00 pm: Start lookup for currency...
+07/17/2012 10:30:00 pm: For loop - item0
+07/17/2012 10:30:00 pm: For loop - item0
+07/17/2012 10:30:00 pm: For loop - item0
+07/17/2012 10:30:00 pm: ... Finished lookup for currency.
+07/17/2012 10:30:00 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:30:00 pm: Start insert...
+07/17/2012 10:30:00 pm: ... End insert
+07/17/2012 10:33:44 pm: dates filters: start: and end:
+07/17/2012 10:33:44 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/17/2012 10:33:44 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:33:44 pm: query string=
+07/17/2012 10:33:44 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:33:44 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:33:44 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/17/2012 10:34:08 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','1','1','2','25','123','135','0','');>.
+07/17/2012 10:35:14 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','1','1','3','25','123','135','0','');>.
+07/17/2012 10:35:14 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','1','1','3','25','123','135','0','');>.
+07/17/2012 10:36:06 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','1','1','3','25','123','135','0','');>.
+07/17/2012 10:36:06 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','1','1','3','25','123','135','0','');>.
+07/17/2012 10:38:10 pm: Start lookup for currency...
+07/17/2012 10:38:10 pm: For loop - item0
+07/17/2012 10:38:10 pm: For loop - item0
+07/17/2012 10:38:10 pm: For loop - item0
+07/17/2012 10:38:10 pm: ... Finished lookup for currency.
+07/17/2012 10:38:10 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:10 pm: Start insert...
+07/17/2012 10:38:10 pm: ... End insert
+07/17/2012 10:38:16 pm: Start lookup for currency...
+07/17/2012 10:38:16 pm: For loop - item0
+07/17/2012 10:38:16 pm: For loop - item0
+07/17/2012 10:38:16 pm: For loop - item0
+07/17/2012 10:38:16 pm: ... Finished lookup for currency.
+07/17/2012 10:38:16 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:16 pm: Start insert...
+07/17/2012 10:38:16 pm: ... End insert
+07/17/2012 10:38:18 pm: Start lookup for currency...
+07/17/2012 10:38:18 pm: For loop - item0
+07/17/2012 10:38:18 pm: For loop - item0
+07/17/2012 10:38:18 pm: For loop - item0
+07/17/2012 10:38:18 pm: ... Finished lookup for currency.
+07/17/2012 10:38:18 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:18 pm: Start insert...
+07/17/2012 10:38:18 pm: ... End insert
+07/17/2012 10:38:20 pm: Start lookup for currency...
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: ... Finished lookup for currency.
+07/17/2012 10:38:20 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:20 pm: Start insert...
+07/17/2012 10:38:20 pm: ... End insert
+07/17/2012 10:38:20 pm: Start lookup for currency...
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: ... Finished lookup for currency.
+07/17/2012 10:38:20 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:20 pm: Start insert...
+07/17/2012 10:38:20 pm: ... End insert
+07/17/2012 10:38:20 pm: Start lookup for currency...
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: For loop - item0
+07/17/2012 10:38:20 pm: ... Finished lookup for currency.
+07/17/2012 10:38:20 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:20 pm: Start insert...
+07/17/2012 10:38:20 pm: ... End insert
+07/17/2012 10:38:24 pm: Start lookup for currency...
+07/17/2012 10:38:24 pm: For loop - item0
+07/17/2012 10:38:24 pm: For loop - item0
+07/17/2012 10:38:24 pm: For loop - item0
+07/17/2012 10:38:24 pm: ... Finished lookup for currency.
+07/17/2012 10:38:24 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:24 pm: Start insert...
+07/17/2012 10:38:24 pm: ... End insert
+07/17/2012 10:38:48 pm: Start lookup for currency...
+07/17/2012 10:38:48 pm: For loop - item0
+07/17/2012 10:38:48 pm: For loop - item0
+07/17/2012 10:38:48 pm: For loop - item0
+07/17/2012 10:38:48 pm: ... Finished lookup for currency.
+07/17/2012 10:38:48 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:38:48 pm: Start insert...
+07/17/2012 10:38:48 pm: ... End insert
+07/17/2012 10:39:04 pm: Start lookup for currency...
+07/17/2012 10:39:04 pm: For loop - item0
+07/17/2012 10:39:04 pm: For loop - item0
+07/17/2012 10:39:04 pm: For loop - item0
+07/17/2012 10:39:04 pm: ... Finished lookup for currency.
+07/17/2012 10:39:04 pm: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/17/2012 10:39:04 pm: Start insert...
+07/17/2012 10:39:04 pm: ... End insert
+07/17/2012 10:47:59 pm: dates filters: start: and end:
+07/17/2012 10:47:59 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/17/2012 10:47:59 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:47:59 pm: query string=
+07/17/2012 10:47:59 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:47:59 pm: totalrows=3323;page=1,limit=20
+07/17/2012 10:47:59 pm: totalrows=3323;page=1,limit=20;startIndex=0

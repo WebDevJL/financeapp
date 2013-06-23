@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <type>transactionTypes</type>
+  <item>
+    <name>Debit</name>
+    <id>1</id>
+  </item>
+  <item>
+    <name>Credit</name>
+    <id>2</id>
+  </item>
+  <item>
+    <name>Transfer</name>
+    <id>3</id>
+  </item>
+</items>

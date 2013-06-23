@@ -1,0 +1,149 @@
+07/18/2012 10:51:32 am: Start lookup for currency...
+07/18/2012 10:51:32 am: For loop - item0
+07/18/2012 10:51:32 am: For loop - item0
+07/18/2012 10:51:32 am: For loop - item0
+07/18/2012 10:51:32 am: ... Finished lookup for currency.
+07/18/2012 10:51:32 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:51:32 am: Start insert...
+07/18/2012 10:51:32 am: ... End insert
+07/18/2012 10:52:15 am: Start lookup for currency...
+07/18/2012 10:52:15 am: For loop - item0
+07/18/2012 10:52:15 am: For loop - item0
+07/18/2012 10:52:15 am: For loop - item0
+07/18/2012 10:52:15 am: ... Finished lookup for currency.
+07/18/2012 10:52:15 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:52:15 am: Start insert...
+07/18/2012 10:52:15 am: ... End insert
+07/18/2012 10:53:02 am: Start lookup for currency...
+07/18/2012 10:53:02 am: For loop - item0
+07/18/2012 10:53:02 am: For loop - item0
+07/18/2012 10:53:02 am: For loop - item0
+07/18/2012 10:53:02 am: ... Finished lookup for currency.
+07/18/2012 10:53:02 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:53:02 am: Start insert...
+07/18/2012 10:53:02 am: ... End insert
+07/18/2012 10:53:29 am: Start lookup for currency...
+07/18/2012 10:53:29 am: For loop - item0
+07/18/2012 10:53:29 am: For loop - item0
+07/18/2012 10:53:29 am: For loop - item0
+07/18/2012 10:53:29 am: ... Finished lookup for currency.
+07/18/2012 10:53:29 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:53:29 am: Start insert...
+07/18/2012 10:53:29 am: ... End insert
+07/18/2012 10:53:37 am: Start lookup for currency...
+07/18/2012 10:53:37 am: For loop - item0
+07/18/2012 10:53:37 am: For loop - item0
+07/18/2012 10:53:37 am: For loop - item0
+07/18/2012 10:53:37 am: ... Finished lookup for currency.
+07/18/2012 10:53:37 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:53:37 am: Start insert...
+07/18/2012 10:53:37 am: ... End insert
+07/18/2012 10:53:42 am: Start lookup for currency...
+07/18/2012 10:53:42 am: For loop - item0
+07/18/2012 10:53:42 am: For loop - item0
+07/18/2012 10:53:42 am: For loop - item0
+07/18/2012 10:53:42 am: ... Finished lookup for currency.
+07/18/2012 10:53:42 am: Query to run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/18/2012 10:53:42 am: Start insert...
+07/18/2012 10:53:42 am: ... End insert
+07/18/2012 02:15:41 pm: Start lookup for currency...
+07/18/2012 02:15:41 pm: no currency
+07/18/2012 02:15:41 pm: ... Finished lookup for currency.
+07/18/2012 02:15:41 pm: Start insert...
+07/18/2012 02:15:41 pm: ... End insert
+07/18/2012 02:16:06 pm: Start lookup for currency...
+07/18/2012 02:16:06 pm: no currency
+07/18/2012 02:16:06 pm: ... Finished lookup for currency.
+07/18/2012 02:16:06 pm: Start insert...
+07/18/2012 02:16:06 pm: ... End insert
+07/18/2012 02:24:24 pm: Start lookup for currency...
+07/18/2012 02:24:24 pm: no currency
+07/18/2012 02:24:24 pm: ... Finished lookup for currency.
+07/18/2012 02:24:24 pm: Start insert...
+07/18/2012 02:24:24 pm: ... End insert
+07/18/2012 02:24:53 pm: Start lookup for currency...
+07/18/2012 02:24:53 pm: no currency
+07/18/2012 02:24:53 pm: ... Finished lookup for currency.
+07/18/2012 02:24:53 pm: Start insert...
+07/18/2012 02:24:53 pm: ... End insert
+07/18/2012 02:26:24 pm: Start lookup for currency...
+07/18/2012 02:26:24 pm: no currency
+07/18/2012 02:26:24 pm: ... Finished lookup for currency.
+07/18/2012 02:26:24 pm: Start insert...
+07/18/2012 02:26:24 pm: ... End insert
+07/18/2012 02:26:33 pm: Start lookup for currency...
+07/18/2012 02:26:33 pm: no currency
+07/18/2012 02:26:33 pm: ... Finished lookup for currency.
+07/18/2012 02:26:33 pm: Start insert...
+07/18/2012 02:26:33 pm: ... End insert
+07/18/2012 02:27:19 pm: Start lookup for currency...
+07/18/2012 02:27:19 pm: no currency
+07/18/2012 02:27:19 pm: ... Finished lookup for currency.
+07/18/2012 02:27:19 pm: Start insert...
+07/18/2012 02:27:19 pm: Query has run: <CALL USP_InsertCategory ('This is a long category that reach the limit in length set by the database');>.
+07/18/2012 02:27:19 pm: ... End insert
+07/18/2012 02:42:00 pm: Start lookup for currency...
+07/18/2012 02:42:00 pm: no currency
+07/18/2012 02:42:00 pm: ... Finished lookup for currency.
+07/18/2012 02:42:00 pm: Start insert...
+07/18/2012 02:42:00 pm: ... End insert
+07/18/2012 02:46:02 pm: Start lookup for currency...
+07/18/2012 02:46:02 pm: no currency
+07/18/2012 02:46:02 pm: ... Finished lookup for currency.
+07/18/2012 02:46:31 pm: Start lookup for currency...
+07/18/2012 02:46:31 pm: no currency
+07/18/2012 02:46:31 pm: ... Finished lookup for currency.
+07/18/2012 02:46:33 pm: Start lookup for currency...
+07/18/2012 02:46:33 pm: no currency
+07/18/2012 02:46:33 pm: ... Finished lookup for currency.
+07/18/2012 02:47:20 pm: Start lookup for currency...
+07/18/2012 02:47:20 pm: no currency
+07/18/2012 02:47:20 pm: ... Finished lookup for currency.
+07/18/2012 03:04:00 pm: length of category: strlen(This is a long category that reach the limit set in the DB)<46
+07/18/2012 03:04:00 pm: Error status: 1; Category Name to long! Max. length is 45 characters.
+07/18/2012 03:33:42 pm: 107/18/2012 03:37:12 pm: 107/18/2012 09:47:30 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','1','14','81','207','-45','Aug/Sept course');>.
+07/18/2012 09:47:52 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');>.
+07/18/2012 09:48:55 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');>.
+07/18/2012 09:49:37 pm: dates filters: start: and end:
+07/18/2012 09:49:37 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 09:49:37 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:37 pm: query string=
+07/18/2012 09:49:37 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:37 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:37 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/18/2012 09:49:44 pm: dates filters: start:Select Start Date and end:Select End Date
+07/18/2012 09:49:44 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 09:49:44 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:44 pm: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Select+Account&transactionType=Select+Type&category=Select+Category&payee=JustDance%3B+&submitForm=Apply+Filters
+07/18/2012 09:49:44 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:44 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:44 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/18/2012 09:49:51 pm: dates filters: start:Select Start Date and end:Select End Date
+07/18/2012 09:49:51 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 09:49:51 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:51 pm: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Select+Account&transactionType=Select+Type&category=Select+Category&payee=JustDance&submitForm=Apply+Filters
+07/18/2012 09:49:51 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:51 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:49:51 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/18/2012 09:50:03 pm: dates filters: start:Select Start Date and end:Select End Date
+07/18/2012 09:50:03 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 09:50:03 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:50:03 pm: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Select+Account&transactionType=Select+Type&category=Select+Category&payee=JustDance&submitForm=Apply+Filters
+07/18/2012 09:50:03 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:50:03 pm: totalrows=3323;page=1,limit=20
+07/18/2012 09:50:03 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/18/2012 09:50:45 pm: Query has run: <CALL USP_InsertTransaction('1970-01-01','11','1','1','14','74','207','-45','Aug/Sept course');>.
+07/18/2012 10:02:33 pm: dates filters: start: and end:
+07/18/2012 10:02:33 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 10:02:33 pm: totalrows=3323;page=1,limit=20
+07/18/2012 10:02:33 pm: query string=
+07/18/2012 10:02:33 pm: totalrows=3323;page=1,limit=20
+07/18/2012 10:02:33 pm: totalrows=3323;page=1,limit=20
+07/18/2012 10:02:33 pm: totalrows=3323;page=1,limit=20;startIndex=0
+07/18/2012 10:03:52 pm: dates filters: start: and end:
+07/18/2012 10:03:52 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/18/2012 10:03:52 pm: totalrows=3325;page=1,limit=20
+07/18/2012 10:03:52 pm: query string=
+07/18/2012 10:03:52 pm: totalrows=3325;page=1,limit=20
+07/18/2012 10:03:52 pm: totalrows=3325;page=1,limit=20
+07/18/2012 10:03:52 pm: totalrows=3325;page=1,limit=20;startIndex=0

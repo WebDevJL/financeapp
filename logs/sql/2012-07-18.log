@@ -1,0 +1,30 @@
+07/18/2012 10:01:04 am: CALL USP_InsertTransaction('1970-01-01','0','1','0','0','0','0','Enter Amount','');
+07/18/2012 10:01:07 am: CALL USP_InsertTransaction('1970-01-01','0','1','0','0','0','0','Enter Amount','');
+07/18/2012 10:01:12 am: CALL USP_InsertTransaction('1970-01-01','0','1','0','0','0','0','Enter Amount','');
+07/18/2012 02:27:19 pm: CALL USP_InsertCategory ('This is a long category that reach the limit in length set by the database');
+07/18/2012 02:47:20 pm: Error status: 107/18/2012 02:52:08 pm: Error status: 1; Category Name to long! Max. length is 45 characters.07/18/2012 02:52:08 pm: Error status: 107/18/2012 02:54:23 pm: length of category: strlen(This is a long category that reach the limit set in the DB)<46
+07/18/2012 02:54:23 pm: Error status: 1; Category Name to long! Max. length is 45 characters.
+07/18/2012 02:54:23 pm: Error status: 1
+07/18/2012 03:04:00 pm: Error status: 1
+07/18/2012 03:05:32 pm: Error status: 1
+07/18/2012 03:05:34 pm: Error status: 1
+07/18/2012 09:47:30 pm: CALL USP_InsertTransaction('1970-01-01','11','1','1','14','81','207','-45','Aug/Sept course');
+07/18/2012 09:47:30 pm: CALL USP_InsertTransaction('1970-01-01','11','1','1','14','81','207','-45','Aug/Sept course');
+07/18/2012 09:47:52 pm: CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');
+07/18/2012 09:47:52 pm: CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');
+07/18/2012 09:48:55 pm: CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');
+07/18/2012 09:48:55 pm: CALL USP_InsertTransaction('1970-01-01','11','1','2','2','20','142','9.6','');
+07/18/2012 09:49:37 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:49:37 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:49:44 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:49:44 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:49:51 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:49:51 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:50:03 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:50:03 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 09:50:45 pm: CALL USP_InsertTransaction('1970-01-01','11','1','1','14','74','207','-45','Aug/Sept course');
+07/18/2012 09:50:45 pm: CALL USP_InsertTransaction('1970-01-01','11','1','1','14','74','207','-45','Aug/Sept course');
+07/18/2012 10:02:33 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 10:02:33 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 10:03:52 pm: CALL USP_GetNumberOfRowsUsingFilters_Transactions (1,null,null,null,null,null,'1990-01-01','2100-01-01');
+07/18/2012 10:03:52 pm: call USP_GetTransactions(0,20,1,null,null,null,null,null,'1990-01-01','2100-01-01');

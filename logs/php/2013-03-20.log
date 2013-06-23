@@ -1,0 +1,283 @@
+03/20/2013 07:14:52 pm: Get the dataset to return in json obj...
+03/20/2013 07:14:52 pm: Get the dataset to return in json obj...
+03/20/2013 07:14:52 pm: Get the dataset to return in json obj...
+03/20/2013 07:14:52 pm: Get the dataset to return in json obj...
+03/20/2013 07:14:52 pm: Get the dataset to return in json obj...
+03/20/2013 07:14:52 pm: Query has run: <CALL USP_GetCategories();>.
+03/20/2013 07:14:52 pm: ... Got dataset to return in json obj
+03/20/2013 07:14:52 pm: Query has run: <CALL USP_GetCurrencies();>.
+03/20/2013 07:14:52 pm: ... Got dataset to return in json obj
+03/20/2013 07:14:52 pm: Query has run: <CALL USP_GetAccounts();>.
+03/20/2013 07:14:52 pm: ... Got dataset to return in json obj
+03/20/2013 07:14:52 pm: Query has run: <CALL USP_GetPayees();>.
+03/20/2013 07:14:52 pm: ... Got dataset to return in json obj
+03/20/2013 07:14:52 pm: Query has run: <CALL USP_GetCategories2();>.
+03/20/2013 07:14:52 pm: ... Got dataset to return in json obj
+03/20/2013 07:15:08 pm: Amount value: -7,3. Preg_match_all result is <1>
+03/20/2013 07:15:08 pm: Currency = <1>.
+03/20/2013 07:15:41 pm: Amount value: 130. Preg_match_all result is <1>
+03/20/2013 07:15:41 pm: Currency = <1>.
+03/20/2013 07:15:45 pm: Get the dataset to return in json obj...
+03/20/2013 07:15:45 pm: Query has run: <CALL USP_GetAccounts();>.
+03/20/2013 07:15:45 pm: ... Got dataset to return in json obj
+03/20/2013 07:15:45 pm: Get the dataset to return in json obj...
+03/20/2013 07:15:45 pm: Get the dataset to return in json obj...
+03/20/2013 07:15:45 pm: Query has run: <CALL USP_GetCurrencies();>.
+03/20/2013 07:15:45 pm: ... Got dataset to return in json obj
+03/20/2013 07:15:45 pm: Query has run: <CALL USP_GetCategories();>.
+03/20/2013 07:15:45 pm: ... Got dataset to return in json obj
+03/20/2013 07:15:45 pm: Get the dataset to return in json obj...
+03/20/2013 07:15:45 pm: Get the dataset to return in json obj...
+03/20/2013 07:15:45 pm: Query has run: <CALL USP_GetCategories2();>.
+03/20/2013 07:15:45 pm: ... Got dataset to return in json obj
+03/20/2013 07:15:45 pm: Query has run: <CALL USP_GetPayees();>.
+03/20/2013 07:15:45 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:32 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:32 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:32 pm: Query has run: <CALL USP_GetAccounts();>.
+03/20/2013 07:18:32 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:32 pm: Query has run: <CALL USP_GetCurrencies();>.
+03/20/2013 07:18:32 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:32 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:32 pm: Query has run: <CALL USP_GetPayees();>.
+03/20/2013 07:18:32 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:32 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:32 pm: Query has run: <CALL USP_GetCategories2();>.
+03/20/2013 07:18:32 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:32 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:32 pm: Query has run: <CALL USP_GetCategories();>.
+03/20/2013 07:18:32 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:54 pm: Query has run: <CALL USP_GetBudgetSettings ()>.
+03/20/2013 07:18:54 pm: Start while Loop;
+03/20/2013 07:18:54 pm: Loop 0: lastbID=0 ; bID=14;
+03/20/2013 07:18:54 pm: Loop 0: check=2;
+03/20/2013 07:18:54 pm: Loop 1: lastbID=14 ; bID=14;
+03/20/2013 07:18:54 pm: Loop 1: check=1;
+03/20/2013 07:18:54 pm: Loop 2: lastbID=14 ; bID=14;
+03/20/2013 07:18:54 pm: Loop 2: check=1;
+03/20/2013 07:18:54 pm: Loop 3: lastbID=14 ; bID=14;
+03/20/2013 07:18:54 pm: Loop 3: check=1;
+03/20/2013 07:18:54 pm: Loop 4: lastbID=14 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 4: check=2;
+03/20/2013 07:18:54 pm: Loop 5: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 5: check=1;
+03/20/2013 07:18:54 pm: Loop 6: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 6: check=1;
+03/20/2013 07:18:54 pm: Loop 7: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 7: check=1;
+03/20/2013 07:18:54 pm: Loop 8: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 8: check=1;
+03/20/2013 07:18:54 pm: Loop 9: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 9: check=1;
+03/20/2013 07:18:54 pm: Loop 10: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 10: check=1;
+03/20/2013 07:18:54 pm: Loop 11: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 11: check=1;
+03/20/2013 07:18:54 pm: Loop 12: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 12: check=1;
+03/20/2013 07:18:54 pm: Loop 13: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 13: check=1;
+03/20/2013 07:18:54 pm: Loop 14: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 14: check=1;
+03/20/2013 07:18:54 pm: Loop 15: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 15: check=1;
+03/20/2013 07:18:54 pm: Loop 16: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 16: check=1;
+03/20/2013 07:18:54 pm: Loop 17: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 17: check=1;
+03/20/2013 07:18:54 pm: Loop 18: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 18: check=1;
+03/20/2013 07:18:54 pm: Loop 19: lastbID=15 ; bID=15;
+03/20/2013 07:18:54 pm: Loop 19: check=1;
+03/20/2013 07:18:54 pm: Loop 20: lastbID=15 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 20: check=2;
+03/20/2013 07:18:54 pm: Loop 21: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 21: check=1;
+03/20/2013 07:18:54 pm: Loop 22: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 22: check=1;
+03/20/2013 07:18:54 pm: Loop 23: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 23: check=1;
+03/20/2013 07:18:54 pm: Loop 24: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 24: check=1;
+03/20/2013 07:18:54 pm: Loop 25: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 25: check=1;
+03/20/2013 07:18:54 pm: Loop 26: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 26: check=1;
+03/20/2013 07:18:54 pm: Loop 27: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 27: check=1;
+03/20/2013 07:18:54 pm: Loop 28: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 28: check=1;
+03/20/2013 07:18:54 pm: Loop 29: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 29: check=1;
+03/20/2013 07:18:54 pm: Loop 30: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 30: check=1;
+03/20/2013 07:18:54 pm: Loop 31: lastbID=16 ; bID=16;
+03/20/2013 07:18:54 pm: Loop 31: check=1;
+03/20/2013 07:18:54 pm: Loop 32: lastbID=16 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 32: check=2;
+03/20/2013 07:18:54 pm: Loop 33: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 33: check=1;
+03/20/2013 07:18:54 pm: Loop 34: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 34: check=1;
+03/20/2013 07:18:54 pm: Loop 35: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 35: check=1;
+03/20/2013 07:18:54 pm: Loop 36: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 36: check=1;
+03/20/2013 07:18:54 pm: Loop 37: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 37: check=1;
+03/20/2013 07:18:54 pm: Loop 38: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 38: check=1;
+03/20/2013 07:18:54 pm: Loop 39: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 39: check=1;
+03/20/2013 07:18:54 pm: Loop 40: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 40: check=1;
+03/20/2013 07:18:54 pm: Loop 41: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 41: check=1;
+03/20/2013 07:18:54 pm: Loop 42: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 42: check=1;
+03/20/2013 07:18:54 pm: Loop 43: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 43: check=1;
+03/20/2013 07:18:54 pm: Loop 44: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 44: check=1;
+03/20/2013 07:18:54 pm: Loop 45: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 45: check=1;
+03/20/2013 07:18:54 pm: Loop 46: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 46: check=1;
+03/20/2013 07:18:54 pm: Loop 47: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 47: check=1;
+03/20/2013 07:18:54 pm: Loop 48: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 48: check=1;
+03/20/2013 07:18:54 pm: Loop 49: lastbID=17 ; bID=17;
+03/20/2013 07:18:54 pm: Loop 49: check=1;
+03/20/2013 07:18:54 pm: Loop 50: lastbID=17 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 50: check=2;
+03/20/2013 07:18:54 pm: Loop 51: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 51: check=1;
+03/20/2013 07:18:54 pm: Loop 52: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 52: check=1;
+03/20/2013 07:18:54 pm: Loop 53: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 53: check=1;
+03/20/2013 07:18:54 pm: Loop 54: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 54: check=1;
+03/20/2013 07:18:54 pm: Loop 55: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 55: check=1;
+03/20/2013 07:18:54 pm: Loop 56: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 56: check=1;
+03/20/2013 07:18:54 pm: Loop 57: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 57: check=1;
+03/20/2013 07:18:54 pm: Loop 58: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 58: check=1;
+03/20/2013 07:18:54 pm: Loop 59: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 59: check=1;
+03/20/2013 07:18:54 pm: Loop 60: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 60: check=1;
+03/20/2013 07:18:54 pm: Loop 61: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 61: check=1;
+03/20/2013 07:18:54 pm: Loop 62: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 62: check=1;
+03/20/2013 07:18:54 pm: Loop 63: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 63: check=1;
+03/20/2013 07:18:54 pm: Loop 64: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 64: check=1;
+03/20/2013 07:18:54 pm: Loop 65: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 65: check=1;
+03/20/2013 07:18:54 pm: Loop 66: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 66: check=1;
+03/20/2013 07:18:54 pm: Loop 67: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 67: check=1;
+03/20/2013 07:18:54 pm: Loop 68: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 68: check=1;
+03/20/2013 07:18:54 pm: Loop 69: lastbID=18 ; bID=18;
+03/20/2013 07:18:54 pm: Loop 69: check=1;
+03/20/2013 07:18:54 pm: Loop 70: lastbID=18 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 70: check=2;
+03/20/2013 07:18:54 pm: Loop 71: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 71: check=1;
+03/20/2013 07:18:54 pm: Loop 72: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 72: check=1;
+03/20/2013 07:18:54 pm: Loop 73: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 73: check=1;
+03/20/2013 07:18:54 pm: Loop 74: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 74: check=1;
+03/20/2013 07:18:54 pm: Loop 75: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 75: check=1;
+03/20/2013 07:18:54 pm: Loop 76: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 76: check=1;
+03/20/2013 07:18:54 pm: Loop 77: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 77: check=1;
+03/20/2013 07:18:54 pm: Loop 78: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 78: check=1;
+03/20/2013 07:18:54 pm: Loop 79: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 79: check=1;
+03/20/2013 07:18:54 pm: Loop 80: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 80: check=1;
+03/20/2013 07:18:54 pm: Loop 81: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 81: check=1;
+03/20/2013 07:18:54 pm: Loop 82: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 82: check=1;
+03/20/2013 07:18:54 pm: Loop 83: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 83: check=1;
+03/20/2013 07:18:54 pm: Loop 84: lastbID=19 ; bID=19;
+03/20/2013 07:18:54 pm: Loop 84: check=1;
+03/20/2013 07:18:54 pm: Loop 85: lastbID=19 ; bID=20;
+03/20/2013 07:18:54 pm: Loop 85: check=2;
+03/20/2013 07:18:54 pm: Loop 86: lastbID=20 ; bID=20;
+03/20/2013 07:18:54 pm: Loop 86: check=1;
+03/20/2013 07:18:54 pm: Loop 87: lastbID=20 ; bID=20;
+03/20/2013 07:18:54 pm: Loop 87: check=1;
+03/20/2013 07:18:54 pm: Loop 88: lastbID=20 ; bID=20;
+03/20/2013 07:18:54 pm: Loop 88: check=1;
+03/20/2013 07:18:54 pm: Loop 89: lastbID=20 ; bID=21;
+03/20/2013 07:18:54 pm: Loop 89: check=2;
+03/20/2013 07:18:54 pm: Loop 90: lastbID=21 ; bID=21;
+03/20/2013 07:18:54 pm: Loop 90: check=1;
+03/20/2013 07:18:54 pm: Loop 91: lastbID=21 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 91: check=2;
+03/20/2013 07:18:54 pm: Loop 92: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 92: check=1;
+03/20/2013 07:18:54 pm: Loop 93: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 93: check=1;
+03/20/2013 07:18:54 pm: Loop 94: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 94: check=1;
+03/20/2013 07:18:54 pm: Loop 95: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 95: check=1;
+03/20/2013 07:18:54 pm: Loop 96: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 96: check=1;
+03/20/2013 07:18:54 pm: Loop 97: lastbID=22 ; bID=22;
+03/20/2013 07:18:54 pm: Loop 97: check=1;
+03/20/2013 07:18:54 pm: Loop 98: lastbID=22 ; bID=23;
+03/20/2013 07:18:54 pm: Loop 98: check=2;
+03/20/2013 07:18:54 pm: Loop 99: lastbID=23 ; bID=26;
+03/20/2013 07:18:54 pm: Loop 99: check=2;
+03/20/2013 07:18:54 pm: End while Loop;
+03/20/2013 07:18:58 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:58 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:58 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:58 pm: Query has run: <CALL USP_GetAccounts();>.
+03/20/2013 07:18:58 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:58 pm: Query has run: <CALL USP_GetCurrencies();>.
+03/20/2013 07:18:58 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:58 pm: Query has run: <CALL USP_GetPayees();>.
+03/20/2013 07:18:58 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:58 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:58 pm: Query has run: <CALL USP_GetCategories();>.
+03/20/2013 07:18:58 pm: ... Got dataset to return in json obj
+03/20/2013 07:18:58 pm: Get the dataset to return in json obj...
+03/20/2013 07:18:58 pm: Query has run: <CALL USP_GetCategories2();>.
+03/20/2013 07:18:58 pm: ... Got dataset to return in json obj
+03/20/2013 07:20:43 pm: Currency = <1>.
+03/20/2013 07:20:48 pm: Get the dataset to return in json obj...
+03/20/2013 07:20:48 pm: Get the dataset to return in json obj...
+03/20/2013 07:20:48 pm: Get the dataset to return in json obj...
+03/20/2013 07:20:48 pm: Query has run: <CALL USP_GetCurrencies();>.
+03/20/2013 07:20:48 pm: ... Got dataset to return in json obj
+03/20/2013 07:20:48 pm: Query has run: <CALL USP_GetAccounts();>.
+03/20/2013 07:20:48 pm: ... Got dataset to return in json obj
+03/20/2013 07:20:48 pm: Query has run: <CALL USP_GetPayees();>.
+03/20/2013 07:20:48 pm: ... Got dataset to return in json obj
+03/20/2013 07:20:48 pm: Get the dataset to return in json obj...
+03/20/2013 07:20:48 pm: Query has run: <CALL USP_GetCategories();>.
+03/20/2013 07:20:48 pm: ... Got dataset to return in json obj
+03/20/2013 07:20:48 pm: Get the dataset to return in json obj...
+03/20/2013 07:20:48 pm: Query has run: <CALL USP_GetCategories2();>.
+03/20/2013 07:20:48 pm: ... Got dataset to return in json obj

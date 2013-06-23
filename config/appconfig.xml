@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file is the Application config file
+-->
+
+<settings>
+    <globals>
+        <db>
+            <connection db_host="localhost" db_name="FinanceApp" db_user="root" db_pass="root"></connection>
+            <connection db_host="other" db_name="DB_NAME" db_user="user" db_pass="password"></connection>
+        </db>
+        <defaultCurrencyID>1</defaultCurrencyID>
+    </globals>     
+    <data_retrieval>
+        <!-- TypeID=1 - autocomplete -->
+        <config typeID="1">
+            <item>
+                <name>accounts</name>
+                <sqlSource>USP_GetAccounts</sqlSource>
+                <destinationID>#accountsList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>currencies</name>
+                <sqlSource>USP_GetCurrencies</sqlSource>
+                <destinationID>#currencyList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>transactionTypes</name>
+                <sqlSource>USP_GetTransactionTypes</sqlSource>
+                <destinationID>transactionTypeList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>categoriesLong</name>
+                <sqlSource>USP_GetCatsWithSubCats</sqlSource>
+                <destinationID>#catList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>categoriesShort</name>
+                <sqlSource>USP_GetCategories</sqlSource>
+                <destinationID>#catListOnly</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>subCategories</name>
+                <sqlSource>USP_GetSubCategories</sqlSource>
+                <destinationID>#subCatList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>payees</name>
+                <sqlSource>USP_GetPayees</sqlSource>
+                <destinationID>#payeeList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+            <item>
+                <name>intervals</name>
+                <sqlSource>USP_GetIntervals</sqlSource>
+                <destinationID>#intervalList</destinationID>
+                <returnType>array</returnType>
+                <cache>false</cache>
+                <TTL>3600000</TTL>
+            </item>
+        </config>
+        <!-- TypeID=2 - retrieve dataset -->
+        <config typeID="2">
+            
+        </config>
+        <!-- TypeID=3 - special functions -->
+        <config typeID="3">
+            
+        </config>
+    </data_config>
+</settings>

@@ -1,0 +1,17 @@
+04/23/2013 06:44:13 pm: CALL USP_GetPayees();
+04/23/2013 06:44:14 pm: CALL USP_GetCategories();
+04/23/2013 06:44:14 pm: CALL USP_GetCategories2();
+04/23/2013 06:44:14 pm: CALL USP_GetCurrencies();
+04/23/2013 06:44:14 pm: CALL USP_GetAccounts();
+04/23/2013 07:42:17 pm: CALL USP_GetAccounts();
+04/23/2013 07:42:17 pm: CALL USP_GetCurrencies();
+04/23/2013 07:42:17 pm: CALL USP_GetCategories2();
+04/23/2013 07:42:17 pm: CALL USP_GetPayees();
+04/23/2013 07:42:17 pm: CALL USP_GetCategories();
+04/23/2013 07:46:43 pm: CALL USP_InsertTransaction('2013-04-19','6','1','1','20','93','91','-3.28','2X Battery App');
+04/23/2013 07:46:43 pm: CALL USP_InsertTransaction('2013-04-19','6','1','1','20','93','91','-3.28','2X Battery App');
+04/23/2013 07:46:46 pm: CALL USP_GetAccounts();
+04/23/2013 07:46:46 pm: CALL USP_GetPayees();
+04/23/2013 07:46:46 pm: CALL USP_GetCategories2();
+04/23/2013 07:46:46 pm: CALL USP_GetCategories();
+04/23/2013 07:46:46 pm: CALL USP_GetCurrencies();

@@ -1,0 +1,73 @@
+07/20/2012 08:13:17 am: dates filters: start: and end:
+07/20/2012 08:13:17 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:13:18 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:18 am: query string=
+07/20/2012 08:13:18 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:18 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:18 am: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 08:13:28 am: dates filters: start:Select Start Date and end:Select End Date
+07/20/2012 08:13:28 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:13:29 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:29 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Euro+-+Cash+Wallet%3B+&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/20/2012 08:13:29 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:29 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:13:29 am: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 08:39:45 am: accountName: (Euro - Cash Wallet; ); 
+07/20/2012 08:39:45 am: dates filters: start:Select Start Date and end:Select End Date
+07/20/2012 08:39:45 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:39:45 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:39:45 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Euro+-+Cash+Wallet%3B+&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/20/2012 08:39:45 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:39:45 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:39:45 am: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 08:41:05 am: accountName: (Euro - Cash Wallet; ); 
+07/20/2012 08:41:05 am: dates filters: start:Select Start Date and end:Select End Date
+07/20/2012 08:41:05 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:41:05 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:41:05 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Euro+-+Cash+Wallet%3B+&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/20/2012 08:41:05 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:41:05 am: totalrows=3326;page=1,limit=20
+07/20/2012 08:41:05 am: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 08:41:11 am: accountName: (Euro - Cash Wallet); 
+07/20/2012 08:41:11 am: get accountID - ID=11
+07/20/2012 08:41:11 am: dates filters: start:Select Start Date and end:Select End Date
+07/20/2012 08:41:11 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:41:11 am: totalrows=880;page=1,limit=20
+07/20/2012 08:41:11 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Euro+-+Cash+Wallet&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/20/2012 08:41:11 am: totalrows=880;page=1,limit=20
+07/20/2012 08:41:11 am: totalrows=880;page=1,limit=20
+07/20/2012 08:41:11 am: totalrows=880;page=1,limit=20;startIndex=0
+07/20/2012 08:43:57 am: accountName: (Euro - Cash Wallet); 
+07/20/2012 08:43:57 am: get accountID - ID=11
+07/20/2012 08:43:57 am: dates filters: start:Select Start Date and end:Select End Date
+07/20/2012 08:43:57 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 08:43:57 am: totalrows=880;page=1,limit=20
+07/20/2012 08:43:57 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Euro+-+Cash+Wallet&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/20/2012 08:43:57 am: totalrows=880;page=1,limit=20
+07/20/2012 08:43:57 am: totalrows=880;page=1,limit=20
+07/20/2012 08:43:57 am: totalrows=880;page=1,limit=20;startIndex=0
+07/20/2012 05:00:58 pm: dates filters: start: and end:
+07/20/2012 05:00:58 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 05:00:58 pm: totalrows=2;page=1,limit=20
+07/20/2012 05:00:58 pm: query string=cid=2
+07/20/2012 05:00:58 pm: totalrows=2;page=1,limit=20
+07/20/2012 05:00:58 pm: totalrows=2;page=1,limit=20
+07/20/2012 05:00:58 pm: totalrows=2;page=1,limit=20;startIndex=0
+07/20/2012 05:00:58 pm: cSymbol=Fr.
+07/20/2012 05:01:05 pm: dates filters: start: and end:
+07/20/2012 05:01:05 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 05:01:05 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:05 pm: query string=cid=1
+07/20/2012 05:01:05 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:05 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:05 pm: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 05:01:05 pm: cSymbol=&euro
+07/20/2012 05:01:18 pm: dates filters: start: and end:
+07/20/2012 05:01:18 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/20/2012 05:01:18 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:18 pm: query string=cid=1
+07/20/2012 05:01:18 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:18 pm: totalrows=3326;page=1,limit=20
+07/20/2012 05:01:18 pm: totalrows=3326;page=1,limit=20;startIndex=0
+07/20/2012 05:01:18 pm: cSymbol=&euro;
+07/20/2012 05:07:16 pm: Query has run: <CALL USP_GetAccounts ()>.

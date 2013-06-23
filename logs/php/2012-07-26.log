@@ -1,0 +1,124 @@
+07/26/2012 09:26:57 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<2>. currency var=<2>.
+07/26/2012 09:26:57 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:26:57 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:26:57 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:26:57 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:26:58 am: Get the dataset to return in json obj...
+07/26/2012 09:26:58 am: Get the dataset to return in json obj...
+07/26/2012 09:26:58 am: Get the dataset to return in json obj...
+07/26/2012 09:26:58 am: Get the dataset to return in json obj...
+07/26/2012 09:26:58 am: Get the dataset to return in json obj...
+07/26/2012 09:26:58 am: Query has run: <CALL USP_GetCategories();>.
+07/26/2012 09:26:58 am: ... Got dataset to return in json obj
+07/26/2012 09:26:58 am: Query has run: <CALL USP_GetPayees();>.
+07/26/2012 09:26:58 am: ... Got dataset to return in json obj
+07/26/2012 09:26:58 am: Query has run: <CALL USP_GetCurrencies();>.
+07/26/2012 09:26:58 am: ... Got dataset to return in json obj
+07/26/2012 09:26:58 am: Query has run: <CALL USP_GetCategories2();>.
+07/26/2012 09:26:58 am: ... Got dataset to return in json obj
+07/26/2012 09:26:58 am: Query has run: <CALL USP_GetAccounts();>.
+07/26/2012 09:26:58 am: ... Got dataset to return in json obj
+07/26/2012 09:28:23 am: Amount value: 600. Preg_match_all result is <1>
+07/26/2012 09:29:11 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<2>. currency var=<2>.
+07/26/2012 09:29:11 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:29:11 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:29:11 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:29:11 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 09:29:11 am: Get the dataset to return in json obj...
+07/26/2012 09:29:11 am: Get the dataset to return in json obj...
+07/26/2012 09:29:11 am: Get the dataset to return in json obj...
+07/26/2012 09:29:11 am: Get the dataset to return in json obj...
+07/26/2012 09:29:11 am: Query has run: <CALL USP_GetCategories();>.
+07/26/2012 09:29:11 am: ... Got dataset to return in json obj
+07/26/2012 09:29:11 am: Query has run: <CALL USP_GetCategories2();>.
+07/26/2012 09:29:11 am: ... Got dataset to return in json obj
+07/26/2012 09:29:11 am: Get the dataset to return in json obj...
+07/26/2012 09:29:11 am: Query has run: <CALL USP_GetCurrencies();>.
+07/26/2012 09:29:11 am: Query has run: <CALL USP_GetPayees();>.
+07/26/2012 09:29:11 am: ... Got dataset to return in json obj
+07/26/2012 09:29:11 am: ... Got dataset to return in json obj
+07/26/2012 09:29:11 am: Query has run: <CALL USP_GetAccounts();>.
+07/26/2012 09:29:11 am: ... Got dataset to return in json obj
+07/26/2012 09:29:36 am: Amount value: 50. Preg_match_all result is <1>
+07/26/2012 09:29:42 am: Amount value: -50. Preg_match_all result is <1>
+07/26/2012 09:30:47 am: Amount value: -42. Preg_match_all result is <1>
+07/26/2012 09:31:14 am: Amount value: -20. Preg_match_all result is <1>
+07/26/2012 09:31:50 am: Amount value: -8,65. Preg_match_all result is <1>
+07/26/2012 09:32:04 am: Amount value: -5,2. Preg_match_all result is <1>
+07/26/2012 11:55:39 am: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+07/26/2012 11:55:39 am: Get the dataset to return in json obj...
+07/26/2012 11:55:39 am: Query has run: <CALL USP_GetAccounts();>.
+07/26/2012 11:55:39 am: ... Got dataset to return in json obj
+07/26/2012 11:55:39 am: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+07/26/2012 11:55:39 am: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 11:55:39 am: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 11:55:39 am: Get the dataset to return in json obj...
+07/26/2012 11:55:39 am: Get the dataset to return in json obj...
+07/26/2012 11:55:39 am: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+07/26/2012 11:55:39 am: Get the dataset to return in json obj...
+07/26/2012 11:55:39 am: Query has run: <CALL USP_GetPayees();>.
+07/26/2012 11:55:39 am: ... Got dataset to return in json obj
+07/26/2012 11:55:39 am: Query has run: <CALL USP_GetCategories2();>.
+07/26/2012 11:55:39 am: ... Got dataset to return in json obj
+07/26/2012 11:55:39 am: Get the dataset to return in json obj...
+07/26/2012 11:55:39 am: Query has run: <CALL USP_GetCategories();>.
+07/26/2012 11:55:39 am: ... Got dataset to return in json obj
+07/26/2012 11:55:39 am: Query has run: <CALL USP_GetCurrencies();>.
+07/26/2012 11:55:39 am: ... Got dataset to return in json obj
+07/26/2012 11:56:17 am: Amount value: 30. Preg_match_all result is <1>
+07/26/2012 12:47:07 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+07/26/2012 12:47:07 pm: Get the dataset to return in json obj...
+07/26/2012 12:47:07 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:47:07 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:47:07 pm: Query has run: <CALL USP_GetAccounts();>.
+07/26/2012 12:47:07 pm: ... Got dataset to return in json obj
+07/26/2012 12:47:07 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:47:07 pm: Get the dataset to return in json obj...
+07/26/2012 12:47:07 pm: Get the dataset to return in json obj...
+07/26/2012 12:47:07 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:47:07 pm: Query has run: <CALL USP_GetCurrencies();>.
+07/26/2012 12:47:07 pm: ... Got dataset to return in json obj
+07/26/2012 12:47:07 pm: Query has run: <CALL USP_GetPayees();>.
+07/26/2012 12:47:07 pm: ... Got dataset to return in json obj
+07/26/2012 12:47:07 pm: Get the dataset to return in json obj...
+07/26/2012 12:47:07 pm: Get the dataset to return in json obj...
+07/26/2012 12:47:07 pm: Query has run: <CALL USP_GetCategories();>.
+07/26/2012 12:47:07 pm: ... Got dataset to return in json obj
+07/26/2012 12:47:07 pm: Query has run: <CALL USP_GetCategories2();>.
+07/26/2012 12:47:07 pm: ... Got dataset to return in json obj
+07/26/2012 12:54:57 pm: Amount value: -155. Preg_match_all result is <1>
+07/26/2012 12:57:41 pm: Hit to <getData.php>. Type: <acc>. Currency in Post=<1>. currency var=<1>.
+07/26/2012 12:57:41 pm: Hit to <getData.php>. Type: <cat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:57:41 pm: Hit to <getData.php>. Type: <scat>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:57:41 pm: Hit to <getData.php>. Type: <payee>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:57:41 pm: Get the dataset to return in json obj...
+07/26/2012 12:57:41 pm: Get the dataset to return in json obj...
+07/26/2012 12:57:41 pm: Get the dataset to return in json obj...
+07/26/2012 12:57:41 pm: Get the dataset to return in json obj...
+07/26/2012 12:57:41 pm: Hit to <getData.php>. Type: <curr>. Currency in Post=<>. currency var=<1>.
+07/26/2012 12:57:41 pm: Query has run: <CALL USP_GetAccounts();>.
+07/26/2012 12:57:41 pm: ... Got dataset to return in json obj
+07/26/2012 12:57:41 pm: Get the dataset to return in json obj...
+07/26/2012 12:57:41 pm: Query has run: <CALL USP_GetPayees();>.
+07/26/2012 12:57:41 pm: ... Got dataset to return in json obj
+07/26/2012 12:57:41 pm: Query has run: <CALL USP_GetCategories();>.
+07/26/2012 12:57:41 pm: ... Got dataset to return in json obj
+07/26/2012 12:57:41 pm: Query has run: <CALL USP_GetCategories2();>.
+07/26/2012 12:57:41 pm: Query has run: <CALL USP_GetCurrencies();>.
+07/26/2012 12:57:41 pm: ... Got dataset to return in json obj
+07/26/2012 12:57:41 pm: ... Got dataset to return in json obj
+07/26/2012 12:57:56 pm: Amount value: -200. Preg_match_all result is <1>
+07/26/2012 01:16:52 pm: dates filters: start: and end:
+07/26/2012 01:16:52 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/26/2012 01:16:52 pm: totalrows=3343;page=1,limit=20
+07/26/2012 01:16:52 pm: query string=cid=1&
+07/26/2012 01:16:52 pm: totalrows=3343;page=1,limit=20
+07/26/2012 01:16:53 pm: totalrows=3343;page=1,limit=20
+07/26/2012 01:16:53 pm: totalrows=3343;page=1,limit=20;startIndex=0
+07/26/2012 02:44:34 pm: dates filters: start: and end:
+07/26/2012 02:44:34 pm: dates filters: start:1990-01-01 and end:2100-01-01
+07/26/2012 02:44:34 pm: totalrows=3343;page=1,limit=20
+07/26/2012 02:44:34 pm: query string=page=2&
+07/26/2012 02:44:34 pm: totalrows=3343;page=2,limit=20
+07/26/2012 02:44:34 pm: totalrows=3343;page=2,limit=20
+07/26/2012 02:44:34 pm: totalrows=3343;page=2,limit=20;startIndex=20

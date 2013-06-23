@@ -1,0 +1,27 @@
+07/23/2012 08:10:43 am: Amount value: -155. Preg_match_all result is <1>
+07/23/2012 08:11:31 am: Amount value: -210,6. Preg_match_all result is <1>
+07/23/2012 11:02:45 am: dates filters: start: and end:
+07/23/2012 11:02:45 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/23/2012 11:02:45 am: totalrows=3332;page=1,limit=20
+07/23/2012 11:02:45 am: query string=
+07/23/2012 11:02:45 am: totalrows=3332;page=1,limit=20
+07/23/2012 11:02:45 am: totalrows=3332;page=1,limit=20
+07/23/2012 11:02:45 am: totalrows=3332;page=1,limit=20;startIndex=0
+07/23/2012 11:02:50 am: get accountID - ID=17
+07/23/2012 11:02:50 am: dates filters: start:Select Start Date and end:Select End Date
+07/23/2012 11:02:50 am: dates filters: start:1990-01-01 and end:2100-01-01
+07/23/2012 11:02:50 am: totalrows=209;page=1,limit=20
+07/23/2012 11:02:50 am: query string=startDate=Select+Start+Date&endDate=Select+End+Date&accountName=Paypal&transactionType=Select+Type&category=Select+Category&payee=Select+Payee&submitForm=Apply+Filters
+07/23/2012 11:02:50 am: totalrows=209;page=1,limit=20
+07/23/2012 11:02:50 am: totalrows=209;page=1,limit=20
+07/23/2012 11:02:50 am: totalrows=209;page=1,limit=20;startIndex=0
+07/23/2012 11:06:28 am: Amount value: -2,95. Preg_match_all result is <1>
+07/23/2012 01:20:31 pm: Amount value: 11,51. Preg_match_all result is <1>
+07/23/2012 01:28:44 pm: Amount value: -4,4. Preg_match_all result is <1>
+07/23/2012 01:59:17 pm: Query has run: <CALL USP_GetPayees ()>.
+07/23/2012 05:44:56 pm: Get the dataset to return in json obj...
+07/23/2012 05:44:56 pm: Query has run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/23/2012 05:44:56 pm: ... Got dataset to return in json obj
+07/23/2012 05:47:03 pm: Get the dataset to return in json obj...
+07/23/2012 05:47:03 pm: Query has run: <CALL USP_InsertAccount (,'Enter account Name');>.
+07/23/2012 05:47:03 pm: ... Got dataset to return in json obj
